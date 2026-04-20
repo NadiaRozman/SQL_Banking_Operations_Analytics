@@ -304,7 +304,7 @@ These enhancements would extend the project from SQL-based analytics into a more
 
 ---
 
-## ▶️ How to Reproduce
+## ⚙️ Setup & Reproducibility
 
 ### Prerequisites
 
@@ -344,11 +344,13 @@ Charts will be saved to `assets/`.
 
 ---
 
-## 🔗 Connect
+### ✨ Created by Nadia Rozman | April 2026
 
-**Nadia Rozman**
+**🔗 Connect with me**
 - GitHub: [@NadiaRozman](https://github.com/NadiaRozman)
 - LinkedIn: [Nadia Rozman](https://www.linkedin.com/in/nadia-rozman-4b4887179/)
+
+**⭐ If you found this project helpful, please consider giving it a star!**
 
 ---
 
