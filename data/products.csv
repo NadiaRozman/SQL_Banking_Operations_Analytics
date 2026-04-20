@@ -1,0 +1,11 @@
+product_id,product_name,product_category,min_balance,interest_rate,annual_fee
+P001,Basic Savings Account,Savings,0,4.34,0
+P002,Premier Savings Account,Savings,500,4.95,0
+P003,Fixed Deposit 3M,Deposit,1000,1.84,200
+P004,Fixed Deposit 12M,Deposit,5000,1.11,200
+P005,Personal Loan,Loan,10000,5.85,0
+P006,Home Financing,Loan,50000,4.04,0
+P007,Classic Credit Card,Card,0,0.68,0
+P008,Platinum Credit Card,Card,0,1.9,120
+P009,Business Current Account,Current,1000,0.66,0
+P010,Digital Wallet,Digital,0,4.8,200

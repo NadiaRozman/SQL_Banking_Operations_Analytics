@@ -1,0 +1,2001 @@
+customer_id,full_name,age,gender,state,customer_segment,products_held,num_products,account_open_date,account_tenure_days,is_active,monthly_income_myr
+C00001,Allison Hill,47,F,Sarawak,Mass,P001|P003,2,2020-02-05,2262,1,4332
+C00002,Noah Rhodes,69,F,Sarawak,Mass,P002,1,2023-10-18,911,1,3469
+C00003,Angie Henderson,67,M,Pahang,Mass,P007,1,2025-09-21,207,1,4567
+C00004,Daniel Wagner,60,M,Penang,Affluent,P004|P002,2,2019-02-28,2604,1,22767
+C00005,Cristian Santos,35,M,Sarawak,Affluent,P008|P006,2,2025-04-25,356,1,12309
+C00006,Connie Lawrence,38,M,Johor,Mass Affluent,P002|P003,2,2018-09-10,2775,1,6755
+C00007,Abigail Shaffer,61,M,Penang,Mass Affluent,P006,1,2023-03-08,1135,1,12743
+C00008,Gina Moore,46,F,Penang,Mass,P010,1,2022-09-02,1322,1,4763
+C00009,Gabrielle Davis,62,F,Negeri Sembilan,Mass,P004,1,2021-10-09,1650,1,3089
+C00010,Ryan Munoz,46,M,Kuala Lumpur,Mass,P003|P009|P008|P001,4,2019-08-31,2420,1,4402
+C00011,Monica Herrera,71,F,Pahang,Mass Affluent,P007|P010,2,2024-05-31,685,1,6234
+C00012,Jamie Arnold,21,F,Sarawak,Mass Affluent,P009,1,2020-01-02,2296,1,6229
+C00013,Lisa Hensley,31,M,Sabah,Mass,P005|P009|P003|P010,4,2021-05-02,1810,1,3963
+C00014,Michele Williams,59,M,Negeri Sembilan,Mass,P003,1,2020-07-07,2109,1,1864
+C00015,Dylan Miller,28,M,Kuala Lumpur,Affluent,P005|P004|P001|P002,4,2025-12-28,109,1,7305
+C00016,Brian Ramirez,69,M,Sabah,Mass,P008,1,2025-06-07,313,1,2991
+C00017,Holly Wood,48,F,Kedah,Private Banking,P004|P005|P007|P006,4,2019-05-29,2514,0,25476
+C00018,Derek Zuniga,28,M,Negeri Sembilan,Mass,P001,1,2021-02-22,1879,1,4064
+C00019,Lisa Jackson,66,F,Kuala Lumpur,Mass Affluent,P001,1,2025-05-31,320,1,5336
+C00020,Carla Gray,63,M,Kedah,Mass,P010|P008,2,2023-02-01,1170,1,2221
+C00021,Margaret Hawkins DDS,27,F,Selangor,Mass,P007|P010,2,2024-01-28,809,1,6081
+C00022,Patty Perez,27,M,Penang,Mass,P002|P004,2,2018-12-18,2676,1,3364
+C00023,Ethan Adams,48,M,Selangor,Mass,P002|P008,2,2024-08-20,604,1,3728
+C00024,Tommy Walter,21,F,Penang,Private Banking,P004|P003|P007|P010,4,2020-02-23,2244,1,22056
+C00025,Matthew Foster,31,F,Johor,Mass,P005|P008|P010|P004,4,2025-07-20,270,1,3009
+C00026,Judy Baker,24,M,Negeri Sembilan,Mass Affluent,P006|P001,2,2023-10-08,921,1,7622
+C00027,Justin Baker,31,M,Penang,Mass,P003|P002,2,2020-04-02,2205,1,2434
+C00028,Stephanie Ross,36,F,Negeri Sembilan,Mass Affluent,P002,1,2019-10-27,2363,1,8362
+C00029,Zachary Hicks,37,F,Johor,Mass,P004|P005,2,2022-08-30,1325,1,2951
+C00030,Anthony Rodriguez,50,M,Kuala Lumpur,Mass,P002|P001|P008,3,2022-11-05,1258,1,3288
+C00031,Rebecca Henderson,37,M,Sarawak,Mass,P002,1,2020-07-14,2102,1,2950
+C00032,James Ferrell,55,F,Kuala Lumpur,Mass Affluent,P009|P001,2,2021-04-18,1824,0,14021
+C00033,Tricia Valencia,37,M,Sabah,Mass,P009,1,2024-09-13,580,1,3624
+C00034,Nathan Maldonado,66,F,Sabah,Mass,P005|P009,2,2023-11-06,892,0,2514
+C00035,Debra Davidson,26,M,Sabah,Mass Affluent,P001|P010|P006,3,2025-08-21,238,1,9778
+C00036,Jeffrey Chavez,56,M,Pahang,Mass Affluent,P002|P010,2,2021-04-03,1839,1,4782
+C00037,Sherri Baker,58,F,Selangor,Mass Affluent,P001|P005,2,2022-01-25,1542,0,7888
+C00038,Cassandra Gaines,64,F,Negeri Sembilan,Mass,P009,1,2023-11-08,890,1,1834
+C00039,Elizabeth Fowler,31,F,Perak,Private Banking,P007|P001|P003|P006,4,2023-07-22,999,1,22814
+C00040,Brittany Farmer,38,F,Penang,Mass,P007|P001,2,2023-06-05,1046,1,3901
+C00041,Paula Moreno,43,M,Perak,Mass,P004|P010|P001,3,2021-01-17,1915,1,4715
+C00042,Fred Smith,70,F,Selangor,Mass,P007|P009,2,2025-06-06,314,1,3866
+C00043,Sherry Decker,32,F,Perak,Mass Affluent,P001|P002|P007|P003,4,2023-04-13,1099,1,7041
+C00044,Anthony Humphrey,28,F,Selangor,Mass,P005|P001,2,2020-06-22,2124,1,3277
+C00045,Angelica Tucker,64,F,Kuala Lumpur,Mass Affluent,P004|P006,2,2020-03-03,2235,0,4370
+C00046,Philip Cannon,60,F,Sarawak,Mass,P005|P009|P010,3,2022-07-04,1382,1,2830
+C00047,John Pierce,56,F,Perak,Mass,P007|P003,2,2022-11-22,1241,1,3099
+C00048,Shane Henderson,40,F,Kedah,Mass,P010|P006,2,2026-03-16,31,1,5271
+C00049,Joshua Blair,53,F,Kuala Lumpur,Mass,P003|P002|P005,3,2023-10-24,905,1,4106
+C00050,Eric Carney,64,M,Kedah,Mass,P003|P001|P009,3,2023-07-29,992,1,1964
+C00051,Jessica Holmes,50,F,Perak,Mass,P004|P007,2,2025-05-23,328,1,4078
+C00052,Danny Morgan,65,M,Pahang,Mass,P002|P007|P004,3,2018-11-07,2717,1,3182
+C00053,Crystal Robinson,36,F,Kedah,Affluent,P003|P008,2,2019-12-16,2313,1,10542
+C00054,Mark Perez,48,F,Penang,Affluent,P003|P008|P009,3,2020-07-19,2097,1,16549
+C00055,Shannon Jones,70,F,Kuala Lumpur,Mass Affluent,P004|P005,2,2023-02-06,1165,1,10518
+C00056,Michael Lewis,38,M,Perak,Mass,P002|P003|P009,3,2023-07-31,990,1,5044
+C00057,Timothy Duncan,25,F,Selangor,Mass,P008,1,2023-10-23,906,1,2714
+C00058,Richard Aguirre,45,M,Sarawak,Affluent,P001|P007|P008,3,2021-07-01,1750,1,11989
+C00059,Brent Jordan,47,F,Penang,Mass,P010|P004,2,2021-11-01,1627,1,4089
+C00060,John Daniel,22,F,Johor,Mass,P007|P003,2,2020-10-05,2019,0,5123
+C00061,Victoria Garcia,22,M,Kedah,Affluent,P001|P002|P007,3,2020-03-21,2217,1,11297
+C00062,Gerald Hensley,45,F,Perak,Mass,P006|P007,2,2023-04-17,1095,1,3412
+C00063,Connor West,51,M,Selangor,Mass,P006|P004,2,2025-04-16,365,1,2472
+C00064,Donald Wright,33,M,Negeri Sembilan,Affluent,P004|P003|P008,3,2023-06-09,1042,0,8790
+C00065,Jessica Callahan,65,M,Johor,Mass,P010,1,2020-12-29,1934,0,4839
+C00066,Amber Kidd,58,F,Penang,Mass,P007,1,2024-12-30,472,1,5853
+C00067,Tracy House,61,M,Sarawak,Mass,P005|P002,2,2018-06-19,2858,1,3550
+C00068,Carol Tucker,44,F,Kuala Lumpur,Mass,P001|P007,2,2018-10-16,2739,1,5173
+C00069,James Brown,61,F,Negeri Sembilan,Affluent,P003|P007|P010,3,2022-02-23,1513,1,15162
+C00070,William Baker,70,F,Penang,Mass,P010|P005,2,2020-03-04,2234,1,2905
+C00071,Jordan Henderson,38,F,Selangor,Affluent,P008|P007,2,2025-03-28,384,1,15161
+C00072,Whitney Peters,32,F,Sabah,Mass,P005,1,2022-07-25,1361,0,6237
+C00073,Brittney Phillips,38,M,Perak,Mass Affluent,P004|P002,2,2018-05-06,2902,1,7241
+C00074,Lauren Daniels,65,M,Sabah,Mass,P008|P001,2,2023-07-07,1014,1,6296
+C00075,Amy Silva,36,F,Perak,Mass,P008|P009,2,2018-06-14,2863,0,1455
+C00076,Sarah Moore,42,M,Kuala Lumpur,Mass,P005|P010,2,2020-01-14,2284,1,4855
+C00077,Angela Lopez,28,F,Sabah,Mass Affluent,P003|P004|P009|P006,4,2022-09-02,1322,1,7559
+C00078,Megan Young,59,F,Penang,Mass,P004,1,2020-04-29,2178,1,3279
+C00079,Steve Sanchez,21,M,Pahang,Mass Affluent,P001,1,2022-10-26,1268,1,7571
+C00080,Lisa Barnes,61,F,Kedah,Affluent,P001|P005|P008,3,2024-10-16,547,1,6663
+C00081,Kelly Donovan,37,M,Negeri Sembilan,Affluent,P002|P007|P008,3,2025-08-19,240,1,12371
+C00082,Mike Allen,30,M,Kuala Lumpur,Mass,P005|P002,2,2025-08-10,249,1,4126
+C00083,Michael Evans,59,F,Kedah,Mass Affluent,P009|P007,2,2021-07-17,1734,1,12299
+C00084,Paul Jones,48,M,Penang,Mass,P010|P002,2,2019-08-11,2440,1,3037
+C00085,Zachary Ferrell,31,F,Kedah,Mass,P003|P001,2,2025-04-19,362,1,2744
+C00086,Daniel Baker,39,F,Kuala Lumpur,Mass,P005,1,2020-12-09,1954,1,3055
+C00087,Shirley Suarez,71,M,Pahang,Mass Affluent,P004|P007,2,2023-03-30,1113,1,10101
+C00088,Christopher Bass,38,F,Kedah,Affluent,P003|P005,2,2024-07-15,640,1,14989
+C00089,Lisa Archer,40,F,Kuala Lumpur,Mass Affluent,P009|P010|P008,3,2018-06-27,2850,1,6091
+C00090,Aimee Montoya,68,M,Negeri Sembilan,Mass,P002,1,2021-05-13,1799,1,4357
+C00091,Matthew Mcmillan,69,M,Kedah,Mass Affluent,P001,1,2025-12-23,114,1,7585
+C00092,Brian Rodriguez,38,F,Sarawak,Mass,P008|P002,2,2021-04-01,1841,1,5110
+C00093,Denise Jacobs,63,F,Sabah,Mass,P007,1,2022-08-10,1345,1,2848
+C00094,Christina Walters,69,F,Kuala Lumpur,Mass Affluent,P006|P005,2,2021-09-19,1670,0,6538
+C00095,John Whitehead,53,F,Selangor,Affluent,P009|P008,2,2021-09-04,1685,1,11647
+C00096,Anna Henderson,60,F,Pahang,Mass Affluent,P001|P004,2,2022-02-25,1511,1,4393
+C00097,Aaron Wise,49,F,Pahang,Affluent,P001|P004|P003,3,2022-12-24,1209,1,14819
+C00098,Deborah Figueroa,26,M,Kedah,Mass,P002|P008|P010,3,2021-08-19,1701,0,3989
+C00099,Jessica Smith,53,M,Kedah,Mass Affluent,P008|P010,2,2022-12-08,1225,1,7345
+C00100,Stephen Mckee,33,F,Sarawak,Affluent,P003|P002|P005,3,2021-11-27,1601,0,12307
+C00101,Sandra Aguilar,38,M,Kedah,Affluent,P005|P008,2,2020-07-07,2109,1,8141
+C00102,Cameron Parker,42,M,Penang,Mass Affluent,P008|P006,2,2022-05-04,1443,1,6328
+C00103,Rebecca Valencia,70,F,Perak,Mass,P008,1,2023-08-04,986,0,3229
+C00104,Christine Wright,30,F,Kuala Lumpur,Mass,P009,1,2018-11-24,2700,1,2750
+C00105,Richard Henson,27,M,Kuala Lumpur,Mass,P003|P007,2,2021-04-09,1833,1,3441
+C00106,Marc Moore,42,F,Pahang,Mass Affluent,P002,1,2023-03-28,1115,1,8446
+C00107,Sharon Cherry,61,M,Sabah,Mass Affluent,P009|P001|P002,3,2022-08-28,1327,0,14188
+C00108,Sierra Johnson,48,F,Selangor,Private Banking,P002|P008|P003|P006,4,2025-03-12,400,1,38604
+C00109,Evelyn Galvan,39,F,Negeri Sembilan,Mass,P004|P009,2,2025-07-31,259,1,3984
+C00110,Sharon Cochran,31,F,Negeri Sembilan,Mass,P007|P004,2,2024-03-10,767,1,3547
+C00111,Richard Rodriguez,61,F,Sabah,Mass,P001,1,2021-01-14,1918,1,1860
+C00112,Shannon Walker,25,F,Perak,Mass,P010,1,2024-06-08,677,1,3607
+C00113,Julia Torres,40,M,Penang,Mass,P008,1,2021-01-31,1901,1,3719
+C00114,Crystal Johnson,57,F,Selangor,Mass,P001|P007,2,2022-03-08,1500,1,8623
+C00115,Garrett Lin,70,F,Sabah,Mass Affluent,P010,1,2018-07-08,2839,1,6855
+C00116,Diana May,59,M,Kuala Lumpur,Affluent,P004|P005,2,2023-08-18,972,0,14847
+C00117,William Herrera,23,M,Kuala Lumpur,Mass,P010|P006,2,2018-12-17,2677,0,3597
+C00118,Ashley Waller,68,F,Pahang,Mass,P009,1,2022-07-18,1368,1,2419
+C00119,Victor Baker,31,M,Kedah,Mass,P008|P005|P006,3,2023-02-25,1146,0,5432
+C00120,Jeffrey Chandler,69,F,Selangor,Private Banking,P007|P009|P006|P001,4,2024-08-18,606,1,47249
+C00121,Larry Dixon,50,F,Kuala Lumpur,Mass,P005|P007,2,2024-10-27,536,1,4802
+C00122,Kenneth Scott,22,F,Sabah,Mass Affluent,P006|P004|P002,3,2020-12-02,1961,1,5333
+C00123,April Frost,29,M,Kuala Lumpur,Mass,P008,1,2024-11-25,507,1,5949
+C00124,Michelle Harmon,29,F,Negeri Sembilan,Mass,P009,1,2020-03-07,2231,1,2229
+C00125,Helen Jones,47,M,Sarawak,Mass Affluent,P010|P007|P005,3,2024-06-23,662,1,9004
+C00126,Erin Edwards,36,F,Selangor,Affluent,P006|P009,2,2021-03-22,1851,1,28758
+C00127,Michelle Evans,28,F,Penang,Affluent,P002|P004|P001|P008,4,2024-01-30,807,0,9446
+C00128,Jason Powell,34,F,Johor,Mass,P004|P010|P009,3,2019-11-17,2342,1,2986
+C00129,Cameron Fisher,21,M,Kuala Lumpur,Mass,P003|P009|P005|P007,4,2019-07-11,2471,1,3770
+C00130,Megan Orr,29,M,Sabah,Mass,P004|P006|P001,3,2025-12-02,135,1,3053
+C00131,Elizabeth Kelley,54,F,Pahang,Mass,P008,1,2021-06-27,1754,1,2116
+C00132,Dustin Jordan,53,F,Selangor,Mass,P009|P005,2,2021-02-20,1881,1,3729
+C00133,Mary Marshall,46,M,Kuala Lumpur,Mass,P008,1,2020-11-02,1991,1,2510
+C00134,Daniel Kennedy,25,F,Perak,Mass,P010|P009,2,2024-07-18,637,0,4297
+C00135,Rebecca Jackson,39,M,Perak,Mass,P002|P010,2,2020-04-04,2203,1,2639
+C00136,Jose Schultz,47,F,Perak,Mass,P007|P002,2,2023-08-25,965,1,6263
+C00137,Robert Potter,44,M,Kuala Lumpur,Private Banking,P008|P002|P009,3,2023-05-08,1074,1,27608
+C00138,Courtney Gonzalez,72,F,Kuala Lumpur,Mass,P009,1,2022-01-11,1556,1,3253
+C00139,David Alvarez,69,F,Kuala Lumpur,Mass,P001|P005|P009,3,2018-09-30,2755,1,4840
+C00140,Angel Perry,30,F,Pahang,Mass Affluent,P002,1,2023-10-28,901,1,4766
+C00141,Cheyenne Horton,57,M,Negeri Sembilan,Mass,P009|P010,2,2023-01-31,1171,0,3943
+C00142,David Douglas Jr.,38,F,Sarawak,Mass,P005,1,2018-06-07,2870,1,5753
+C00143,Patricia Rodriguez,57,M,Pahang,Mass Affluent,P001,1,2024-08-08,616,1,4177
+C00144,Christopher Rubio,50,M,Selangor,Mass,P006,1,2021-07-02,1749,1,3884
+C00145,Amber Wright,24,F,Negeri Sembilan,Mass Affluent,P007,1,2019-04-13,2560,1,8030
+C00146,Joyce Solis,34,M,Sabah,Mass Affluent,P007,1,2023-02-23,1148,1,9640
+C00147,Victoria Larson,52,F,Negeri Sembilan,Mass,P004,1,2019-07-23,2459,1,2362
+C00148,Stephanie Salazar,40,M,Kedah,Affluent,P005|P010|P006|P001,4,2023-12-01,867,1,8416
+C00149,Kathy Rivas,29,F,Kuala Lumpur,Mass,P009|P010,2,2024-03-28,749,1,4371
+C00150,Stephanie Manning,48,F,Sabah,Mass,P006|P007|P009,3,2025-09-25,203,1,4040
+C00151,David Wright,41,F,Kuala Lumpur,Mass,P008|P006|P002,3,2025-12-22,115,1,3975
+C00152,Pamela Boyd,46,F,Penang,Mass,P005,1,2019-08-09,2442,1,4110
+C00153,Denise Jones,25,M,Sarawak,Mass,P009,1,2024-04-28,718,1,2870
+C00154,Devon Flores,30,M,Negeri Sembilan,Mass,P004,1,2018-12-21,2673,1,3949
+C00155,Brenda Hall,25,F,Sarawak,Mass,P008|P010|P009,3,2018-11-10,2714,1,4034
+C00156,Michelle Brown,51,M,Sarawak,Mass,P005,1,2025-06-11,309,1,2836
+C00157,Joshua Perry,50,M,Kuala Lumpur,Mass,P005,1,2022-09-23,1301,1,6995
+C00158,Jason Stein,45,M,Sarawak,Mass,P001|P008,2,2020-07-10,2106,1,4298
+C00159,Melissa Gates,30,M,Penang,Private Banking,P006|P002|P003,3,2020-08-02,2083,1,23934
+C00160,Jamie Smith,54,F,Perak,Mass,P006,1,2021-04-13,1829,1,4582
+C00161,Paul Castaneda,64,M,Pahang,Mass Affluent,P006|P002|P010,3,2022-06-01,1415,1,5213
+C00162,Jennifer Adkins,37,F,Kuala Lumpur,Mass Affluent,P010|P003,2,2023-01-09,1193,1,9657
+C00163,Lindsey Walker,43,M,Sabah,Mass,P007|P003,2,2024-08-15,609,1,5462
+C00164,Jeffrey Johnson,71,M,Perak,Mass,P009,1,2018-12-29,2665,1,2732
+C00165,Michael Powell,44,M,Johor,Mass,P006|P008|P004|P002,4,2026-01-02,104,1,5101
+C00166,John Anderson,53,M,Negeri Sembilan,Mass Affluent,P009|P001|P006,3,2025-01-27,444,1,8472
+C00167,Alyssa Long,32,F,Penang,Affluent,P003|P008|P001|P004,4,2024-05-22,694,0,17814
+C00168,Alyssa Day,39,F,Kedah,Mass Affluent,P004|P009|P010,3,2019-05-13,2530,0,14241
+C00169,Joel Williams,44,F,Perak,Mass Affluent,P008|P010,2,2024-01-13,824,1,6729
+C00170,Daniel Murphy,31,F,Sarawak,Affluent,P003|P005|P001|P006,4,2021-07-07,1744,1,10262
+C00171,Jamie Walton,66,F,Pahang,Affluent,P005|P002|P003|P008,4,2025-01-21,450,1,9786
+C00172,Darlene Miller,26,M,Perak,Affluent,P008|P006,2,2021-04-21,1821,1,10041
+C00173,Joshua Cooke,44,M,Sarawak,Mass,P006|P004|P001|P003,4,2020-07-30,2086,1,3544
+C00174,Matthew Harrington,23,M,Kuala Lumpur,Mass,P003|P008|P009,3,2024-08-31,593,1,4103
+C00175,Nicole Herring,30,M,Sabah,Mass,P009|P007,2,2023-10-16,913,1,4011
+C00176,Alex Hernandez,24,M,Kuala Lumpur,Mass,P010|P008,2,2024-11-03,529,1,4864
+C00177,Michael Elliott,59,M,Sabah,Mass,P010|P004,2,2020-08-08,2077,1,3658
+C00178,Michael Wang,43,F,Kuala Lumpur,Mass,P002|P009,2,2019-04-25,2548,0,6056
+C00179,Lawrence Adkins,53,F,Selangor,Mass Affluent,P001|P007,2,2020-02-09,2258,1,6683
+C00180,Robert Oconnell,37,F,Penang,Mass Affluent,P002,1,2022-01-08,1559,1,18997
+C00181,Alexander Collins,27,M,Sarawak,Mass Affluent,P006|P003,2,2019-03-01,2603,1,9127
+C00182,Tina Sanders,32,M,Kedah,Affluent,P008|P003|P009,3,2019-01-01,2662,1,9897
+C00183,Angela Vaughn,23,F,Sabah,Mass Affluent,P006|P005|P007,3,2023-12-13,855,1,5040
+C00184,Ashley Barton,33,M,Sarawak,Mass,P001|P006|P005,3,2018-12-15,2679,1,4311
+C00185,Lindsay Martinez,68,F,Sarawak,Mass,P006|P003|P008|P010,4,2021-09-21,1668,0,3367
+C00186,Dr. Hannah Patterson,38,F,Sarawak,Affluent,P002|P007|P003,3,2020-05-21,2156,1,17153
+C00187,Jonathan Peterson,63,F,Sarawak,Mass,P007|P003,2,2022-07-13,1373,1,4297
+C00188,Samantha Garcia,60,F,Sarawak,Private Banking,P001|P002,2,2022-04-03,1474,1,35402
+C00189,Madison Poole,31,M,Johor,Private Banking,P010|P008,2,2018-08-04,2812,1,27001
+C00190,Jessica Gross,44,F,Sarawak,Mass,P001|P003|P008,3,2018-12-22,2672,1,2143
+C00191,Debra Morton,57,F,Penang,Mass,P006,1,2025-05-07,344,0,3114
+C00192,Karen Graham,68,F,Sabah,Mass,P009|P002,2,2025-12-01,136,1,4913
+C00193,Debra Christian,60,M,Kuala Lumpur,Mass,P008|P004|P002,3,2023-10-21,908,1,3924
+C00194,Angelica Keith,26,F,Sabah,Affluent,P006|P010|P002|P005,4,2021-03-20,1853,1,8639
+C00195,John Bishop,61,M,Penang,Mass,P004,1,2018-05-10,2898,1,3868
+C00196,Allen Rosales,71,F,Kedah,Mass,P010,1,2023-07-22,999,1,4167
+C00197,Daniel Salinas,29,F,Kedah,Mass Affluent,P005,1,2020-01-09,2289,1,5381
+C00198,Spencer Haynes,57,F,Johor,Mass,P002|P008|P009|P006,4,2021-08-13,1707,1,3842
+C00199,Adam Vaughan,61,M,Pahang,Mass Affluent,P003|P007|P001,3,2020-01-10,2288,1,7483
+C00200,Nathan Freeman,31,F,Kuala Lumpur,Mass,P006|P009,2,2024-05-12,704,1,2441
+C00201,Melissa Brewer,56,M,Pahang,Mass,P010|P009,2,2019-02-01,2631,1,4127
+C00202,Ricky Davis II,58,M,Selangor,Mass,P010|P006,2,2019-07-28,2454,1,4431
+C00203,Elizabeth Perkins,70,M,Kedah,Mass Affluent,P010|P007,2,2019-01-06,2657,0,10711
+C00204,Joseph Coleman,39,F,Sabah,Mass Affluent,P004,1,2020-02-03,2264,1,10602
+C00205,Erin Warner,24,F,Negeri Sembilan,Mass,P008|P004,2,2018-06-27,2850,1,2248
+C00206,David Martinez,67,F,Pahang,Private Banking,P007|P003,2,2022-08-18,1337,1,26154
+C00207,Bryan Herrera,36,M,Kuala Lumpur,Mass,P004,1,2022-08-18,1337,1,4360
+C00208,Cathy Robinson,60,M,Kedah,Mass,P003|P006|P009|P002,4,2021-11-25,1603,0,4358
+C00209,Dr. William Warren,52,M,Penang,Affluent,P002|P007|P008,3,2020-12-21,1942,1,15999
+C00210,Brian Lee,24,M,Kuala Lumpur,Mass,P008|P005,2,2025-08-30,229,1,14023
+C00211,Christopher Smith,67,M,Negeri Sembilan,Mass,P001|P007,2,2023-03-30,1113,1,4446
+C00212,Denise Mccann,56,F,Negeri Sembilan,Mass,P008,1,2022-02-22,1514,1,5418
+C00213,Melissa Martinez,29,F,Johor,Private Banking,P006|P009,2,2024-11-16,516,1,50711
+C00214,Katherine Salas,46,F,Kedah,Mass,P003,1,2020-07-01,2115,1,4573
+C00215,Julie Alexander,59,M,Perak,Affluent,P010|P006,2,2024-07-15,640,0,11964
+C00216,Anthony Everett,58,F,Selangor,Mass,P009|P008|P005,3,2022-11-08,1255,1,4749
+C00217,Rodney Morales,28,M,Selangor,Private Banking,P001|P008|P005,3,2018-08-27,2789,1,27709
+C00218,Mark Brown,54,M,Selangor,Mass Affluent,P007|P003,2,2024-04-18,728,1,6749
+C00219,Justin Torres,28,F,Penang,Mass,P007|P003,2,2018-05-09,2899,1,3072
+C00220,Bailey Duran DDS,51,F,Kedah,Affluent,P001|P003|P004,3,2019-05-09,2534,1,13748
+C00221,Courtney Mills,32,F,Negeri Sembilan,Mass,P009|P006,2,2022-09-09,1315,1,8186
+C00222,Jeremy Dalton,38,F,Penang,Mass Affluent,P005,1,2023-06-12,1039,1,3814
+C00223,Elizabeth Oliver DDS,41,M,Negeri Sembilan,Mass,P005|P010,2,2020-09-22,2032,1,4629
+C00224,Theresa Clark,46,M,Sarawak,Affluent,P003|P005|P001|P010,4,2021-12-13,1585,0,7597
+C00225,Matthew Moore,37,F,Pahang,Mass Affluent,P009,1,2018-11-08,2716,1,6216
+C00226,Benjamin Smith,27,M,Penang,Mass Affluent,P004|P001,2,2024-09-01,592,1,10734
+C00227,Kirk Carter,42,M,Pahang,Mass Affluent,P003,1,2021-07-29,1722,0,7499
+C00228,Michael Warner,47,F,Sarawak,Mass Affluent,P008|P010|P004,3,2024-06-09,676,1,5028
+C00229,Michael Bradshaw,70,M,Perak,Mass,P009|P001,2,2025-07-18,272,0,2835
+C00230,Lori Guerrero,23,F,Selangor,Private Banking,P008|P003,2,2024-03-27,750,1,46067
+C00231,Jessica Stephens,59,F,Sabah,Mass,P005|P008|P009|P002,4,2019-11-03,2356,1,2820
+C00232,Susan Serrano,42,M,Sarawak,Mass,P005|P003,2,2024-12-11,491,1,3928
+C00233,Christopher Parker,64,F,Pahang,Mass Affluent,P007,1,2019-11-04,2355,1,7450
+C00234,Laura Roberts,63,F,Perak,Mass,P008|P006|P004|P001,4,2021-09-18,1671,1,2898
+C00235,Michael Lyons,42,F,Penang,Mass,P001|P005,2,2023-03-20,1123,1,7711
+C00236,Kathryn Snyder,50,M,Sabah,Mass,P009|P005,2,2024-11-18,514,1,4545
+C00237,Andrew Reynolds,35,F,Pahang,Private Banking,P008|P006|P007,3,2023-09-25,934,1,17876
+C00238,David Davis,69,F,Kuala Lumpur,Mass,P002|P009|P008,3,2023-10-05,924,0,3886
+C00239,Sara Johnston,24,F,Pahang,Affluent,P004|P009|P003|P002,4,2024-12-13,489,1,10598
+C00240,Yvonne Chambers,34,M,Kedah,Mass Affluent,P009|P008,2,2018-07-31,2816,1,9881
+C00241,Andrew Avila,50,F,Sabah,Mass Affluent,P005|P001,2,2021-07-20,1731,1,5556
+C00242,Matthew Moon,58,M,Kuala Lumpur,Mass,P002|P009,2,2023-10-07,922,0,3498
+C00243,Kevin Walters,23,F,Sarawak,Mass,P003,1,2020-11-30,1963,0,4345
+C00244,Brandon Bailey MD,49,F,Kuala Lumpur,Affluent,P007|P002|P003|P006,4,2021-12-02,1596,1,18088
+C00245,Shannon Rivera,46,M,Sabah,Mass,P004|P001,2,2020-03-08,2230,1,2392
+C00246,Donna Landry,48,M,Sabah,Mass,P004|P008|P006,3,2020-02-07,2260,1,3239
+C00247,Krista Gibson,23,M,Kuala Lumpur,Affluent,P001|P004|P009,3,2024-12-10,492,1,11314
+C00248,Frank Cordova,59,F,Penang,Mass Affluent,P004|P001|P007,3,2021-03-15,1858,1,5833
+C00249,Jose Travis,29,F,Negeri Sembilan,Mass,P010,1,2025-07-29,261,1,6754
+C00250,Kimberly Gutierrez,41,F,Sabah,Mass,P009|P004|P007,3,2018-09-01,2784,1,4195
+C00251,Isaiah Avila,68,M,Sarawak,Affluent,P007|P009|P008,3,2019-07-29,2453,0,8593
+C00252,Olivia Harris,45,F,Johor,Mass Affluent,P007,1,2018-09-06,2779,1,10110
+C00253,Tanya Kim,69,F,Johor,Mass,P004,1,2024-02-23,783,1,7652
+C00254,Barbara Dudley,56,F,Penang,Mass,P009|P003,2,2025-07-24,266,1,5226
+C00255,Cynthia Moore,62,M,Selangor,Mass,P006|P002,2,2022-07-04,1382,1,2139
+C00256,Kristen Davis,59,F,Penang,Mass Affluent,P004|P009|P010,3,2018-08-27,2789,1,6189
+C00257,Susan Murray MD,40,F,Penang,Private Banking,P004|P002,2,2022-06-23,1393,1,56580
+C00258,Kathleen Moran,34,F,Perak,Mass,P006,1,2018-04-26,2912,1,2842
+C00259,Denise Davenport,43,F,Kuala Lumpur,Mass,P008,1,2018-12-07,2687,1,4253
+C00260,Mrs. Kristen Reyes,69,M,Johor,Affluent,P006|P010|P007|P001,4,2020-12-10,1953,1,17520
+C00261,Katie Suarez,58,F,Penang,Mass Affluent,P003|P004,2,2020-01-02,2296,1,5301
+C00262,Desiree Tyler,52,F,Kedah,Mass Affluent,P006|P005|P008,3,2023-06-15,1036,1,7181
+C00263,Timothy Romero,31,M,Pahang,Mass,P003|P009,2,2022-04-05,1472,1,1171
+C00264,Diane Evans,63,M,Kuala Lumpur,Mass,P003,1,2025-05-17,334,1,2544
+C00265,Yvonne Burns,34,F,Kedah,Mass,P010,1,2026-02-08,67,1,3333
+C00266,Joshua Reed,56,F,Selangor,Mass,P005,1,2020-03-29,2209,1,2353
+C00267,Kimberly Gibson,64,M,Penang,Mass,P003|P002|P009,3,2018-05-20,2888,1,6447
+C00268,Colin Terry,37,F,Perak,Affluent,P007|P002,2,2020-04-21,2186,1,8099
+C00269,Cynthia Rowe,65,M,Perak,Mass,P002|P001,2,2023-06-25,1026,1,3121
+C00270,Patrick Thornton,51,M,Kedah,Mass,P003,1,2020-01-05,2293,1,3811
+C00271,Jasmin Alvarado,71,M,Negeri Sembilan,Mass,P002|P009|P001|P010,4,2018-12-23,2671,1,6030
+C00272,Veronica Simpson,25,M,Johor,Mass Affluent,P009,1,2025-09-08,220,0,4436
+C00273,Jonathan Lawrence,22,M,Negeri Sembilan,Private Banking,P007|P002|P005,3,2022-09-06,1318,1,54563
+C00274,Shelly Alexander,64,F,Selangor,Affluent,P003|P002,2,2021-11-05,1623,1,13408
+C00275,Joyce Bowen,25,M,Sabah,Mass,P010|P007|P006,3,2023-08-10,980,1,2582
+C00276,Matthew Moore,52,M,Negeri Sembilan,Mass,P007|P010,2,2021-02-26,1875,1,4280
+C00277,Wayne Morgan,70,M,Perak,Mass Affluent,P002|P010|P005,3,2025-03-31,381,1,7861
+C00278,Marie Christian,30,M,Selangor,Mass Affluent,P002,1,2019-02-06,2626,0,5943
+C00279,Shannon James,44,M,Perak,Mass Affluent,P002,1,2021-03-22,1851,1,7513
+C00280,Nathan Malone,53,M,Negeri Sembilan,Mass,P006,1,2019-12-27,2302,1,3182
+C00281,Amanda Jones,45,M,Negeri Sembilan,Mass,P002|P009,2,2022-07-28,1358,1,3789
+C00282,Tammie Bright,45,F,Johor,Mass,P005,1,2018-07-10,2837,1,4591
+C00283,Jessica Garcia,38,F,Penang,Mass,P002|P006,2,2021-05-02,1810,1,6343
+C00284,Shelia Wallace,59,M,Perak,Mass Affluent,P003|P005,2,2020-08-25,2060,1,4754
+C00285,Stephanie Williams,45,M,Sabah,Affluent,P006|P007,2,2019-04-03,2570,1,28185
+C00286,Elaine Brooks,33,F,Sabah,Mass,P007,1,2018-05-31,2877,1,1839
+C00287,Joseph Knight,52,F,Sarawak,Private Banking,P006|P007|P005|P009,4,2019-02-10,2622,1,34437
+C00288,Carolyn Miller,33,F,Penang,Mass Affluent,P009|P001,2,2019-11-20,2339,1,9008
+C00289,Lisa Allen,65,F,Penang,Mass,P007|P008|P003,3,2022-12-10,1223,1,4017
+C00290,Briana Murray,66,F,Negeri Sembilan,Mass,P008,1,2024-06-24,661,1,2928
+C00291,David Smith,65,M,Kuala Lumpur,Mass,P006,1,2020-07-11,2105,1,3385
+C00292,Stephanie Byrd,63,F,Perak,Mass,P001|P007,2,2018-11-01,2723,1,3064
+C00293,Jeremy Reed,37,F,Sarawak,Mass,P009|P004,2,2025-02-07,433,1,2962
+C00294,Margaret Coleman,58,F,Kuala Lumpur,Mass Affluent,P001,1,2018-08-03,2813,1,9871
+C00295,Ryan Gonzalez,28,F,Penang,Affluent,P006|P005|P010,3,2025-03-31,381,1,15138
+C00296,John Young,51,M,Sabah,Mass,P008|P006,2,2022-04-21,1456,1,2857
+C00297,Laura Haney,22,M,Sarawak,Affluent,P003|P004|P010,3,2024-12-01,501,1,18304
+C00298,William Barrett,35,F,Selangor,Mass Affluent,P003|P007,2,2021-01-10,1922,1,8165
+C00299,Keith Jennings,49,M,Sabah,Mass Affluent,P004,1,2023-12-30,838,1,9745
+C00300,Amber Obrien,57,M,Kedah,Mass,P003|P006|P009,3,2025-07-04,286,1,4539
+C00301,Tanner Mitchell DDS,52,F,Negeri Sembilan,Mass,P010|P007,2,2018-09-08,2777,1,2724
+C00302,Heather Fields,50,F,Kuala Lumpur,Mass Affluent,P005|P002|P003,3,2022-04-06,1471,1,6027
+C00303,Megan Le,32,F,Negeri Sembilan,Mass,P007,1,2024-11-23,509,1,4729
+C00304,Sara Fuller,48,M,Kedah,Mass,P003|P009,2,2021-11-27,1601,1,4508
+C00305,Maria Parker,41,M,Penang,Affluent,P006|P001|P008,3,2024-02-10,796,1,13262
+C00306,Kevin Oconnor,53,F,Kedah,Mass Affluent,P008|P007,2,2019-11-29,2330,1,7639
+C00307,Edward Burgess,22,F,Penang,Mass Affluent,P001,1,2019-11-14,2345,1,11466
+C00308,Carlos Ryan,70,M,Negeri Sembilan,Mass,P008|P009,2,2024-04-28,718,1,2960
+C00309,Kiara Mcintyre,44,F,Kuala Lumpur,Mass,P008|P009|P004,3,2020-02-13,2254,1,4409
+C00310,Dawn Summers,69,F,Kuala Lumpur,Mass,P001|P008|P005,3,2018-11-17,2707,1,3392
+C00311,Dr. Paul Morgan,70,F,Johor,Affluent,P010|P006,2,2024-11-22,510,1,12380
+C00312,Victor Taylor,34,F,Sabah,Affluent,P009|P005|P003,3,2023-11-22,876,1,19625
+C00313,Shannon Ramsey,53,M,Sabah,Private Banking,P002|P003|P007,3,2023-03-18,1125,1,48479
+C00314,Tracy Ballard,65,F,Kedah,Affluent,P006|P004,2,2024-10-14,549,1,17760
+C00315,Richard Smith,38,M,Perak,Mass Affluent,P002,1,2019-02-12,2620,1,11579
+C00316,Jordan Chambers,65,M,Kuala Lumpur,Affluent,P008|P006,2,2023-02-02,1169,1,13458
+C00317,Lauren Carson,61,F,Penang,Mass Affluent,P002,1,2021-01-25,1907,0,9309
+C00318,Ashley Hall,52,F,Sarawak,Mass,P006|P009|P003,3,2023-11-01,897,0,3266
+C00319,Stephen Hoffman,23,M,Kedah,Mass,P008|P001|P002,3,2025-08-31,228,1,4078
+C00320,Connie Brown,33,F,Sabah,Private Banking,P005|P003|P010|P001,4,2021-05-30,1782,1,34698
+C00321,Susan Turner,62,M,Perak,Mass,P005,1,2018-10-04,2751,1,3767
+C00322,Charles Shah,27,F,Selangor,Mass,P003|P004,2,2018-04-26,2912,1,4484
+C00323,Johnathan Davis,28,M,Perak,Private Banking,P003|P008|P002,3,2022-05-10,1437,1,27272
+C00324,Brandy Chavez,27,M,Kuala Lumpur,Mass,P003|P007|P010,3,2025-01-22,449,1,7573
+C00325,Natalie Bautista,60,F,Negeri Sembilan,Mass Affluent,P004|P003,2,2026-02-11,64,1,5156
+C00326,Patrick Moore,26,F,Perak,Affluent,P002|P007,2,2023-10-10,919,1,8734
+C00327,Brett Burns,36,F,Selangor,Mass,P009,1,2024-08-22,602,1,5461
+C00328,Trevor Johnson,40,F,Selangor,Mass,P004|P007,2,2018-10-29,2726,1,4803
+C00329,Jeremy Sampson,52,M,Pahang,Mass,P010,1,2023-07-11,1010,0,4530
+C00330,Ariana Jennings,44,F,Pahang,Affluent,P010|P007,2,2026-01-27,79,1,16646
+C00331,Vanessa Howard,70,M,Selangor,Mass,P001|P005,2,2020-12-04,1959,0,3625
+C00332,Colton Martinez,53,F,Kuala Lumpur,Mass,P007|P010,2,2021-09-29,1660,1,2660
+C00333,Jordan Bates,60,M,Johor,Mass,P002,1,2020-03-06,2232,1,3739
+C00334,Linda Smith,58,M,Selangor,Mass Affluent,P002|P005|P007,3,2021-10-29,1630,1,5785
+C00335,Dana Martinez,28,M,Selangor,Mass,P005|P003,2,2021-05-03,1809,1,5122
+C00336,Andrea Hubbard,21,F,Johor,Mass,P009|P010|P005|P002,4,2018-05-05,2903,1,3458
+C00337,Daniel Kane,67,M,Sabah,Affluent,P001|P006|P007|P003,4,2023-03-13,1130,1,10007
+C00338,Charles Lester,61,F,Negeri Sembilan,Mass,P006|P001,2,2019-09-29,2391,1,3254
+C00339,Scott Thomas,37,M,Selangor,Mass Affluent,P002|P004|P001,3,2024-06-11,674,1,8472
+C00340,David Thompson,44,F,Penang,Mass,P001,1,2020-12-01,1962,1,2989
+C00341,Allison Smith,67,M,Johor,Mass,P010|P006|P002,3,2021-07-17,1734,1,2730
+C00342,Cynthia Morris,23,F,Sarawak,Private Banking,P008|P005,2,2020-06-04,2142,1,39549
+C00343,Anthony Harmon,21,M,Kedah,Mass,P005,1,2021-02-01,1900,1,3967
+C00344,Nichole Alvarez,70,M,Selangor,Mass Affluent,P009|P004,2,2020-09-04,2050,0,6140
+C00345,Kayla Rodriguez,35,M,Perak,Mass,P001|P006,2,2025-12-10,127,1,3088
+C00346,Theresa Williams,27,F,Kuala Lumpur,Mass,P007|P008|P001|P002,4,2022-10-05,1289,1,3949
+C00347,Sharon Boyd,54,M,Perak,Mass,P008|P002|P009,3,2023-08-12,978,1,2193
+C00348,Victor Brown,24,F,Perak,Mass,P004|P005|P009|P007,4,2019-11-04,2355,1,2225
+C00349,James Parks,41,M,Negeri Sembilan,Mass,P004,1,2022-07-20,1366,1,2831
+C00350,Theodore Jones Jr.,31,F,Penang,Mass,P002,1,2025-01-09,462,1,3379
+C00351,Ana Hill,37,M,Sarawak,Affluent,P005|P001,2,2021-01-05,1927,1,14896
+C00352,Kimberly Nguyen,43,F,Johor,Mass,P005,1,2023-06-05,1046,1,6102
+C00353,Kerry Chavez DDS,49,M,Johor,Mass Affluent,P002|P008,2,2021-09-03,1686,1,9899
+C00354,Michael Farrell,70,M,Negeri Sembilan,Private Banking,P007|P006,2,2025-07-08,282,1,34338
+C00355,Patricia Le,22,M,Sarawak,Private Banking,P008|P003,2,2025-05-14,337,1,36075
+C00356,Jesse Perez,24,M,Perak,Mass,P007|P008,2,2021-01-14,1918,1,2563
+C00357,Jesse Perry,43,F,Johor,Mass,P005,1,2024-04-09,737,1,3617
+C00358,Jeffery Ortega,60,F,Selangor,Mass,P007,1,2019-04-07,2566,1,3291
+C00359,Christian Leblanc,29,M,Perak,Mass,P009|P004,2,2021-11-30,1598,1,4076
+C00360,Ronald Davis,51,F,Perak,Mass,P010|P009,2,2022-03-08,1500,1,2726
+C00361,Parker Cain,41,M,Kedah,Mass Affluent,P005,1,2025-12-01,136,1,8794
+C00362,Laurie Hoffman,35,M,Penang,Private Banking,P004|P005,2,2019-08-29,2422,1,62097
+C00363,Bryan Gomez,43,F,Sarawak,Affluent,P003|P010|P004|P005,4,2021-11-08,1620,0,12861
+C00364,Nicole Parrish,66,F,Pahang,Mass Affluent,P010|P003|P004,3,2025-11-22,145,1,8439
+C00365,Tracy Burke,23,M,Pahang,Mass,P004,1,2020-09-16,2038,1,4636
+C00366,Kenneth Lewis,60,F,Selangor,Mass,P003,1,2022-06-28,1388,1,3164
+C00367,Courtney Rodriguez,66,F,Negeri Sembilan,Affluent,P009|P006|P002|P003,4,2019-08-19,2432,1,14450
+C00368,Holly Farmer,41,F,Sarawak,Mass,P007,1,2022-10-28,1266,1,3657
+C00369,Renee Bruce,65,F,Sabah,Affluent,P006|P004|P003,3,2019-11-28,2331,1,13824
+C00370,Sabrina Austin,29,F,Negeri Sembilan,Mass,P010,1,2022-11-27,1236,1,2778
+C00371,Allison Hickman,41,F,Kuala Lumpur,Affluent,P004|P002|P008|P009,4,2019-06-15,2497,1,13475
+C00372,Debra White,31,M,Penang,Mass Affluent,P006|P008|P001|P003,4,2022-08-17,1338,1,8728
+C00373,Ellen Morgan,37,F,Perak,Mass Affluent,P001|P007,2,2022-04-12,1465,0,12184
+C00374,Sergio Knight,52,F,Negeri Sembilan,Affluent,P007|P002,2,2021-07-26,1725,1,18690
+C00375,Charles Schultz,35,F,Selangor,Mass,P001,1,2018-07-03,2844,1,7736
+C00376,Paul Lewis,25,F,Negeri Sembilan,Mass,P003|P002|P009,3,2025-01-13,458,0,2783
+C00377,Glen Wood,66,M,Kuala Lumpur,Mass,P003|P007|P010,3,2020-10-17,2007,1,4941
+C00378,Paula Bradley,47,F,Sabah,Mass Affluent,P009|P005,2,2024-01-29,808,1,7818
+C00379,Anthony Moore,46,M,Perak,Mass Affluent,P003|P001|P006,3,2025-08-26,233,1,15779
+C00380,Megan Nelson,61,M,Johor,Mass Affluent,P001,1,2018-10-14,2741,1,5525
+C00381,Karla Ramos,51,F,Sabah,Affluent,P007|P008,2,2025-04-16,365,1,9958
+C00382,Paul Wilson,45,M,Sabah,Mass,P006|P003|P008,3,2020-02-09,2258,1,2952
+C00383,Douglas Gregory,35,F,Pahang,Affluent,P003|P002|P009,3,2023-04-04,1108,1,6353
+C00384,Mr. Andrew Foster,35,M,Kedah,Mass Affluent,P009|P007|P008,3,2019-08-06,2445,1,6100
+C00385,Aimee Turner,66,M,Kedah,Mass,P009|P003,2,2021-10-12,1647,1,2791
+C00386,Chad Scott,34,F,Penang,Affluent,P007|P002,2,2024-05-02,714,0,14082
+C00387,Adam Burgess,30,F,Pahang,Affluent,P002|P010,2,2019-03-05,2599,1,15057
+C00388,James Padilla,38,M,Perak,Mass,P001|P009|P007,3,2022-07-21,1365,1,7021
+C00389,Sandra Drake,58,F,Pahang,Mass Affluent,P002|P010|P009|P007,4,2019-11-09,2350,0,10226
+C00390,Scott Williams,37,M,Johor,Mass,P010|P008,2,2021-08-07,1713,1,2975
+C00391,Thomas Atkins,60,F,Penang,Mass Affluent,P001|P007,2,2024-08-05,619,1,5354
+C00392,Laura Mckinney,38,F,Kedah,Affluent,P005|P010,2,2020-11-17,1976,1,15870
+C00393,Brian Smith,27,F,Sabah,Private Banking,P005|P008,2,2018-07-12,2835,1,22878
+C00394,Robert Montgomery,62,F,Selangor,Mass,P007|P008,2,2019-06-05,2507,1,6912
+C00395,Tamara Davis,25,M,Johor,Mass,P003|P009,2,2024-06-04,681,1,5502
+C00396,Dana Chapman,24,F,Sarawak,Mass,P006|P004,2,2023-12-16,852,1,3090
+C00397,Jennifer Collins,46,M,Sarawak,Mass Affluent,P001,1,2020-07-18,2098,1,4025
+C00398,Gary Jackson,32,M,Sabah,Private Banking,P009|P006|P010,3,2021-03-16,1857,1,58329
+C00399,Ashley Hicks,26,M,Penang,Mass,P003,1,2018-06-26,2851,1,3498
+C00400,Hannah Luna,34,F,Johor,Mass,P001|P010,2,2018-08-11,2805,1,5615
+C00401,Robin Young,72,F,Perak,Mass,P005,1,2019-06-20,2492,0,2084
+C00402,Craig Morrison,50,M,Selangor,Mass,P009|P007,2,2022-04-19,1458,1,2952
+C00403,Mary Thompson,44,M,Kedah,Mass Affluent,P005|P010,2,2018-10-12,2743,1,7345
+C00404,Kathleen Webster,61,M,Johor,Mass,P005,1,2023-02-09,1162,1,3701
+C00405,Joann Glass,24,M,Selangor,Affluent,P010|P007|P006|P008,4,2023-07-07,1014,1,11413
+C00406,Madison Weber,37,M,Pahang,Affluent,P001|P004|P006,3,2022-11-23,1240,1,16614
+C00407,Lori Hernandez,63,M,Sabah,Mass,P003,1,2020-11-15,1978,1,2506
+C00408,Jeremy Turner,68,M,Sarawak,Mass,P003|P006|P002,3,2024-10-09,554,1,3464
+C00409,Anthony Romero,47,F,Kedah,Mass Affluent,P005,1,2022-10-07,1287,1,7647
+C00410,Jesse Brown,24,M,Pahang,Affluent,P010|P002|P008,3,2020-12-06,1957,1,15995
+C00411,Angela Lin,45,M,Sarawak,Mass,P003|P010,2,2018-07-29,2818,1,4671
+C00412,Lisa Hunter,50,F,Johor,Mass,P003|P002|P008,3,2019-10-28,2362,1,2456
+C00413,Julian Conner,21,M,Kedah,Mass,P003,1,2025-07-23,267,1,2128
+C00414,Joanna Pacheco,29,F,Perak,Mass Affluent,P007|P010,2,2025-03-22,390,1,11467
+C00415,Erica Alvarez,33,M,Penang,Mass Affluent,P006|P009|P004|P001,4,2020-03-22,2216,1,8236
+C00416,Antonio Garcia,40,F,Johor,Mass,P010,1,2022-05-07,1440,1,2802
+C00417,Gwendolyn Klein,40,F,Johor,Affluent,P009|P010|P006,3,2025-09-11,217,1,22992
+C00418,Carrie Wright,43,M,Penang,Mass Affluent,P007,1,2020-09-17,2037,1,7635
+C00419,Jeffrey Mills,34,F,Selangor,Mass Affluent,P003|P002,2,2024-09-26,567,1,11078
+C00420,Jake Campbell,37,M,Selangor,Mass Affluent,P010|P001,2,2019-01-11,2652,1,7507
+C00421,George Harper,47,F,Johor,Mass,P005,1,2024-11-28,504,1,7490
+C00422,Maria Jones,61,F,Negeri Sembilan,Mass,P002|P009,2,2018-07-09,2838,1,6730
+C00423,Michael Mitchell,47,F,Kuala Lumpur,Affluent,P010|P002,2,2024-09-02,591,1,12245
+C00424,Mary Escobar,33,F,Sabah,Mass Affluent,P009|P004|P006,3,2020-08-17,2068,1,10302
+C00425,Felicia Aguilar,52,M,Selangor,Affluent,P008|P006|P004,3,2020-01-23,2275,1,16745
+C00426,Gregory Ponce,57,M,Kuala Lumpur,Mass Affluent,P002,1,2024-12-20,482,0,11837
+C00427,Jenna Larson,35,M,Selangor,Mass,P005|P008|P001|P009,4,2018-12-25,2669,1,2597
+C00428,Emily Bennett,72,M,Selangor,Mass Affluent,P002|P010,2,2022-03-03,1505,1,9322
+C00429,Robin Santiago,62,F,Kuala Lumpur,Mass,P008,1,2018-10-08,2747,1,5273
+C00430,Nancy Jennings,32,F,Kedah,Mass,P008|P005,2,2022-05-14,1433,1,1967
+C00431,Maria Henderson,72,M,Kuala Lumpur,Mass,P001,1,2018-12-07,2687,1,2406
+C00432,Jack White,51,M,Johor,Affluent,P003|P007|P006,3,2019-08-02,2449,1,6544
+C00433,Travis Tucker,28,M,Pahang,Affluent,P002|P005|P006,3,2020-09-25,2029,1,12158
+C00434,Chad Jones,67,M,Kedah,Mass Affluent,P006|P009|P002|P004,4,2019-09-29,2391,1,9425
+C00435,Ashley Wise,62,M,Pahang,Mass,P009|P001|P010,3,2018-08-16,2800,1,6160
+C00436,Sophia Johnson,31,F,Selangor,Mass,P004|P006,2,2020-08-25,2060,1,3737
+C00437,Ralph Anderson,62,F,Kuala Lumpur,Mass,P002|P008|P009,3,2020-01-14,2284,1,6438
+C00438,Christopher Guerra,41,F,Perak,Mass,P001|P002,2,2021-03-12,1861,1,2246
+C00439,Rhonda Martin,21,F,Sarawak,Affluent,P010|P005|P004|P006,4,2020-01-19,2279,1,7360
+C00440,Jason Rhodes,35,F,Kedah,Affluent,P010|P008,2,2025-08-07,252,1,13102
+C00441,Jeremy Mitchell,35,F,Kuala Lumpur,Mass,P005,1,2018-10-27,2728,1,4165
+C00442,Joann Ferguson,52,F,Negeri Sembilan,Mass,P007|P002,2,2024-05-14,702,1,3600
+C00443,Robert Harrison,46,F,Selangor,Mass,P004|P006|P002,3,2024-11-08,524,0,1766
+C00444,Holly Valentine,58,F,Selangor,Mass,P008|P009|P003,3,2018-09-02,2783,1,3529
+C00445,Mrs. Diane Reyes,56,M,Johor,Affluent,P008|P009|P003|P006,4,2025-08-31,228,1,8463
+C00446,Tracy Montoya,59,F,Negeri Sembilan,Mass Affluent,P007,1,2018-11-01,2723,0,9269
+C00447,Brenda Wright,38,F,Johor,Mass,P005,1,2023-06-05,1046,1,4139
+C00448,Shelly Spencer,65,M,Penang,Affluent,P009|P006|P004,3,2019-06-15,2497,1,9615
+C00449,Ryan Rosales,64,F,Kuala Lumpur,Mass,P003|P009,2,2022-12-13,1220,1,3042
+C00450,Phillip Nelson,51,F,Selangor,Mass Affluent,P007|P009|P005,3,2019-11-26,2333,1,5061
+C00451,Brittany Kim,45,M,Sabah,Mass,P004|P005,2,2025-12-04,133,1,3562
+C00452,Courtney Hayes,24,M,Sarawak,Mass Affluent,P009,1,2024-07-26,629,1,10242
+C00453,Alexander Brown,60,M,Pahang,Affluent,P004|P009|P007,3,2025-01-22,449,1,9462
+C00454,Cynthia Vang,39,F,Perak,Mass Affluent,P007,1,2018-05-27,2881,0,8747
+C00455,Alfred Galvan,41,F,Penang,Private Banking,P005|P004,2,2018-07-11,2836,0,30164
+C00456,Marie Moody,66,F,Kedah,Mass Affluent,P009|P004|P010,3,2018-04-22,2916,1,5555
+C00457,Dustin Gallegos,25,M,Perak,Mass,P009,1,2018-07-21,2826,1,3507
+C00458,Brenda Thornton,56,M,Sarawak,Mass,P005,1,2023-01-29,1173,1,2534
+C00459,Aaron Miller,23,F,Kedah,Mass,P001,1,2024-06-21,664,1,3000
+C00460,Ruben Dunn,43,M,Pahang,Mass,P009|P004,2,2020-01-15,2283,1,2394
+C00461,Kelsey Rodriguez,31,M,Penang,Mass,P002|P006,2,2020-07-17,2099,1,7242
+C00462,Eric Williams,44,M,Kuala Lumpur,Mass,P010|P009|P008|P005,4,2022-06-30,1386,1,3686
+C00463,Riley Bryant,36,F,Perak,Affluent,P010|P004|P001,3,2021-03-18,1855,0,10458
+C00464,Taylor Carlson,45,F,Pahang,Mass,P001|P009,2,2024-12-08,494,1,3924
+C00465,Jose Allen,52,M,Johor,Mass,P004|P006|P002,3,2021-03-18,1855,0,3501
+C00466,Jeffrey Mendez,55,F,Kuala Lumpur,Mass,P004,1,2020-03-05,2233,1,3370
+C00467,Jason Beck,68,M,Kedah,Mass Affluent,P002|P003,2,2018-04-30,2908,1,9090
+C00468,William Jones,26,M,Negeri Sembilan,Mass,P005,1,2025-10-13,185,1,4746
+C00469,Katie Mcneil,47,M,Perak,Mass,P007|P006,2,2023-04-23,1089,1,3024
+C00470,Jeanette Harrison,21,M,Sarawak,Mass Affluent,P010|P001,2,2020-03-18,2220,0,5994
+C00471,Veronica King,39,F,Kedah,Mass Affluent,P002,1,2025-01-07,464,1,6659
+C00472,Richard Cooper,22,F,Johor,Mass,P003|P007,2,2018-10-19,2736,1,1627
+C00473,Lori Ingram,44,M,Selangor,Private Banking,P009|P003,2,2018-12-11,2683,1,21369
+C00474,Evelyn Williams,46,M,Perak,Mass,P005|P004|P006,3,2019-07-09,2473,0,5875
+C00475,Robin Thompson,30,M,Kuala Lumpur,Mass,P005,1,2020-06-17,2129,1,6475
+C00476,Julie Dominguez,24,M,Sabah,Affluent,P009|P008|P002|P003,4,2019-11-06,2353,1,12245
+C00477,Robin Brown,52,F,Negeri Sembilan,Private Banking,P004|P002,2,2019-09-12,2408,1,44436
+C00478,Judith Carter,41,M,Negeri Sembilan,Mass,P005,1,2024-01-15,822,1,4060
+C00479,Curtis Williams,48,F,Sabah,Mass,P004,1,2022-08-30,1325,1,10696
+C00480,Kaylee Hays,64,F,Kedah,Mass Affluent,P008|P010|P006,3,2024-09-13,580,1,10849
+C00481,Dawn Mullins,62,F,Kuala Lumpur,Mass Affluent,P003|P009|P004,3,2024-03-28,749,1,7011
+C00482,Howard Norman,53,M,Pahang,Mass Affluent,P010|P007|P004,3,2025-12-31,106,1,5248
+C00483,Evelyn Martinez,51,M,Negeri Sembilan,Mass Affluent,P007,1,2020-02-27,2240,1,4179
+C00484,Steve Paul,29,M,Penang,Mass,P007|P006,2,2022-12-12,1221,1,3910
+C00485,Jasmine Beltran,64,M,Negeri Sembilan,Mass,P008|P003,2,2019-04-28,2545,0,2794
+C00486,Jonathan Glass MD,30,M,Kedah,Mass Affluent,P006|P001,2,2018-10-25,2730,1,4457
+C00487,Monica Miller,44,F,Kedah,Mass,P009|P006,2,2023-03-31,1112,0,2904
+C00488,Samantha Gardner,23,F,Negeri Sembilan,Private Banking,P009|P005,2,2025-09-08,220,1,24871
+C00489,Bobby Guerrero,45,F,Perak,Mass Affluent,P002,1,2024-04-04,742,0,13233
+C00490,Lance Simmons,54,M,Pahang,Mass,P006|P008|P009,3,2023-09-17,942,0,4957
+C00491,Heather Williams,31,M,Johor,Mass,P005|P004,2,2021-04-11,1831,1,3631
+C00492,Heather Bolton,66,F,Kedah,Affluent,P007|P006|P002,3,2019-06-17,2495,1,22426
+C00493,William Gould,31,M,Negeri Sembilan,Mass Affluent,P004|P001,2,2019-08-02,2449,1,7533
+C00494,Mark Cox,61,F,Johor,Mass,P003|P001|P010,3,2024-09-12,581,1,2693
+C00495,Meghan Cisneros,59,F,Negeri Sembilan,Private Banking,P005|P002|P004,3,2021-08-30,1690,0,61889
+C00496,Lawrence Harrington,31,F,Johor,Mass,P003|P010,2,2020-10-22,2002,1,4397
+C00497,Austin Osborne,50,F,Johor,Mass Affluent,P007,1,2022-05-14,1433,1,5100
+C00498,James Bradley,54,M,Kedah,Affluent,P007|P003|P002,3,2023-12-10,858,0,12499
+C00499,Meghan Rush,23,M,Negeri Sembilan,Affluent,P002|P010|P008,3,2019-06-26,2486,1,9833
+C00500,Phillip Berry,70,M,Pahang,Mass Affluent,P007|P006,2,2026-03-13,34,1,4519
+C00501,Jennifer Banks,71,M,Perak,Mass Affluent,P010,1,2020-10-20,2004,1,10139
+C00502,Brian Fitzgerald,70,F,Penang,Mass,P005|P009|P007,3,2020-11-09,1984,1,7103
+C00503,Mr. Justin Green III,57,F,Perak,Mass,P007|P004,2,2026-02-16,59,1,2232
+C00504,Zachary Mitchell,48,F,Negeri Sembilan,Mass Affluent,P009,1,2024-06-22,663,1,8929
+C00505,Katherine Martinez,64,F,Johor,Mass,P009,1,2023-02-13,1158,1,2899
+C00506,Jodi Roach,51,F,Johor,Mass,P006,1,2019-12-27,2302,1,3070
+C00507,Brandon Fleming,28,M,Pahang,Mass Affluent,P003|P002,2,2018-10-25,2730,1,5959
+C00508,Emma Reed,72,F,Selangor,Mass Affluent,P001|P003,2,2022-05-31,1416,1,5419
+C00509,Joshua Vance,51,F,Kuala Lumpur,Affluent,P002|P005|P004,3,2024-07-30,625,1,13589
+C00510,Michelle Ho,46,M,Kedah,Mass Affluent,P010|P001,2,2021-11-24,1604,1,5482
+C00511,Rebecca Hicks,63,M,Selangor,Affluent,P004|P001|P010,3,2023-12-12,856,1,14686
+C00512,Curtis Taylor,21,F,Perak,Private Banking,P005|P007,2,2018-11-12,2712,1,35683
+C00513,Allison Spencer,54,F,Pahang,Mass,P002|P009,2,2023-12-18,850,0,3349
+C00514,Robert Arnold,43,F,Perak,Private Banking,P010|P004,2,2022-04-22,1455,1,26433
+C00515,Angelica Parker,32,F,Sarawak,Mass,P002,1,2023-04-13,1099,0,2975
+C00516,Dr. Kelly Hammond DVM,37,F,Penang,Affluent,P010|P005|P008|P004,4,2020-06-14,2132,1,17403
+C00517,William Day,64,M,Sabah,Mass,P001|P008,2,2021-01-23,1909,1,4339
+C00518,Michael Cooper,71,F,Pahang,Private Banking,P004|P006|P007,3,2019-02-07,2625,1,25793
+C00519,Penny Bowman,37,M,Pahang,Mass,P006,1,2018-05-08,2900,0,3770
+C00520,Vincent Reynolds,41,F,Penang,Mass,P005|P003|P004,3,2020-11-12,1981,1,4736
+C00521,Amy Martinez,37,F,Johor,Mass,P004,1,2023-06-30,1021,1,2030
+C00522,Christopher Morris,26,M,Kedah,Mass Affluent,P010|P001,2,2024-11-11,521,1,8868
+C00523,Hannah Everett,52,F,Perak,Affluent,P010|P005|P008|P002,4,2022-09-03,1321,1,10594
+C00524,Sarah King,29,F,Perak,Mass,P008|P009|P001,3,2019-09-28,2392,1,4446
+C00525,Krista Martinez,50,M,Penang,Private Banking,P008|P006|P001,3,2024-04-01,745,1,27802
+C00526,Joseph Shaw,41,M,Sabah,Mass,P003|P009|P005,3,2025-01-29,442,1,1936
+C00527,Todd Moore,42,F,Sarawak,Mass,P004|P007,2,2019-05-02,2541,1,2060
+C00528,Michelle Jacobs,49,M,Kuala Lumpur,Mass,P010,1,2023-01-27,1175,1,3703
+C00529,Kristy Bryan,56,M,Kedah,Mass,P003,1,2023-07-26,995,1,3987
+C00530,Angel May,47,F,Sabah,Mass,P009|P010|P006|P007,4,2024-03-24,753,1,2653
+C00531,Marilyn Wang,24,F,Kedah,Mass,P001|P004,2,2019-11-04,2355,1,4553
+C00532,Mark Jimenez,49,F,Sarawak,Mass Affluent,P006,1,2025-02-16,424,1,4099
+C00533,Donna Frye,43,F,Sarawak,Affluent,P004|P009|P003|P007,4,2024-11-06,526,1,13054
+C00534,Dr. Michael Evans,52,F,Kedah,Mass Affluent,P002|P007,2,2020-06-26,2120,1,4799
+C00535,Anthony Gonzales,31,M,Johor,Mass Affluent,P007|P010|P002,3,2024-08-01,623,1,5836
+C00536,Mr. Lawrence Edwards,41,F,Kedah,Mass Affluent,P010|P007,2,2022-09-10,1314,1,7455
+C00537,Morgan Valencia,68,M,Johor,Mass Affluent,P007|P003|P009|P010,4,2022-02-19,1517,1,5425
+C00538,Bianca Wood,37,F,Kuala Lumpur,Affluent,P002|P004|P003,3,2018-10-14,2741,1,11677
+C00539,Emma Owens,56,F,Negeri Sembilan,Mass,P009|P002|P010,3,2020-11-25,1968,1,5178
+C00540,David Davis,45,F,Johor,Mass,P005,1,2018-11-12,2712,1,2975
+C00541,James Gilbert,22,F,Kedah,Mass,P006,1,2024-04-18,728,0,4878
+C00542,Sean Moore,38,M,Negeri Sembilan,Mass,P009,1,2020-02-23,2244,1,2452
+C00543,Kenneth Edwards,68,F,Sarawak,Mass Affluent,P009|P010,2,2019-02-18,2614,1,8826
+C00544,Kathleen Robertson,72,F,Johor,Mass,P007,1,2023-08-30,960,1,6030
+C00545,Mr. Alexander Landry MD,54,M,Kedah,Affluent,P006|P005|P008|P009,4,2026-03-17,30,0,5625
+C00546,Cindy Gomez,40,M,Pahang,Mass,P005|P004,2,2020-11-09,1984,1,2755
+C00547,Johnny Khan,56,F,Penang,Mass,P007,1,2021-08-04,1716,1,4456
+C00548,Julie Herrera,61,F,Perak,Mass,P010|P005|P009,3,2021-06-22,1759,1,3391
+C00549,Jessica Khan,32,F,Sabah,Mass,P008,1,2025-06-10,310,1,4146
+C00550,Pamela Diaz,33,M,Johor,Mass,P009,1,2020-09-09,2045,0,2947
+C00551,Kelly Lee,38,M,Johor,Mass,P001|P004,2,2023-01-17,1185,1,3753
+C00552,Angel Gordon,42,M,Sarawak,Mass,P008|P006|P010,3,2023-10-10,919,1,3448
+C00553,Diana Hays,24,F,Johor,Mass,P009,1,2024-07-27,628,1,5479
+C00554,Barbara Hester,45,F,Penang,Affluent,P004|P007,2,2023-05-28,1054,1,14604
+C00555,Robert Morgan,33,F,Sabah,Mass,P009|P004|P008,3,2025-10-31,167,0,4098
+C00556,Nicole Gonzalez,61,M,Sabah,Mass Affluent,P009|P010,2,2024-06-06,679,1,6348
+C00557,Kathryn Williams,33,M,Penang,Mass,P004,1,2022-11-10,1253,1,3070
+C00558,Gary Wells,21,F,Penang,Mass,P002,1,2022-07-27,1359,1,3129
+C00559,Larry Robertson,58,F,Kuala Lumpur,Mass Affluent,P010|P003,2,2025-09-26,202,1,8417
+C00560,Louis Martin,26,M,Sarawak,Mass Affluent,P001,1,2020-08-08,2077,1,6327
+C00561,Nancy Evans MD,55,F,Pahang,Mass Affluent,P004,1,2018-05-06,2902,1,8115
+C00562,Kim Erickson,72,M,Sabah,Affluent,P001|P007|P006,3,2022-04-25,1452,0,27623
+C00563,Robert Richardson,66,M,Negeri Sembilan,Mass,P008,1,2020-10-07,2017,1,4939
+C00564,Veronica Silva,41,M,Kuala Lumpur,Mass Affluent,P010,1,2022-04-23,1454,1,6541
+C00565,Molly Watts,39,M,Selangor,Affluent,P008|P001|P007,3,2021-03-03,1870,1,20342
+C00566,John Coffey,70,F,Penang,Mass Affluent,P002,1,2022-02-15,1521,1,6356
+C00567,Paula Lane,70,F,Kuala Lumpur,Mass Affluent,P006|P007,2,2020-08-18,2067,1,3593
+C00568,Lauren Jackson,25,M,Kedah,Mass,P003|P001|P004,3,2018-10-27,2728,1,2558
+C00569,Lisa Randall,57,F,Selangor,Mass Affluent,P008,1,2025-11-07,160,1,3809
+C00570,Michael Johnson,66,F,Selangor,Mass,P004|P008|P002,3,2019-06-01,2511,1,3219
+C00571,Ashley Smith,44,F,Pahang,Mass Affluent,P010,1,2021-07-18,1733,1,7379
+C00572,Christian Vaughn,40,M,Kuala Lumpur,Mass,P009,1,2025-06-02,318,1,6547
+C00573,Reginald Knapp,45,F,Kuala Lumpur,Mass,P004|P003,2,2020-03-31,2207,1,4082
+C00574,Nancy Brown,43,M,Johor,Mass Affluent,P007|P002,2,2019-09-29,2391,1,6791
+C00575,Daniel Nguyen,42,F,Sarawak,Mass Affluent,P010|P008,2,2020-07-19,2097,1,9802
+C00576,Kelly Edwards,44,M,Perak,Mass,P006|P004,2,2022-07-27,1359,1,1679
+C00577,Thomas Peterson,44,F,Negeri Sembilan,Private Banking,P007|P001|P009,3,2023-05-12,1070,1,39437
+C00578,Raymond Le,40,F,Pahang,Mass,P004|P006|P001|P007,4,2024-09-10,583,1,4769
+C00579,Melissa Bishop,57,M,Johor,Mass,P006,1,2019-10-23,2367,1,2170
+C00580,David Grant,36,M,Sarawak,Mass,P002|P007|P004,3,2019-09-06,2414,1,5433
+C00581,William Evans,52,M,Negeri Sembilan,Affluent,P010|P002|P005,3,2024-04-08,738,1,15040
+C00582,Daniel Bush,70,M,Negeri Sembilan,Mass,P007|P010|P002,3,2025-07-31,259,0,3148
+C00583,Gregory Peck,70,M,Sarawak,Mass Affluent,P009,1,2019-02-06,2626,1,9150
+C00584,Denise Martinez,41,F,Kedah,Mass,P001,1,2024-07-13,642,1,8061
+C00585,Jamie Baird,53,M,Sarawak,Mass,P007|P003,2,2019-10-04,2386,1,3880
+C00586,Tina Ballard,68,F,Pahang,Mass,P002,1,2019-10-20,2370,1,3971
+C00587,Dwayne Klein,29,F,Negeri Sembilan,Mass Affluent,P004|P008,2,2018-05-20,2888,1,6243
+C00588,Jeremy Scott,68,F,Sarawak,Mass,P005,1,2019-04-20,2553,1,2704
+C00589,Dale Ryan,26,M,Sarawak,Mass,P006|P010,2,2019-10-01,2389,1,4869
+C00590,Melissa Taylor,22,F,Negeri Sembilan,Mass Affluent,P006,1,2018-11-10,2714,1,5434
+C00591,Laurie Sanchez,35,M,Selangor,Mass,P002,1,2025-09-15,213,1,3733
+C00592,Kiara Little,30,F,Kedah,Affluent,P001|P006|P002|P003,4,2019-03-31,2573,1,11303
+C00593,Jason Love,68,F,Pahang,Mass,P009,1,2023-11-12,886,1,4305
+C00594,Randy Smith,65,M,Sabah,Mass Affluent,P010,1,2024-08-16,608,1,8240
+C00595,Tanya Russell,33,M,Kuala Lumpur,Mass Affluent,P001|P008,2,2023-01-09,1193,1,10542
+C00596,Sherry Woods,63,F,Penang,Affluent,P002|P001|P005,3,2023-03-02,1141,0,11176
+C00597,Victor Morris,66,M,Johor,Mass,P010,1,2020-07-04,2112,1,3313
+C00598,Susan Davis,56,F,Sarawak,Affluent,P004|P009,2,2021-01-27,1905,1,9485
+C00599,Kimberly Sharp,22,M,Pahang,Mass,P005,1,2024-06-12,673,1,3117
+C00600,Susan Thompson,61,F,Penang,Mass,P001,1,2025-07-07,283,1,4155
+C00601,Casey Gillespie,63,F,Penang,Mass,P009|P004,2,2021-10-20,1639,1,4745
+C00602,Jennifer Simpson DVM,40,M,Johor,Affluent,P009|P003,2,2021-06-05,1776,1,9674
+C00603,Tammy Mcdowell,72,M,Perak,Mass,P009,1,2018-07-16,2831,0,4936
+C00604,Keith Rodriguez,62,F,Johor,Affluent,P006|P002|P009|P008,4,2024-07-31,624,1,21471
+C00605,Mrs. Virginia Daniels,47,M,Kuala Lumpur,Private Banking,P005|P003,2,2022-08-20,1335,1,41970
+C00606,Todd Rosales MD,69,M,Selangor,Private Banking,P010|P004|P009,3,2025-11-30,137,1,70044
+C00607,Brian Martin,70,F,Johor,Mass,P010|P008,2,2018-06-29,2848,1,2777
+C00608,David Lopez,51,F,Selangor,Mass,P001,1,2020-09-12,2042,0,2355
+C00609,Rachel Bradley,35,F,Sarawak,Mass Affluent,P004|P002|P003|P010,4,2021-07-30,1721,1,3934
+C00610,Casey Chase,48,F,Perak,Mass,P007,1,2023-06-11,1040,1,6146
+C00611,Samantha Robertson,59,M,Kedah,Mass,P001|P009,2,2019-10-18,2372,1,4578
+C00612,Michael Lopez,36,F,Pahang,Mass,P001,1,2025-09-25,203,1,3571
+C00613,Franklin Wright,33,F,Kedah,Mass,P005,1,2025-08-28,231,1,4016
+C00614,David Molina,60,M,Pahang,Affluent,P003|P008|P009,3,2022-11-28,1235,1,9010
+C00615,Elizabeth Sharp,65,F,Selangor,Mass,P006,1,2019-08-24,2427,1,8570
+C00616,Matthew Schwartz,66,M,Kuala Lumpur,Affluent,P002|P005|P006|P008,4,2019-08-04,2447,1,13978
+C00617,Bryan Parker,61,M,Perak,Mass,P007|P009,2,2021-03-03,1870,1,3783
+C00618,Jonathan Jacobson,70,M,Johor,Mass,P003,1,2025-09-19,209,1,4694
+C00619,Emily Wilson,47,M,Kuala Lumpur,Mass,P008|P005,2,2025-08-19,240,0,4309
+C00620,Elizabeth Mendez,21,F,Kedah,Mass Affluent,P008,1,2023-12-08,860,1,7930
+C00621,Casey Hernandez,59,F,Perak,Affluent,P010|P008,2,2026-02-22,53,1,10131
+C00622,Lisa Perry,59,M,Johor,Mass,P005|P009|P004,3,2019-06-20,2492,1,4294
+C00623,Kaitlin Medina,43,M,Selangor,Mass,P010|P005|P006,3,2018-11-19,2705,1,7035
+C00624,Colleen Wright,31,M,Kedah,Mass Affluent,P010|P009,2,2024-03-17,760,1,11742
+C00625,Shelley Miller,23,F,Kuala Lumpur,Mass,P006,1,2022-03-03,1505,1,6359
+C00626,Michael Miller,25,F,Pahang,Mass,P005,1,2020-01-14,2284,1,3044
+C00627,Amy Kelley,65,M,Kedah,Mass,P010,1,2023-11-09,889,1,2575
+C00628,Laura Hernandez,71,F,Pahang,Private Banking,P010|P006,2,2019-06-05,2507,1,34751
+C00629,Joseph Wilson,43,F,Johor,Affluent,P008|P009|P010,3,2019-03-22,2582,0,13623
+C00630,Kevin Davis,66,M,Kedah,Mass,P002,1,2023-08-07,983,1,5340
+C00631,Rhonda Chavez,68,F,Pahang,Affluent,P007|P010|P001|P003,4,2024-11-19,513,1,7388
+C00632,Joyce Brown,21,F,Sabah,Mass Affluent,P005|P002,2,2023-10-30,899,1,12523
+C00633,Robert Cummings,70,M,Johor,Mass,P006|P007,2,2022-07-30,1356,1,3445
+C00634,Robert Reese,64,F,Johor,Mass,P001|P003,2,2022-06-02,1414,1,3136
+C00635,Amber Cooper,42,F,Pahang,Mass,P001|P009|P005,3,2020-03-09,2229,1,2555
+C00636,Zachary Michael,57,F,Selangor,Mass Affluent,P006|P002|P003,3,2023-11-15,883,1,4108
+C00637,Timothy Johnson,61,F,Johor,Mass,P010,1,2022-01-01,1566,1,4857
+C00638,Randy Cannon,66,F,Penang,Affluent,P005|P007|P002,3,2022-10-02,1292,1,13707
+C00639,Maria Fisher,34,M,Penang,Mass,P006,1,2022-10-25,1269,0,2318
+C00640,Janet Kane DVM,53,M,Sarawak,Mass,P009|P003,2,2021-03-26,1847,0,2314
+C00641,Michael Stanley,40,M,Penang,Mass Affluent,P002,1,2020-05-03,2174,1,6519
+C00642,Martha Bailey,45,M,Negeri Sembilan,Mass Affluent,P001|P005,2,2021-01-21,1911,1,13150
+C00643,Joshua Rice,50,F,Penang,Affluent,P005|P001,2,2022-06-21,1395,1,12199
+C00644,Courtney Smith,39,M,Sabah,Mass,P008,1,2024-01-19,818,1,2151
+C00645,Edwin Nunez,28,M,Pahang,Mass,P009|P002,2,2023-02-21,1150,1,3341
+C00646,Kim Morrow,38,M,Kuala Lumpur,Mass,P005|P004,2,2022-08-21,1334,1,3309
+C00647,Gregory Hill,55,M,Kuala Lumpur,Mass,P008,1,2022-05-30,1417,1,1417
+C00648,Molly Rodriguez,48,F,Sabah,Mass,P010|P008,2,2025-03-30,382,1,3572
+C00649,Jennifer Miranda,66,M,Kedah,Mass Affluent,P002|P008|P003,3,2023-12-27,841,1,6763
+C00650,Alexis Harris,64,M,Negeri Sembilan,Mass Affluent,P008|P004|P009,3,2022-09-23,1301,1,9355
+C00651,Andrew Harper,46,F,Selangor,Mass,P006|P010|P008,3,2022-02-18,1518,1,6954
+C00652,Amber Yang,43,M,Perak,Mass,P005|P006|P003,3,2024-12-10,492,1,5401
+C00653,David Robinson,41,F,Perak,Mass Affluent,P005,1,2025-01-03,468,1,6673
+C00654,Amy Gordon,60,F,Kuala Lumpur,Mass,P008,1,2023-07-14,1007,1,2472
+C00655,Robert Dennis,58,M,Negeri Sembilan,Mass,P010|P006|P004|P002,4,2018-06-05,2872,1,8961
+C00656,Kyle Chambers,58,F,Johor,Mass Affluent,P002,1,2024-12-04,498,1,7486
+C00657,Eric Thomas,25,F,Kedah,Mass Affluent,P010|P007,2,2021-08-28,1692,1,7368
+C00658,Connie Turner,26,M,Johor,Mass,P010,1,2025-07-09,281,1,3610
+C00659,Travis Hobbs,55,M,Sarawak,Mass,P008|P004,2,2021-02-16,1885,1,3902
+C00660,Lori Simmons,40,F,Johor,Affluent,P006|P002|P001|P005,4,2018-08-03,2813,1,12701
+C00661,William David DDS,44,F,Selangor,Affluent,P001|P009|P006|P010,4,2025-07-05,285,1,10929
+C00662,Emma Butler,58,F,Perak,Mass,P007,1,2018-05-02,2906,1,3007
+C00663,James Webster,63,F,Sarawak,Mass,P009,1,2023-11-03,895,1,3599
+C00664,Samuel Turner,39,M,Johor,Private Banking,P003|P001|P002,3,2024-06-24,661,1,30025
+C00665,Renee Melendez,63,F,Negeri Sembilan,Mass,P002|P003|P007|P008,4,2020-10-01,2023,0,2837
+C00666,Tracy Grant,32,F,Penang,Mass,P008|P007,2,2019-03-22,2582,1,3779
+C00667,David Harris,21,F,Pahang,Mass Affluent,P004|P009|P005,3,2019-06-06,2506,1,6706
+C00668,Tammy Boone,23,M,Johor,Mass Affluent,P002|P008,2,2025-10-31,167,1,12412
+C00669,Nathaniel Lee,69,M,Penang,Mass Affluent,P002|P009,2,2020-04-21,2186,1,2899
+C00670,Michael Morrison,63,M,Sarawak,Mass,P010|P005,2,2018-10-07,2748,1,5335
+C00671,Chelsea Gill,51,F,Sabah,Mass,P010|P006|P007,3,2026-02-01,74,1,5631
+C00672,Kristin Mendoza,65,F,Negeri Sembilan,Affluent,P010|P005|P001,3,2025-10-24,174,1,6466
+C00673,Felicia Krueger,63,M,Johor,Private Banking,P010|P001|P005|P004,4,2025-08-18,241,1,32211
+C00674,Timothy Hayden,37,M,Kuala Lumpur,Mass,P005,1,2023-02-03,1168,1,3197
+C00675,Zachary Mendoza,68,M,Kedah,Mass,P003|P005,2,2019-07-29,2453,1,2225
+C00676,Larry Harris,23,M,Kedah,Mass,P003,1,2020-04-17,2190,1,2773
+C00677,Kristen Rowe,70,F,Selangor,Mass,P003|P004,2,2021-07-30,1721,1,2468
+C00678,Joseph Howard,24,F,Pahang,Mass,P005,1,2024-11-27,505,1,6723
+C00679,Jose Crawford,66,F,Selangor,Mass,P009,1,2018-07-18,2829,1,5052
+C00680,William Harrison,45,F,Negeri Sembilan,Mass Affluent,P001|P002|P006|P007,4,2021-03-05,1868,0,11442
+C00681,Suzanne Wood,42,M,Negeri Sembilan,Mass,P005|P007|P008,3,2023-02-25,1146,1,4687
+C00682,Justin Walker,42,M,Kuala Lumpur,Mass Affluent,P006|P009|P001|P010,4,2020-05-18,2159,1,4939
+C00683,Dean Donovan,54,F,Penang,Mass,P004|P005,2,2025-02-10,430,1,3030
+C00684,Jennifer Hernandez,26,M,Kuala Lumpur,Mass,P004|P002,2,2019-04-06,2567,1,4321
+C00685,James Whitaker,45,M,Sabah,Mass Affluent,P010|P003|P002,3,2024-10-01,562,1,4780
+C00686,Mr. Michael Scott PhD,25,F,Johor,Mass Affluent,P005|P007|P006,3,2018-10-20,2735,1,9410
+C00687,Maria Henry,70,F,Sabah,Mass,P001,1,2023-02-06,1165,1,3347
+C00688,Robert Jackson,52,F,Kuala Lumpur,Private Banking,P007|P003,2,2025-06-06,314,1,31851
+C00689,Katherine Stark,34,F,Kuala Lumpur,Mass Affluent,P008,1,2021-05-16,1796,1,9403
+C00690,Maria Brown,57,M,Selangor,Mass Affluent,P001|P008|P003,3,2025-06-02,318,1,8565
+C00691,Ryan Landry,30,F,Perak,Mass Affluent,P010|P001|P008,3,2023-03-22,1121,1,6462
+C00692,Pamela Gutierrez,55,M,Negeri Sembilan,Mass,P008,1,2025-06-03,317,1,5463
+C00693,Crystal Mann,42,F,Kuala Lumpur,Mass Affluent,P002|P006,2,2022-03-08,1500,1,5022
+C00694,Jonathan Brooks,62,F,Perak,Mass,P007|P004,2,2022-12-16,1217,0,4517
+C00695,Mary Jensen,65,M,Johor,Mass,P008,1,2019-02-19,2613,1,4481
+C00696,Mr. Aaron Arnold,67,F,Kedah,Private Banking,P007|P002,2,2025-12-04,133,1,32587
+C00697,Joseph Hill,22,F,Kuala Lumpur,Mass,P001,1,2021-03-03,1870,1,4081
+C00698,Alicia Li,63,M,Selangor,Mass,P009|P003|P004,3,2018-11-16,2708,1,2350
+C00699,Renee Browning,62,M,Selangor,Mass,P010|P001|P004,3,2020-09-22,2032,1,5031
+C00700,Brent Hernandez,40,M,Kuala Lumpur,Affluent,P010|P003,2,2025-08-25,234,1,12523
+C00701,Joseph Ochoa,72,F,Sarawak,Mass Affluent,P004,1,2019-07-15,2467,1,6106
+C00702,James Watson,46,M,Selangor,Mass,P010|P009|P003|P008,4,2018-08-08,2808,1,5256
+C00703,Karl Branch,25,M,Sarawak,Mass,P007,1,2022-06-12,1404,1,2845
+C00704,Michael Abbott,36,M,Selangor,Affluent,P002|P007,2,2021-04-16,1826,1,8160
+C00705,Shannon Malone,21,F,Johor,Mass,P010|P005|P007,3,2025-04-21,360,1,2112
+C00706,James Tran,38,M,Kedah,Mass,P003|P001,2,2019-01-13,2650,1,4501
+C00707,Adam Jackson,61,M,Penang,Affluent,P007|P001,2,2025-03-22,390,1,8534
+C00708,Mr. Richard Knight PhD,27,F,Penang,Mass Affluent,P009|P010|P004,3,2020-04-06,2201,1,13550
+C00709,Joseph Williams,28,M,Johor,Mass Affluent,P008|P010,2,2024-01-14,823,1,3538
+C00710,Sean Clay,24,F,Sarawak,Mass Affluent,P007,1,2025-09-22,206,1,13277
+C00711,Anthony Jones,23,M,Johor,Mass,P009,1,2021-02-15,1886,1,3920
+C00712,Stephanie Elliott,53,M,Sarawak,Mass,P008|P006|P007,3,2020-10-08,2016,1,3520
+C00713,Timothy Edwards,41,M,Perak,Mass,P007,1,2024-12-21,481,0,3009
+C00714,Laurie Goodwin,51,M,Penang,Mass Affluent,P007,1,2025-05-20,331,0,8431
+C00715,Jennifer Jones,32,F,Sabah,Mass,P004,1,2021-02-08,1893,1,3593
+C00716,David Davenport,23,M,Kedah,Mass Affluent,P003,1,2024-10-12,551,1,10788
+C00717,Steven Rivera,69,M,Kuala Lumpur,Mass,P010|P003|P009,3,2024-04-15,731,1,3789
+C00718,Brenda Hinton,52,F,Selangor,Affluent,P008|P010,2,2020-05-10,2167,1,14081
+C00719,Kathryn Mccann,36,M,Perak,Mass,P010|P003,2,2023-06-11,1040,0,3206
+C00720,Jeffrey Roberson,51,F,Kedah,Mass Affluent,P007|P009,2,2025-10-04,194,1,7187
+C00721,Randy Friedman,27,M,Perak,Mass,P009,1,2018-05-25,2883,0,4055
+C00722,Raymond Johnson,43,F,Sabah,Mass,P002|P001,2,2024-09-20,573,1,2001
+C00723,Willie Henry,57,F,Johor,Mass Affluent,P008,1,2021-01-21,1911,1,4574
+C00724,Todd Reynolds,32,M,Kuala Lumpur,Mass Affluent,P008,1,2021-08-30,1690,1,9510
+C00725,Mary Miller,42,M,Kuala Lumpur,Mass,P005,1,2018-06-18,2859,1,3865
+C00726,Rebecca Marquez,68,F,Sarawak,Affluent,P006|P001|P002,3,2022-06-11,1405,1,12527
+C00727,Christian Dawson,44,M,Johor,Mass,P002|P009,2,2025-10-01,197,0,3665
+C00728,Nancy Stewart,55,M,Sarawak,Mass,P010|P004,2,2023-07-14,1007,1,4112
+C00729,Aaron Parker,53,F,Sarawak,Mass Affluent,P002,1,2023-03-18,1125,1,6070
+C00730,Derrick Anderson,54,F,Negeri Sembilan,Affluent,P009|P010|P005,3,2020-08-02,2083,1,10174
+C00731,Jerry Peters,65,M,Perak,Affluent,P002|P004|P008|P001,4,2018-08-29,2787,0,14308
+C00732,Alexander Gomez,25,F,Johor,Mass,P003,1,2022-12-22,1211,1,2585
+C00733,Kyle Nguyen,61,F,Sarawak,Mass,P009|P003,2,2020-05-15,2162,1,4200
+C00734,Edgar Hughes,22,F,Perak,Mass,P004,1,2018-12-24,2670,1,2006
+C00735,Steven Stein,62,F,Kedah,Mass Affluent,P009|P010,2,2018-11-09,2715,1,10511
+C00736,Laura Jackson,71,F,Selangor,Mass,P004|P008|P006,3,2024-09-23,570,1,4296
+C00737,Charles Turner,50,M,Johor,Private Banking,P003|P009|P005,3,2023-01-08,1194,1,39720
+C00738,Arthur Hamilton MD,63,M,Sarawak,Mass Affluent,P002,1,2018-06-10,2867,1,10342
+C00739,Mr. David Wright,37,F,Sarawak,Mass,P001,1,2021-04-07,1835,1,6522
+C00740,Linda Gonzalez,55,F,Johor,Private Banking,P002|P001|P007,3,2021-03-07,1866,0,51794
+C00741,Eric Rush,30,F,Kedah,Mass,P009|P006,2,2022-08-14,1341,0,1912
+C00742,Manuel Brock,63,M,Kedah,Mass,P008|P006,2,2019-10-11,2379,0,2327
+C00743,George Ochoa,64,M,Kedah,Mass Affluent,P007,1,2024-08-23,601,1,5892
+C00744,Valerie Taylor,24,M,Sabah,Mass Affluent,P009,1,2022-07-20,1366,1,7399
+C00745,Travis Harris,55,M,Kedah,Affluent,P002|P009|P007,3,2025-04-09,372,1,16013
+C00746,Vincent Novak,53,F,Sarawak,Affluent,P006|P007|P003|P010,4,2019-06-04,2508,1,10363
+C00747,Michael Henry,39,M,Penang,Mass,P008,1,2026-01-27,79,1,3887
+C00748,Dana Bennett,68,F,Johor,Private Banking,P005|P003|P007|P006,4,2021-03-24,1849,1,27879
+C00749,Jenna Wilson,26,F,Kuala Lumpur,Mass,P009,1,2019-07-03,2479,0,2939
+C00750,Leslie Gardner,69,F,Johor,Mass,P005,1,2019-08-02,2449,1,2225
+C00751,Krista Benton,69,F,Selangor,Affluent,P007|P005,2,2019-11-03,2356,1,9671
+C00752,Michael Gonzales,58,M,Selangor,Mass,P008|P004,2,2022-10-28,1266,1,2269
+C00753,Michael Fuentes,61,F,Penang,Affluent,P005|P007|P003,3,2022-11-04,1259,1,9494
+C00754,Jennifer Porter,52,F,Sabah,Private Banking,P006|P008,2,2023-02-06,1165,1,52511
+C00755,Dana Hopkins,65,F,Johor,Affluent,P010|P001,2,2020-11-14,1979,1,9583
+C00756,Rachel Jones,41,M,Sabah,Mass,P006|P003,2,2024-07-27,628,1,9148
+C00757,Karen Morales DDS,43,M,Johor,Mass,P002,1,2019-01-27,2636,1,4327
+C00758,Melissa Stephens,69,F,Sabah,Mass,P006,1,2019-06-30,2482,1,3884
+C00759,Heather Woodard,44,M,Pahang,Mass,P003|P001,2,2018-06-28,2849,1,2696
+C00760,Margaret Miller,47,M,Penang,Mass,P002|P004|P003,3,2020-10-08,2016,1,4652
+C00761,Mary Kelly,60,F,Kuala Lumpur,Mass Affluent,P009|P010|P002|P004,4,2019-12-11,2318,1,5994
+C00762,Amanda Terrell,22,M,Kedah,Mass,P006,1,2024-09-26,567,0,3800
+C00763,Jennifer Goodwin,54,M,Kuala Lumpur,Mass Affluent,P005,1,2019-07-05,2477,1,17962
+C00764,Jessica Smith,30,M,Kuala Lumpur,Mass Affluent,P004,1,2018-06-04,2873,1,7090
+C00765,Jorge Stone,25,M,Kuala Lumpur,Mass,P007|P001,2,2024-12-15,487,1,5444
+C00766,Laura Griffin,53,M,Sabah,Mass Affluent,P005|P001,2,2018-10-23,2732,1,5732
+C00767,Raymond Chapman,71,M,Sarawak,Mass,P010|P004,2,2025-02-15,425,1,3597
+C00768,Haley Johnson,68,M,Pahang,Affluent,P006|P010|P003|P007,4,2024-07-29,626,1,24829
+C00769,Jason Nixon,58,M,Pahang,Mass Affluent,P004|P005,2,2025-02-05,435,1,5887
+C00770,Todd Thomas,34,M,Johor,Affluent,P008|P006|P003|P004,4,2025-02-06,434,1,25194
+C00771,Jesse Clark,48,F,Kuala Lumpur,Mass,P002,1,2021-12-14,1584,1,4664
+C00772,Mr. Jeffrey Horton,29,M,Kuala Lumpur,Mass,P005,1,2020-05-19,2158,1,2990
+C00773,Eric Patrick,45,M,Pahang,Mass,P005|P008,2,2024-11-29,503,1,4543
+C00774,Samuel Wong,33,F,Kuala Lumpur,Affluent,P008|P006|P003|P001,4,2021-05-30,1782,1,18777
+C00775,Carly Riggs,63,F,Negeri Sembilan,Mass Affluent,P007,1,2020-05-07,2170,0,9115
+C00776,Christopher Moore,25,F,Kuala Lumpur,Mass,P004,1,2024-04-25,721,1,2102
+C00777,Tina Hall,67,F,Kedah,Mass,P010|P005|P007,3,2021-06-12,1769,1,2823
+C00778,Cody Davidson,52,M,Kuala Lumpur,Mass,P008,1,2021-09-03,1686,1,3339
+C00779,Allen Mendez,35,M,Kuala Lumpur,Mass Affluent,P002,1,2020-08-19,2066,1,7143
+C00780,Kevin Price,32,M,Kuala Lumpur,Mass,P003|P005,2,2025-11-28,139,1,4524
+C00781,Christine Goodwin,70,F,Pahang,Mass,P005|P008,2,2020-05-18,2159,1,3875
+C00782,Amy Garcia,72,F,Kedah,Affluent,P001|P007|P002,3,2022-05-10,1437,1,8372
+C00783,Chelsea Nguyen,49,F,Johor,Mass,P009,1,2021-12-27,1571,1,4159
+C00784,Dennis Huffman,40,F,Kedah,Mass Affluent,P002|P008,2,2024-09-13,580,1,9079
+C00785,Margaret Harper,53,F,Negeri Sembilan,Mass,P010,1,2024-06-15,670,1,4429
+C00786,Laurie Bailey,41,F,Negeri Sembilan,Mass,P003|P006,2,2023-01-07,1195,1,5315
+C00787,Lisa Cervantes,42,F,Selangor,Mass,P006|P007,2,2019-03-14,2590,1,4875
+C00788,Elizabeth Mendez,36,M,Sarawak,Mass Affluent,P002|P005,2,2023-06-07,1044,1,8610
+C00789,Cesar Wilson,41,F,Sabah,Mass,P007|P009,2,2020-03-03,2235,1,3553
+C00790,Clayton Steele,58,F,Sarawak,Mass,P010,1,2020-12-10,1953,1,2036
+C00791,Jennifer Taylor,27,F,Johor,Mass Affluent,P008,1,2020-09-24,2030,1,8522
+C00792,Cody Reid,48,M,Sabah,Mass,P002|P009,2,2022-02-18,1518,1,3915
+C00793,Maria Cooke,57,M,Negeri Sembilan,Mass,P002,1,2022-11-16,1247,1,4004
+C00794,Katherine Taylor,57,F,Pahang,Affluent,P004|P006|P002,3,2025-06-15,305,1,8545
+C00795,Jerry Brown,63,F,Negeri Sembilan,Mass,P007,1,2021-05-09,1803,1,2494
+C00796,Adam Taylor,69,M,Kedah,Mass,P009|P003|P008,3,2018-09-05,2780,1,5264
+C00797,Tracey Wagner,55,F,Johor,Affluent,P007|P001|P004|P003,4,2019-01-21,2642,1,13176
+C00798,Michael Perry PhD,69,M,Perak,Mass,P006|P002,2,2018-07-10,2837,1,4622
+C00799,Bradley Johnson DDS,62,M,Kuala Lumpur,Mass,P004|P007,2,2022-12-28,1205,1,3677
+C00800,Donald Medina,36,F,Perak,Mass Affluent,P008,1,2025-11-24,143,1,7409
+C00801,Jim Newton,33,F,Pahang,Mass,P005,1,2025-10-17,181,1,5056
+C00802,Krista Wilson,67,F,Negeri Sembilan,Mass,P002,1,2025-09-26,202,1,3039
+C00803,Reginald Morrow,47,M,Kuala Lumpur,Affluent,P002|P007|P003,3,2025-06-30,290,1,13817
+C00804,Rodney Williams,28,M,Penang,Mass,P009|P005|P008,3,2020-08-06,2079,1,3097
+C00805,Kimberly Fritz,42,M,Kuala Lumpur,Affluent,P004|P007|P010,3,2022-09-11,1313,1,11475
+C00806,Ronald Potter,49,M,Sarawak,Mass,P001|P008|P006,3,2023-02-17,1154,1,3268
+C00807,Zachary Cole,64,F,Kedah,Mass,P003,1,2020-11-18,1975,1,3935
+C00808,Robert Gonzales,22,F,Pahang,Mass Affluent,P001|P010|P004,3,2022-10-02,1292,1,6201
+C00809,Patricia Young PhD,65,F,Perak,Mass,P002|P009|P004,3,2019-01-16,2647,1,5651
+C00810,Heather Page,37,M,Kedah,Mass,P004|P005|P010,3,2021-10-20,1639,1,2662
+C00811,Carol Taylor,47,F,Kedah,Mass Affluent,P002,1,2018-12-25,2669,1,6868
+C00812,Daniel Brown,66,M,Sarawak,Mass,P002|P003|P005,3,2022-06-24,1392,1,3122
+C00813,Douglas Ryan,68,F,Johor,Mass,P001|P003,2,2020-01-25,2273,1,6042
+C00814,Michael Roberts,61,M,Pahang,Mass,P002|P003,2,2023-12-19,849,1,3900
+C00815,Scott Duke,69,F,Kedah,Mass,P007|P006,2,2018-12-05,2689,1,5225
+C00816,Anna Estes,37,M,Kuala Lumpur,Mass,P006|P005,2,2024-09-17,576,1,2165
+C00817,Tamara Riddle,46,M,Kuala Lumpur,Affluent,P010|P004|P001|P008,4,2024-03-02,775,0,14669
+C00818,Beth Cline,37,F,Negeri Sembilan,Mass Affluent,P007,1,2023-12-26,842,1,10010
+C00819,Michael Poole,44,F,Kedah,Mass,P001|P009,2,2025-03-18,394,1,3747
+C00820,Megan Burns,28,F,Kedah,Mass,P005,1,2020-08-31,2054,1,5287
+C00821,Debra Perry,34,F,Johor,Mass Affluent,P005|P004|P007|P002,4,2021-05-16,1796,1,6118
+C00822,Mark Beard,36,M,Kedah,Mass Affluent,P006|P008|P002,3,2023-04-10,1102,1,12007
+C00823,Jose Ramirez,65,F,Negeri Sembilan,Mass,P007,1,2022-08-01,1354,1,8141
+C00824,Jackie Clements,56,F,Sarawak,Mass,P004,1,2025-02-20,420,0,3207
+C00825,Aaron Schroeder,72,F,Pahang,Mass Affluent,P001|P010,2,2018-09-08,2777,1,6273
+C00826,Monica Ellis,46,M,Negeri Sembilan,Mass Affluent,P009,1,2022-10-25,1269,1,12194
+C00827,Heather Brown,53,M,Kuala Lumpur,Mass,P008,1,2024-04-21,725,1,6329
+C00828,Claudia Jordan,48,M,Kedah,Mass,P001,1,2020-04-05,2202,1,3032
+C00829,Derrick Clayton,68,F,Perak,Mass,P005|P010,2,2023-01-22,1180,0,3143
+C00830,Kenneth Knight,68,M,Johor,Private Banking,P003|P009|P008|P001,4,2022-09-02,1322,1,32905
+C00831,Mr. Michael Williams,23,F,Kuala Lumpur,Mass,P008,1,2024-02-26,780,0,2274
+C00832,Richard Stevens,23,M,Johor,Mass,P009|P008|P010|P004,4,2020-08-28,2057,1,2640
+C00833,Scott Alexander,34,F,Negeri Sembilan,Affluent,P003|P009,2,2025-02-27,413,0,9401
+C00834,Tyler Harris,34,M,Kedah,Mass Affluent,P009|P003|P007|P001,4,2019-08-23,2428,1,5604
+C00835,Bonnie Santos,22,M,Sarawak,Mass,P002|P007|P006|P005,4,2022-07-10,1376,1,3597
+C00836,Timothy Hill,50,F,Selangor,Affluent,P008|P005|P001,3,2025-04-19,362,1,14501
+C00837,Danielle Watson,41,M,Sabah,Affluent,P010|P003|P004|P007,4,2021-02-16,1885,1,22987
+C00838,Carol Sanders,68,M,Penang,Mass,P007|P002|P010|P003,4,2025-08-02,257,0,2567
+C00839,Michael Young,26,F,Sabah,Mass,P007,1,2021-09-26,1663,1,5138
+C00840,Michele Smith,30,M,Sarawak,Mass,P007|P005,2,2018-11-15,2709,1,3378
+C00841,Casey Perez,53,F,Negeri Sembilan,Mass,P007|P008,2,2022-02-01,1535,1,3578
+C00842,Alexandra Dominguez,69,F,Perak,Mass,P003,1,2025-03-13,399,1,4611
+C00843,Virginia Henderson,42,F,Kedah,Private Banking,P003|P008|P002,3,2020-06-14,2132,1,24515
+C00844,Benjamin Reyes,40,M,Pahang,Mass,P005,1,2020-11-07,1986,1,4162
+C00845,Ashley Edwards,24,F,Kuala Lumpur,Mass Affluent,P009|P002|P007,3,2019-11-01,2358,1,7772
+C00846,Breanna Ayala,37,M,Kedah,Mass,P009|P001,2,2019-11-01,2358,1,4326
+C00847,Brandi Haney,46,F,Kedah,Mass,P005|P006,2,2024-03-01,776,1,4029
+C00848,Joseph Smith,42,F,Kuala Lumpur,Private Banking,P003|P004|P010|P001,4,2023-03-28,1115,1,85764
+C00849,Jessica Bowen,21,F,Perak,Mass,P008,1,2026-01-03,103,1,2913
+C00850,Brittany Jenkins,67,F,Sabah,Mass,P010|P006,2,2019-06-17,2495,1,3023
+C00851,Shannon Miller,21,F,Johor,Mass,P004|P001|P010,3,2024-09-10,583,1,2927
+C00852,Paul Lawrence,61,M,Kedah,Affluent,P002|P005|P008,3,2021-04-28,1814,1,10999
+C00853,Victor Edwards,31,M,Kedah,Affluent,P008|P010|P009,3,2024-11-25,507,1,10688
+C00854,Donald Miller,39,M,Perak,Mass Affluent,P001|P006|P010,3,2023-12-14,854,0,11116
+C00855,Lindsay Lawson,68,F,Perak,Mass Affluent,P005|P001,2,2020-08-25,2060,1,12054
+C00856,Melissa Abbott,67,M,Pahang,Mass Affluent,P008|P004,2,2019-08-01,2450,1,6004
+C00857,Elizabeth Holmes,41,F,Kuala Lumpur,Mass Affluent,P007,1,2019-09-30,2390,1,5479
+C00858,Nicole Phillips,43,M,Kedah,Mass,P003|P005,2,2018-12-18,2676,1,4294
+C00859,Steven Blevins,53,F,Perak,Mass,P006|P008|P003,3,2023-08-10,980,0,3001
+C00860,Brian Porter MD,62,M,Kedah,Mass Affluent,P003|P004|P005,3,2018-08-29,2787,1,9150
+C00861,Vanessa Hatfield,31,F,Sabah,Mass Affluent,P007,1,2023-12-21,847,1,7872
+C00862,Bonnie Valencia,24,M,Johor,Private Banking,P005|P006,2,2019-12-19,2310,1,21365
+C00863,Holly Vega,23,M,Pahang,Affluent,P002|P004,2,2020-07-24,2092,1,22963
+C00864,Tiffany Townsend,42,M,Selangor,Mass Affluent,P009|P005|P003,3,2023-04-26,1086,0,13747
+C00865,Austin Baker,72,M,Pahang,Mass,P002|P010|P009,3,2021-04-19,1823,1,2938
+C00866,Antonio Mccormick,28,F,Kuala Lumpur,Affluent,P003|P005|P008|P007,4,2019-02-22,2610,1,11664
+C00867,Lori Mason,42,F,Selangor,Affluent,P004|P008,2,2022-02-17,1519,1,14766
+C00868,Michael Miller,42,F,Perak,Mass,P005,1,2020-11-23,1970,1,4093
+C00869,Lisa Ramirez,36,F,Perak,Mass,P007|P004|P003,3,2018-10-02,2753,0,4585
+C00870,Jorge Harris,54,F,Johor,Mass Affluent,P001,1,2021-01-23,1909,1,14818
+C00871,Kimberly Myers,25,F,Selangor,Mass,P003,1,2020-05-28,2149,1,3422
+C00872,Sandra Becker,63,F,Perak,Affluent,P010|P001,2,2025-10-17,181,1,10103
+C00873,Michael Blair,65,F,Selangor,Mass Affluent,P006,1,2018-07-29,2818,1,4524
+C00874,Amy Miller,60,F,Perak,Affluent,P008|P004|P010,3,2020-04-16,2191,1,10344
+C00875,Jesse Lynch,26,F,Penang,Mass,P003,1,2022-10-29,1265,1,3599
+C00876,Patrick Yang,40,F,Penang,Mass,P003|P001|P009,3,2020-01-08,2290,1,6823
+C00877,Michael Miles,67,F,Pahang,Mass,P001|P006,2,2022-10-20,1274,1,3038
+C00878,Troy Mills,69,M,Kedah,Mass Affluent,P005,1,2025-09-03,225,1,7929
+C00879,Michelle Jackson,72,F,Sabah,Mass Affluent,P009|P004,2,2023-07-24,997,1,7290
+C00880,Richard Adams,64,M,Sarawak,Mass,P004,1,2019-10-14,2376,1,5519
+C00881,Patricia Johnson,70,F,Kuala Lumpur,Mass,P007,1,2024-01-19,818,1,8817
+C00882,Denise Brown,29,F,Negeri Sembilan,Mass,P006|P009,2,2021-06-11,1770,1,3024
+C00883,Laura Jones,37,F,Johor,Mass Affluent,P008|P010,2,2021-10-12,1647,1,6178
+C00884,Ian Porter,52,M,Penang,Mass Affluent,P009,1,2024-10-13,550,1,10567
+C00885,Holly Scott,68,M,Kuala Lumpur,Mass,P002|P007,2,2025-11-04,163,1,4622
+C00886,Kenneth Sharp,23,F,Sabah,Mass,P005,1,2022-12-17,1216,1,6949
+C00887,Jordan Williams,71,F,Penang,Mass,P007|P001|P005,3,2025-11-23,144,1,4467
+C00888,Dana Ruiz,21,F,Kedah,Mass,P001,1,2020-09-22,2032,1,3211
+C00889,Chris Velazquez,49,F,Kedah,Affluent,P008|P003|P009|P005,4,2019-11-12,2347,1,16428
+C00890,Kristen Sloan,67,M,Perak,Mass,P010|P007|P009,3,2024-07-15,640,1,5367
+C00891,Jennifer Morris,63,F,Pahang,Affluent,P002|P003|P001,3,2025-09-11,217,1,17804
+C00892,Nathan Nelson,56,F,Pahang,Mass,P009|P001|P004|P007,4,2018-12-27,2667,0,4348
+C00893,Jake Shaw,63,M,Penang,Affluent,P001|P005,2,2024-11-10,522,1,19406
+C00894,Cassie Brock,49,M,Kedah,Mass,P006|P007,2,2019-09-17,2403,1,5482
+C00895,Dr. Andrea Marshall,42,F,Sabah,Mass,P009|P006,2,2025-12-12,125,1,5906
+C00896,Ryan Murphy,55,M,Johor,Mass,P005,1,2025-02-04,436,1,4569
+C00897,Aimee Gonzalez,64,M,Selangor,Mass,P006|P003,2,2021-08-22,1698,1,3434
+C00898,Elizabeth Dean,41,M,Penang,Mass,P005|P007|P002,3,2025-02-06,434,1,3833
+C00899,Kevin Snyder,58,M,Sabah,Mass,P009|P007,2,2019-07-07,2475,1,5554
+C00900,Christie Mccullough,56,M,Sabah,Mass,P007|P004,2,2020-12-30,1933,1,2736
+C00901,Danielle Smith,64,F,Kuala Lumpur,Mass,P003|P005|P007,3,2019-08-21,2430,1,4142
+C00902,David Reed,34,M,Penang,Mass Affluent,P009,1,2020-08-06,2079,1,6389
+C00903,Sherry Tapia,56,F,Johor,Mass,P008,1,2021-06-16,1765,1,3678
+C00904,Matthew Sweeney,38,F,Selangor,Mass Affluent,P007|P006|P004,3,2020-10-19,2005,1,11470
+C00905,Ashley Moreno,57,M,Pahang,Mass,P002,1,2020-03-21,2217,0,3893
+C00906,Johnathan Brown,34,F,Sabah,Mass Affluent,P006|P010|P005|P007,4,2021-05-13,1799,1,7452
+C00907,Michelle Davis DVM,42,M,Negeri Sembilan,Mass,P006|P001|P003|P010,4,2022-08-08,1347,1,2262
+C00908,Kelly Haynes,64,M,Kuala Lumpur,Mass,P008|P007,2,2026-02-06,69,1,4728
+C00909,William Miller,49,F,Perak,Mass Affluent,P007,1,2018-09-05,2780,1,9190
+C00910,Casey Wilkins,21,F,Selangor,Mass,P004,1,2018-05-23,2885,1,7763
+C00911,Keith Graham,69,F,Penang,Mass,P006|P004|P002,3,2025-12-26,111,1,3269
+C00912,Cynthia Green,44,M,Penang,Mass,P010|P004,2,2020-09-02,2052,0,3931
+C00913,Robert Haynes,46,F,Johor,Mass,P009,1,2019-01-18,2645,1,3973
+C00914,Emily Nelson,68,M,Negeri Sembilan,Mass Affluent,P010|P003,2,2018-10-23,2732,1,12735
+C00915,Dale Chan,29,F,Penang,Mass,P004|P009,2,2025-06-24,296,1,3522
+C00916,Brittney Martin,65,M,Perak,Mass Affluent,P009|P008,2,2025-12-13,124,1,8084
+C00917,Jason Herrera,24,M,Pahang,Affluent,P007|P005,2,2018-12-02,2692,1,16527
+C00918,Christine Parker,54,F,Pahang,Mass Affluent,P004|P001|P005,3,2022-02-26,1510,1,7827
+C00919,Bryan Moore,46,M,Penang,Mass,P010,1,2026-02-24,51,0,3114
+C00920,Samantha Terry,25,M,Kuala Lumpur,Affluent,P006|P005,2,2021-06-16,1765,1,14299
+C00921,Russell Murphy,72,M,Kedah,Mass,P006|P005|P004,3,2021-05-13,1799,1,5302
+C00922,David Kelly,24,M,Kedah,Affluent,P004|P002|P008,3,2022-05-22,1425,1,9327
+C00923,Megan Green,24,M,Kedah,Affluent,P002|P003,2,2025-04-01,380,1,13996
+C00924,Amanda Sullivan MD,61,M,Sabah,Mass,P001,1,2019-05-12,2531,1,2850
+C00925,Danielle Murray,27,F,Perak,Mass Affluent,P010|P001,2,2021-09-14,1675,1,11140
+C00926,Brenda Smith,60,F,Pahang,Mass Affluent,P001,1,2021-05-29,1783,1,4302
+C00927,Vickie Anderson,27,M,Pahang,Mass,P002|P004,2,2024-01-19,818,1,2994
+C00928,Jacqueline Mccoy,51,M,Selangor,Mass Affluent,P004|P003,2,2021-06-27,1754,1,8367
+C00929,Lauren Green,48,M,Johor,Mass,P006|P005,2,2019-08-27,2424,1,6298
+C00930,Alison Brown,42,M,Perak,Mass,P009|P003|P001|P002,4,2019-06-11,2501,1,3558
+C00931,Jill Anderson,61,F,Negeri Sembilan,Affluent,P006|P004|P008|P010,4,2023-12-18,850,1,11000
+C00932,Sandra Rivera,57,M,Kedah,Private Banking,P007|P006|P003,3,2019-09-21,2399,1,70151
+C00933,Joel Jackson,52,M,Kedah,Mass,P004,1,2025-09-26,202,1,2193
+C00934,Samantha Foster,51,M,Selangor,Mass Affluent,P006|P007|P004|P008,4,2023-07-12,1009,1,3396
+C00935,Michael Thompson,43,F,Penang,Mass,P005,1,2025-05-19,332,1,4247
+C00936,Cody Ramirez,23,M,Sabah,Private Banking,P005|P003,2,2022-03-04,1504,1,30463
+C00937,Amanda Harvey,56,F,Kuala Lumpur,Mass,P003,1,2022-05-26,1421,1,2547
+C00938,Edward Jenkins,29,F,Kedah,Mass,P002|P006|P004,3,2018-08-12,2804,1,4665
+C00939,Amy Ramirez,63,M,Kuala Lumpur,Mass,P010|P007,2,2022-01-12,1555,1,3965
+C00940,Curtis Wilkerson,71,F,Penang,Mass,P006|P010,2,2024-09-28,565,0,2989
+C00941,Lydia Pham,58,M,Selangor,Mass,P003|P006,2,2019-04-20,2553,1,2326
+C00942,Virginia Casey,29,F,Negeri Sembilan,Affluent,P008|P004|P002|P007,4,2023-01-25,1177,1,18131
+C00943,Joshua Washington,45,F,Pahang,Mass Affluent,P009|P006,2,2020-07-03,2113,1,9206
+C00944,Kathryn Price,66,F,Negeri Sembilan,Mass,P008|P010,2,2022-08-07,1348,1,3517
+C00945,Francis Robinson,62,F,Penang,Mass,P004,1,2019-08-30,2421,1,6949
+C00946,Paula Brown,48,M,Kuala Lumpur,Affluent,P006|P005|P002,3,2022-10-11,1283,1,9186
+C00947,Kendra Wang DVM,43,F,Perak,Mass,P009,1,2020-05-22,2155,1,2135
+C00948,Ariel Sandoval,47,M,Johor,Mass,P005|P007,2,2021-05-11,1801,1,2858
+C00949,Robert Stark,62,F,Penang,Mass,P005|P009|P002,3,2023-03-26,1117,1,3583
+C00950,Zachary Robinson,44,F,Sabah,Mass,P004,1,2025-05-29,322,1,3965
+C00951,Rebecca Kelly,38,F,Selangor,Mass,P003|P009,2,2018-07-18,2829,1,3346
+C00952,Sarah Thompson,43,F,Pahang,Mass Affluent,P007|P001,2,2023-01-18,1184,0,8293
+C00953,Renee Wolfe,46,M,Pahang,Mass,P004|P008,2,2024-07-14,641,1,2350
+C00954,Alyssa Haynes,69,M,Perak,Mass,P006|P002|P010,3,2020-01-05,2293,1,6035
+C00955,Kristy Hart,47,F,Johor,Mass,P009|P001,2,2018-05-20,2888,1,3538
+C00956,William Keith,40,M,Perak,Affluent,P006|P010,2,2024-10-08,555,1,19753
+C00957,Eric Henry Jr.,69,M,Johor,Mass Affluent,P006|P001,2,2021-09-07,1682,1,8266
+C00958,Daniel Fox,57,F,Penang,Mass Affluent,P010|P007,2,2022-07-04,1382,0,8603
+C00959,Thomas Harris,55,F,Kuala Lumpur,Mass,P006|P008,2,2025-06-30,290,1,4444
+C00960,Mitchell Sellers,56,M,Penang,Mass,P010|P008|P001,3,2018-08-22,2794,1,4259
+C00961,Erica Johnson,39,M,Kedah,Mass,P009,1,2021-11-18,1610,1,4559
+C00962,Sylvia Schroeder,21,M,Johor,Mass,P007|P010|P003,3,2020-05-24,2153,1,5798
+C00963,Shannon Yu,68,F,Kedah,Mass,P004|P003|P010|P009,4,2020-11-05,1988,1,3900
+C00964,Tom Foster,40,M,Selangor,Mass Affluent,P008|P005,2,2019-10-05,2385,0,9397
+C00965,Eric Taylor,25,F,Kedah,Affluent,P004|P009|P006,3,2021-03-18,1855,1,12947
+C00966,Travis Conner,68,F,Perak,Mass,P008|P006,2,2025-10-08,190,1,6027
+C00967,Marie Thompson,47,M,Negeri Sembilan,Mass,P007|P008|P010,3,2024-03-30,747,1,2873
+C00968,Melissa Mcfarland,23,M,Penang,Mass,P005|P009|P010,3,2018-05-17,2891,0,6839
+C00969,Courtney Chapman,69,F,Johor,Mass Affluent,P002|P010|P006|P004,4,2021-08-06,1714,1,7230
+C00970,Eric Barker,23,F,Sarawak,Mass,P008,1,2020-07-14,2102,1,2207
+C00971,Nicholas Rush,46,F,Kedah,Mass,P003,1,2024-01-11,826,1,3808
+C00972,Jenna Gamble,26,M,Kedah,Mass,P008,1,2025-06-11,309,1,2869
+C00973,Amanda Guzman,31,F,Johor,Affluent,P003|P005|P002,3,2024-05-26,690,1,17930
+C00974,Tracy Walker,64,M,Pahang,Mass,P003|P004,2,2026-01-31,75,1,2897
+C00975,Taylor Taylor,24,M,Negeri Sembilan,Affluent,P002|P007|P005|P004,4,2018-05-25,2883,1,11428
+C00976,Cynthia Haas,70,M,Kuala Lumpur,Mass,P004,1,2021-12-23,1575,1,1879
+C00977,Stephen Davis,21,M,Kuala Lumpur,Mass,P002,1,2025-11-23,144,1,3108
+C00978,Margaret Tanner,31,M,Sarawak,Mass Affluent,P009,1,2018-10-05,2750,1,3139
+C00979,Derek Wright,33,M,Penang,Mass Affluent,P007|P010|P002,3,2019-03-07,2597,1,4212
+C00980,David Rodriguez,32,M,Kedah,Mass,P001|P007,2,2022-08-01,1354,1,4751
+C00981,James Oconnor,38,M,Perak,Mass Affluent,P002,1,2018-10-30,2725,1,9653
+C00982,Stacey Snyder,52,F,Kuala Lumpur,Private Banking,P009|P003,2,2019-06-30,2482,1,42147
+C00983,Joshua Garcia,65,F,Kedah,Mass,P003|P006|P010,3,2019-02-18,2614,1,2596
+C00984,Sean Curtis,59,M,Selangor,Affluent,P009|P004|P001,3,2026-01-04,102,1,13138
+C00985,Carla Jones,40,M,Johor,Mass,P004|P002,2,2024-10-25,538,1,3636
+C00986,Elizabeth Flores,33,M,Negeri Sembilan,Mass,P001,1,2022-11-19,1244,0,2427
+C00987,Angela Jackson,68,F,Sabah,Affluent,P006|P001,2,2021-03-26,1847,1,22611
+C00988,Nicholas Payne,67,M,Penang,Mass,P009,1,2023-08-22,968,1,4950
+C00989,Anna Wheeler,67,F,Selangor,Mass,P009|P006|P003,3,2018-05-27,2881,1,3370
+C00990,Karen Johnson,25,M,Kuala Lumpur,Private Banking,P003|P004,2,2020-09-11,2043,1,36659
+C00991,Carmen Preston,71,F,Sabah,Affluent,P002|P007,2,2020-01-20,2278,1,14371
+C00992,Brian Harris,36,F,Penang,Mass,P005|P010,2,2023-12-29,839,1,1782
+C00993,Michael Bowen,26,F,Kedah,Private Banking,P007|P003,2,2020-10-24,2000,1,33306
+C00994,Deborah Campbell,68,M,Perak,Mass,P008,1,2019-05-17,2526,1,2868
+C00995,Anthony Armstrong,69,M,Sabah,Affluent,P009|P003,2,2025-04-11,370,1,9409
+C00996,Brittany Ward,50,F,Johor,Mass,P008|P002,2,2022-10-12,1282,1,3300
+C00997,Edward Stanley,30,F,Perak,Affluent,P009|P006,2,2024-01-06,831,0,25064
+C00998,Christina Johnson,68,F,Selangor,Mass,P010|P002,2,2021-10-13,1646,0,4556
+C00999,Edgar Miller,45,F,Pahang,Affluent,P007|P005,2,2024-10-24,539,1,10939
+C01000,Elizabeth Sanders,65,F,Penang,Mass,P007,1,2019-02-02,2630,1,4449
+C01001,Matthew Davis MD,44,F,Johor,Mass Affluent,P003|P005,2,2025-10-27,171,1,11965
+C01002,Stephen Wood,58,F,Perak,Private Banking,P001|P002|P009|P006,4,2019-06-16,2496,1,50193
+C01003,Dennis Marshall,54,F,Pahang,Affluent,P003|P007|P005|P006,4,2025-04-22,359,0,13641
+C01004,Derrick Brown,45,F,Johor,Mass Affluent,P002|P010,2,2018-10-28,2727,1,5846
+C01005,Mary Miller,68,F,Selangor,Mass,P003,1,2023-11-10,888,1,4649
+C01006,Joshua Arellano,47,M,Sarawak,Mass,P007|P003,2,2018-05-26,2882,1,4179
+C01007,Kristen Randall,33,M,Johor,Mass,P002|P008,2,2024-09-13,580,1,4981
+C01008,Jennifer Nichols,72,F,Negeri Sembilan,Mass Affluent,P007,1,2024-02-28,778,1,9157
+C01009,Karen Keith,31,F,Kuala Lumpur,Mass,P002,1,2019-01-27,2636,1,5257
+C01010,Blake Orr,36,M,Sabah,Mass,P002|P001,2,2019-08-23,2428,1,3019
+C01011,Kathryn Lester,63,F,Kedah,Mass Affluent,P002|P004|P001|P009,4,2026-02-16,59,1,11627
+C01012,Megan Oliver,59,F,Penang,Mass,P006,1,2022-06-06,1410,0,3902
+C01013,Peter Thompson,46,F,Kuala Lumpur,Mass,P006,1,2018-10-01,2754,1,7528
+C01014,Dr. Rhonda Martinez,46,F,Penang,Mass Affluent,P003|P001|P002,3,2018-05-18,2890,1,5761
+C01015,William Graham,64,M,Sarawak,Mass Affluent,P007|P004,2,2019-04-11,2562,1,13461
+C01016,Lori Flowers MD,23,F,Negeri Sembilan,Private Banking,P008|P004|P010,3,2022-03-03,1505,1,38920
+C01017,Suzanne Jones,48,M,Johor,Affluent,P008|P002|P007|P003,4,2022-04-21,1456,1,10636
+C01018,James Nguyen,71,F,Pahang,Affluent,P003|P008|P002,3,2019-10-18,2372,0,11278
+C01019,Jimmy Marks,31,M,Johor,Affluent,P008|P009|P004|P002,4,2020-12-21,1942,1,11943
+C01020,Lisa Mills,65,F,Perak,Mass,P001|P003,2,2018-10-23,2732,1,4224
+C01021,Jason Hernandez,67,F,Kuala Lumpur,Mass,P002|P003,2,2023-09-27,932,1,4372
+C01022,Olivia Ayers,35,F,Pahang,Affluent,P010|P002|P006|P004,4,2022-06-23,1393,0,10929
+C01023,Kristine Garcia,72,M,Kuala Lumpur,Mass,P005,1,2021-04-23,1819,1,3610
+C01024,Joseph Cooper,33,M,Sarawak,Mass Affluent,P006,1,2019-07-27,2455,0,15519
+C01025,James Washington,68,M,Perak,Mass,P009,1,2019-09-27,2393,0,6665
+C01026,Amanda Hill,70,M,Kuala Lumpur,Mass,P003|P009,2,2022-08-16,1339,1,4242
+C01027,Lee Steele,50,F,Johor,Mass,P005|P004|P008,3,2020-03-04,2234,1,3690
+C01028,Steve Rivera,68,M,Sabah,Mass Affluent,P001|P006|P005,3,2024-07-28,627,0,7647
+C01029,Patrick Mccall,51,F,Selangor,Mass Affluent,P005,1,2019-10-10,2380,0,9088
+C01030,Alicia Roth,30,M,Kedah,Affluent,P004|P001,2,2022-06-22,1394,1,9340
+C01031,Douglas Vasquez,63,F,Sarawak,Affluent,P001|P009,2,2022-11-08,1255,1,12209
+C01032,Annette Melton,43,F,Sabah,Mass Affluent,P009,1,2020-11-24,1969,1,4089
+C01033,William Ramos,65,M,Sabah,Affluent,P003|P006,2,2024-01-08,829,1,15363
+C01034,Debra Butler,57,M,Penang,Mass,P005|P003,2,2024-05-16,700,1,4567
+C01035,Chelsea Lewis,68,M,Johor,Mass Affluent,P010,1,2024-01-06,831,1,6191
+C01036,Natalie Malone,64,M,Kuala Lumpur,Affluent,P002|P006|P008|P010,4,2021-06-02,1779,0,23177
+C01037,Samantha Robertson,42,M,Perak,Mass Affluent,P007|P004|P001|P008,4,2018-12-02,2692,1,4774
+C01038,Eric Hunter,59,F,Sabah,Private Banking,P007|P002|P008,3,2018-06-30,2847,1,21752
+C01039,Samuel Suarez,44,F,Pahang,Mass,P002,1,2021-03-20,1853,1,3939
+C01040,Corey Whitaker,57,F,Perak,Private Banking,P002|P003|P007,3,2019-08-18,2433,1,52391
+C01041,Danielle Bryant,27,F,Selangor,Mass,P009|P003,2,2024-10-21,542,1,6564
+C01042,Michele Hill,71,M,Kuala Lumpur,Affluent,P009|P010|P002,3,2020-03-11,2227,1,11377
+C01043,Kathy Reid,65,M,Johor,Mass,P006|P002,2,2019-06-29,2483,1,5311
+C01044,Andre Watson,31,M,Kuala Lumpur,Mass,P001,1,2018-11-21,2703,1,3592
+C01045,Cassandra Harrell,55,F,Pahang,Mass,P001|P004|P005|P010,4,2022-02-17,1519,1,3427
+C01046,Hannah Martin,52,M,Kuala Lumpur,Mass Affluent,P006|P009,2,2019-09-27,2393,1,9989
+C01047,Nicole Barker,36,M,Negeri Sembilan,Mass,P004,1,2025-09-15,213,1,4575
+C01048,James Martin,43,F,Sabah,Mass,P007|P002,2,2019-07-29,2453,1,2097
+C01049,Traci Vincent,46,M,Sabah,Mass,P007|P003|P004,3,2024-05-18,698,0,6105
+C01050,Megan Adams,62,M,Perak,Mass,P009,1,2018-05-24,2884,1,5902
+C01051,Alejandro Deleon,71,M,Kuala Lumpur,Mass,P010,1,2022-08-30,1325,1,2925
+C01052,Alexa Buck,28,F,Sarawak,Mass Affluent,P006|P002,2,2020-04-01,2206,1,8421
+C01053,Lindsay Smith,72,M,Perak,Mass,P007,1,2024-07-26,629,0,4328
+C01054,Robert Torres,32,F,Negeri Sembilan,Mass,P010|P008|P002,3,2024-10-28,535,1,3989
+C01055,Maria Coleman,38,M,Sarawak,Mass Affluent,P003|P006|P007,3,2020-01-09,2289,1,6047
+C01056,Gregory King,71,M,Sabah,Mass,P007|P008,2,2018-08-10,2806,1,2878
+C01057,Michael Holloway,66,F,Selangor,Mass,P007,1,2020-06-13,2133,0,3609
+C01058,Brian Hunt,44,F,Kedah,Mass Affluent,P010,1,2019-01-15,2648,1,11053
+C01059,Sarah Brooks,72,M,Sabah,Mass,P007,1,2022-03-29,1479,1,4404
+C01060,Lisa Evans,40,M,Kuala Lumpur,Mass,P002,1,2025-03-26,386,1,3198
+C01061,Arthur Mcneil,31,F,Selangor,Mass Affluent,P005,1,2025-02-27,413,0,9606
+C01062,Shannon Green,64,M,Perak,Mass,P008|P010,2,2021-06-15,1766,1,1343
+C01063,Stephanie Evans,68,M,Pahang,Mass,P009|P006,2,2024-01-29,808,1,5443
+C01064,Ralph Yoder,59,M,Johor,Mass,P009,1,2025-09-25,203,1,1980
+C01065,Rebekah Greene,53,F,Johor,Mass,P008,1,2024-09-17,576,1,3207
+C01066,Melanie Griffith,42,F,Sabah,Affluent,P009|P002,2,2024-12-09,493,1,9028
+C01067,Yolanda Green,34,F,Pahang,Mass,P007|P004,2,2023-03-29,1114,1,2314
+C01068,James Johnson,50,F,Sarawak,Affluent,P001|P006|P010|P005,4,2025-10-23,175,1,20056
+C01069,Laura Lee,21,M,Kuala Lumpur,Mass,P007|P006,2,2025-01-03,468,1,3091
+C01070,Courtney Nichols,26,M,Johor,Mass,P007|P002|P008,3,2023-12-29,839,1,4110
+C01071,Susan Powers,35,F,Johor,Mass,P006,1,2023-05-28,1054,1,3582
+C01072,Sarah Pittman,27,F,Perak,Private Banking,P008|P003|P009,3,2023-03-10,1133,1,42914
+C01073,Catherine Davis,28,F,Sarawak,Mass,P007,1,2023-12-26,842,0,3740
+C01074,David Stokes,63,F,Kedah,Mass,P005|P002,2,2024-05-30,686,1,2324
+C01075,Catherine Frazier,66,M,Kuala Lumpur,Mass,P007|P009|P010,3,2018-07-25,2822,0,5160
+C01076,Brandon Kelly,29,F,Perak,Mass,P004|P001,2,2025-12-21,116,0,3063
+C01077,Elizabeth French,48,F,Penang,Mass,P002,1,2026-02-13,62,1,2112
+C01078,David Carter,32,M,Kedah,Mass,P005|P004|P007,3,2020-06-22,2124,1,3134
+C01079,Julie Delacruz,65,M,Kuala Lumpur,Mass Affluent,P004|P003,2,2025-01-19,452,1,12398
+C01080,Terry Jones,38,M,Perak,Private Banking,P007|P001|P004|P009,4,2025-10-11,187,1,48902
+C01081,Kathryn Dillon,65,F,Kedah,Mass Affluent,P006,1,2022-10-09,1285,1,6490
+C01082,Edwin Brown,62,F,Sarawak,Mass,P006,1,2021-06-02,1779,1,3222
+C01083,Brenda Gonzalez,41,F,Penang,Affluent,P001|P010,2,2023-06-10,1041,1,11937
+C01084,Keith Knox,59,F,Sarawak,Mass,P008,1,2023-01-25,1177,1,7532
+C01085,Eugene Baldwin,63,F,Sarawak,Mass,P003|P006,2,2025-02-14,426,1,4162
+C01086,Katherine Welch,54,M,Negeri Sembilan,Mass Affluent,P005,1,2019-08-09,2442,1,8523
+C01087,Mark Smith,29,M,Kedah,Mass Affluent,P001|P004,2,2025-01-06,465,0,10515
+C01088,Philip Jackson,55,M,Pahang,Mass Affluent,P008,1,2025-05-15,336,1,7971
+C01089,Katherine Gallagher,29,F,Sarawak,Mass,P005|P009,2,2025-09-19,209,1,3325
+C01090,Lucas Schultz,48,M,Negeri Sembilan,Mass,P009|P001,2,2024-11-22,510,1,3399
+C01091,Vincent Reyes,39,F,Pahang,Mass,P004|P007,2,2024-10-05,558,1,3551
+C01092,Curtis Watson,31,F,Negeri Sembilan,Mass,P009|P007,2,2025-05-14,337,1,3594
+C01093,Frank Whitaker,21,F,Pahang,Mass,P001,1,2024-02-23,783,1,4697
+C01094,Michael Sims,37,M,Johor,Mass,P005,1,2020-04-27,2180,1,3708
+C01095,Michael Cooper,36,F,Selangor,Mass,P005|P003,2,2020-03-23,2215,1,4705
+C01096,James Chapman,34,F,Sarawak,Mass,P006,1,2023-06-02,1049,1,3540
+C01097,Rodney Evans,56,F,Sarawak,Mass,P010,1,2018-04-19,2919,0,3743
+C01098,Nicholas Carlson,21,F,Selangor,Affluent,P005|P003,2,2019-03-11,2593,1,6638
+C01099,Stephen Cowan,27,M,Kedah,Mass Affluent,P005|P009,2,2019-09-01,2419,1,10104
+C01100,Steven Howard,34,M,Perak,Mass Affluent,P007|P003|P008,3,2023-03-13,1130,1,8277
+C01101,Travis Hull,26,F,Johor,Mass,P003|P004,2,2020-11-01,1992,1,5163
+C01102,Darryl Acosta,40,M,Kuala Lumpur,Mass,P007,1,2025-12-21,116,1,1321
+C01103,Nicholas Lawrence,36,M,Selangor,Mass,P007|P002,2,2021-06-05,1776,1,7562
+C01104,Jacob Santos,45,M,Sabah,Mass,P001|P003|P004,3,2021-12-21,1577,1,3467
+C01105,Shawn Scott,59,M,Penang,Mass,P002|P009|P006|P007,4,2019-03-05,2599,1,5366
+C01106,Amber Vang,49,M,Selangor,Affluent,P008|P003,2,2019-11-24,2335,1,9284
+C01107,Martha Smith,61,M,Pahang,Mass,P001,1,2023-03-18,1125,1,4512
+C01108,Jennifer James,47,F,Johor,Mass,P001|P004|P007,3,2020-06-21,2125,1,2518
+C01109,Kara Hernandez,35,M,Penang,Affluent,P002|P008|P003,3,2022-12-29,1204,1,10739
+C01110,Lorraine Turner,43,M,Selangor,Mass,P006,1,2023-01-18,1184,1,7115
+C01111,Mary Nelson,48,F,Negeri Sembilan,Mass,P007|P003,2,2024-03-18,759,1,3406
+C01112,Breanna Rivas,27,M,Selangor,Mass,P006|P005,2,2022-04-21,1456,1,3929
+C01113,Nathan Wilson,70,F,Kedah,Mass Affluent,P007,1,2024-07-17,638,1,9942
+C01114,Brian Gonzalez,57,F,Johor,Mass,P003|P002,2,2024-12-09,493,1,4331
+C01115,Dennis Mills,43,M,Penang,Mass,P007|P006,2,2021-11-21,1607,1,3838
+C01116,Michael Phillips,52,F,Kuala Lumpur,Mass,P009|P004,2,2020-01-18,2280,1,4137
+C01117,Jon Clark,54,M,Sarawak,Mass Affluent,P004|P002,2,2021-06-24,1757,1,17004
+C01118,Erin Smith,44,M,Sabah,Mass Affluent,P002|P001|P006|P003,4,2026-01-06,100,1,7186
+C01119,Susan Conley,47,M,Perak,Mass,P001|P003|P002,3,2020-01-10,2288,1,3906
+C01120,Brittany Davis,48,F,Negeri Sembilan,Mass,P010|P002,2,2018-05-27,2881,1,5259
+C01121,Misty Garcia,30,M,Negeri Sembilan,Mass,P002,1,2025-11-14,153,1,5361
+C01122,David Hinton,30,F,Kedah,Mass Affluent,P003|P009,2,2021-07-16,1735,1,11108
+C01123,John Garcia,49,M,Selangor,Mass Affluent,P005|P002,2,2022-06-05,1411,0,9169
+C01124,Andrew Roberts,59,F,Kedah,Mass Affluent,P001|P007,2,2025-11-06,161,1,4915
+C01125,Emily Rodgers,57,F,Kuala Lumpur,Mass,P007|P003,2,2023-04-26,1086,1,6449
+C01126,Peter Williams,68,M,Pahang,Mass,P004|P007,2,2024-10-21,542,1,2438
+C01127,Mary Jackson,65,F,Johor,Mass,P007,1,2025-05-05,346,1,4048
+C01128,Jeffrey Howell,62,M,Sarawak,Mass,P002,1,2022-01-16,1551,1,2796
+C01129,Anna Briggs,22,M,Penang,Mass,P002,1,2022-06-12,1404,1,3560
+C01130,James Rivers,33,F,Kuala Lumpur,Mass Affluent,P001|P004,2,2022-09-28,1296,0,8226
+C01131,James Jefferson,23,M,Sabah,Mass Affluent,P001|P010|P006,3,2019-11-16,2343,1,8205
+C01132,Mariah Robles,69,F,Perak,Mass,P004,1,2022-03-18,1490,1,4220
+C01133,Michael Brown,65,M,Pahang,Mass Affluent,P009,1,2024-10-03,560,1,12898
+C01134,Caitlin Perry,22,M,Sabah,Mass Affluent,P010,1,2024-07-10,645,1,8593
+C01135,Rebekah Gregory,50,M,Johor,Mass,P004|P010,2,2018-07-22,2825,0,3343
+C01136,James Howard,54,M,Sarawak,Private Banking,P009|P006|P008,3,2020-08-01,2084,1,50890
+C01137,Michael Roberson,48,M,Negeri Sembilan,Mass,P007|P004,2,2019-03-21,2583,1,5521
+C01138,Bianca Knapp,57,F,Pahang,Mass Affluent,P001|P003,2,2024-07-01,654,1,4771
+C01139,Jason Williams,52,M,Kuala Lumpur,Mass,P005,1,2025-03-25,387,1,4488
+C01140,Ernest Bush,43,F,Kedah,Mass,P008,1,2022-02-18,1518,0,4654
+C01141,Patricia Ray,62,F,Perak,Affluent,P010|P008|P001|P003,4,2021-04-02,1840,1,12038
+C01142,Vanessa Santiago,64,F,Sarawak,Mass,P010,1,2019-04-05,2568,1,5893
+C01143,Joseph Haynes,53,M,Johor,Mass,P001|P010|P004,3,2021-07-29,1722,1,3455
+C01144,Matthew Wright,45,M,Perak,Mass,P002,1,2022-12-13,1220,1,3805
+C01145,Michael Cruz,26,M,Kuala Lumpur,Mass,P009|P008,2,2018-09-15,2770,1,3427
+C01146,Kristin Huerta,46,M,Sarawak,Mass Affluent,P006,1,2024-12-29,473,1,7372
+C01147,Mason Moore,52,F,Selangor,Mass,P002|P005,2,2019-06-07,2505,1,2481
+C01148,Sarah Booth,30,F,Selangor,Mass Affluent,P001,1,2020-12-09,1954,0,4429
+C01149,John Allen,71,M,Perak,Mass,P001|P004,2,2022-02-26,1510,1,6362
+C01150,Amber Walker,32,M,Sabah,Mass,P007,1,2019-01-30,2633,1,2707
+C01151,Jennifer Young,47,M,Kuala Lumpur,Mass,P005|P003,2,2021-02-22,1879,0,2573
+C01152,Robert West,42,F,Kedah,Private Banking,P004|P006,2,2021-05-27,1785,1,17091
+C01153,Jillian Wilson,71,M,Pahang,Mass,P006|P007,2,2018-06-26,2851,1,2911
+C01154,Matthew Garcia MD,33,F,Sarawak,Mass,P010|P003,2,2019-07-07,2475,1,2291
+C01155,April Davis,30,F,Pahang,Mass,P007,1,2021-01-24,1908,1,6469
+C01156,Lisa Torres,29,M,Penang,Mass Affluent,P010|P002,2,2021-02-26,1875,1,10440
+C01157,Christine Powers,47,F,Penang,Mass Affluent,P010|P007|P004,3,2024-02-08,798,0,5763
+C01158,Heidi Brown,57,F,Sabah,Private Banking,P006|P001,2,2018-08-03,2813,1,79886
+C01159,Jesse Castro,65,F,Pahang,Mass,P007|P010|P006|P003,4,2024-10-23,540,0,5134
+C01160,Kara Sandoval,28,F,Perak,Affluent,P006|P003|P009,3,2022-06-11,1405,1,11924
+C01161,Ashley Malone,65,M,Kuala Lumpur,Mass Affluent,P010|P002,2,2018-10-24,2731,1,3057
+C01162,Glenn Gallegos,60,M,Kedah,Affluent,P010|P009,2,2026-01-09,97,1,29787
+C01163,Dorothy Boyd,63,F,Kuala Lumpur,Mass,P004|P008,2,2025-11-04,163,1,2239
+C01164,Amber Martin,28,M,Sarawak,Mass,P008|P007|P009,3,2020-12-10,1953,1,2047
+C01165,Mitchell Griffith,39,M,Selangor,Mass,P005|P007,2,2020-07-08,2108,0,5208
+C01166,Levi Lopez,23,F,Sarawak,Mass,P006,1,2021-07-23,1728,1,8552
+C01167,Jenna Bryant,48,F,Johor,Mass,P004|P007|P001|P009,4,2019-10-17,2373,0,5911
+C01168,Michelle Rodriguez,67,M,Kuala Lumpur,Mass,P009|P003|P007,3,2021-10-30,1629,1,4435
+C01169,Timothy Monroe,53,M,Sarawak,Mass,P007|P005,2,2024-10-16,547,1,4484
+C01170,Patricia Hayes,22,M,Negeri Sembilan,Mass,P010|P003,2,2025-02-28,412,1,4908
+C01171,Tina Taylor,57,F,Johor,Mass,P003|P008,2,2025-04-29,352,1,4749
+C01172,Mr. Anthony Mcconnell PhD,40,F,Kuala Lumpur,Mass,P007|P005|P001,3,2023-09-21,938,0,4018
+C01173,Mr. Thomas Thompson,22,F,Negeri Sembilan,Mass Affluent,P002|P010,2,2019-03-05,2599,1,7604
+C01174,Monica Anderson,39,F,Sarawak,Mass,P002,1,2024-08-14,610,0,3562
+C01175,Kyle Andrade,46,M,Penang,Mass,P007|P002|P008,3,2023-11-17,881,1,2796
+C01176,Janice Petty,41,F,Selangor,Mass Affluent,P003|P010,2,2021-12-31,1567,0,6646
+C01177,Pamela Hill,57,F,Negeri Sembilan,Mass Affluent,P002|P006|P009,3,2018-10-24,2731,1,4054
+C01178,Tracy Chavez,31,M,Negeri Sembilan,Mass,P002,1,2026-02-25,50,1,3518
+C01179,Jason Graves,54,M,Penang,Mass,P006,1,2025-12-13,124,1,2576
+C01180,Elizabeth Miles,35,F,Kedah,Mass,P003|P005,2,2024-08-27,597,1,2474
+C01181,Michelle Walls,43,F,Pahang,Mass Affluent,P008|P010,2,2025-03-06,406,0,7808
+C01182,Christina Weber,37,M,Negeri Sembilan,Mass,P005|P007,2,2024-01-17,820,1,5927
+C01183,Gregory Chambers,40,F,Kedah,Mass,P008,1,2019-08-15,2436,1,5021
+C01184,Miss Tina Gordon,41,F,Sarawak,Mass Affluent,P007|P004,2,2023-03-01,1142,0,4232
+C01185,Erica Wilson,49,F,Negeri Sembilan,Mass,P009,1,2025-06-27,293,1,2575
+C01186,John Duncan,62,M,Sarawak,Private Banking,P007|P001|P002,3,2019-06-09,2503,1,50477
+C01187,Jennifer Adkins,43,F,Johor,Mass,P006,1,2024-02-15,791,1,2582
+C01188,Donna Boone,21,M,Kedah,Mass,P006,1,2024-11-02,530,1,3366
+C01189,Kelly Johnson,35,M,Pahang,Mass Affluent,P010,1,2022-08-08,1347,1,8889
+C01190,Michael Gonzalez,38,F,Sarawak,Mass Affluent,P002|P007|P009,3,2019-12-02,2327,1,5224
+C01191,Candace Mitchell,72,F,Kuala Lumpur,Mass,P005,1,2025-08-26,233,1,3778
+C01192,Ryan Vaughn,59,M,Sabah,Mass,P010,1,2024-04-16,730,1,2283
+C01193,Paul Johnson,21,M,Sarawak,Affluent,P007|P001,2,2019-10-02,2388,1,10824
+C01194,Ashley Parrish,51,F,Perak,Mass,P005|P010|P006,3,2025-06-06,314,1,4072
+C01195,Sharon Newton,52,F,Kuala Lumpur,Mass Affluent,P008,1,2022-09-12,1312,1,4198
+C01196,Cynthia Mueller,27,M,Kuala Lumpur,Mass,P001,1,2019-04-12,2561,0,4248
+C01197,Donna Beck,67,F,Pahang,Mass,P004,1,2018-07-01,2846,0,3616
+C01198,Jasmine Frye,24,M,Sabah,Mass,P002|P001|P005,3,2018-06-28,2849,1,4418
+C01199,Emily Arnold,71,F,Kuala Lumpur,Affluent,P003|P010,2,2019-05-04,2539,1,14449
+C01200,David Oliver,69,M,Negeri Sembilan,Mass Affluent,P007|P008|P002,3,2024-07-19,636,1,11819
+C01201,Sheila Greer,38,F,Sabah,Mass,P004|P002,2,2020-09-17,2037,1,3804
+C01202,Michele Holland,56,M,Kedah,Affluent,P004|P002,2,2022-04-02,1475,1,11495
+C01203,Kimberly Morrison,63,F,Penang,Mass,P004|P008|P002,3,2026-01-23,83,1,3800
+C01204,Tracey Phillips,53,M,Johor,Affluent,P005|P008|P003|P007,4,2020-04-16,2191,1,16158
+C01205,Michael Lopez,45,M,Sabah,Private Banking,P009|P004|P007|P002,4,2022-02-17,1519,1,36942
+C01206,Jose Bennett,40,M,Kuala Lumpur,Private Banking,P002|P003|P008,3,2018-07-07,2840,1,36835
+C01207,Justin Anderson,32,F,Sabah,Mass,P009|P008,2,2021-01-15,1917,1,2848
+C01208,Dawn Rivera,26,F,Pahang,Mass,P007,1,2020-01-14,2284,1,2887
+C01209,Brittney Hernandez,38,F,Penang,Mass,P007,1,2021-04-05,1837,1,2229
+C01210,Anthony Randolph,32,F,Kuala Lumpur,Mass Affluent,P008|P009,2,2021-09-10,1679,1,13526
+C01211,Mary Henry,36,F,Penang,Private Banking,P001|P010,2,2018-12-17,2677,1,23497
+C01212,Heather Bowers,38,F,Kuala Lumpur,Mass,P007|P010,2,2025-01-28,443,1,2857
+C01213,Daniel White,38,F,Sabah,Mass,P004,1,2018-06-14,2863,1,2831
+C01214,Jonathan Perry,67,F,Sabah,Mass,P010,1,2022-12-24,1209,1,4980
+C01215,Anna Walker,36,F,Kedah,Mass,P003|P010,2,2018-06-30,2847,1,3284
+C01216,Gary Ward,63,F,Kuala Lumpur,Mass,P003,1,2026-01-24,82,1,5635
+C01217,Paul Moreno,59,M,Kedah,Mass,P001|P008,2,2026-02-06,69,1,2876
+C01218,Samantha Zavala MD,57,M,Johor,Mass Affluent,P004,1,2026-01-05,101,1,8084
+C01219,Jill Conway,40,F,Kedah,Affluent,P008|P006,2,2025-02-01,439,1,9973
+C01220,Lisa Haley,21,F,Kuala Lumpur,Affluent,P006|P009,2,2021-01-23,1909,1,28305
+C01221,Erica Moon,67,M,Johor,Mass Affluent,P007,1,2020-05-20,2157,1,4838
+C01222,Janice Fernandez,36,M,Kuala Lumpur,Mass Affluent,P007|P006,2,2025-11-11,156,1,8172
+C01223,Thomas Short,61,F,Pahang,Mass,P009,1,2021-12-21,1577,1,4545
+C01224,Robert Griffin,43,F,Penang,Affluent,P007|P005,2,2018-08-05,2811,1,15442
+C01225,Steven Lee,65,F,Sabah,Mass,P007|P008,2,2020-05-17,2160,1,3412
+C01226,Tiffany Jackson,52,F,Negeri Sembilan,Affluent,P003|P009,2,2026-02-11,64,1,12766
+C01227,Kimberly Smith,40,M,Kedah,Mass,P005,1,2024-05-20,696,1,3697
+C01228,Michael Ayala,58,F,Selangor,Mass,P001|P007,2,2023-01-13,1189,1,3458
+C01229,Jessica Garcia,43,F,Johor,Affluent,P009|P010|P003|P001,4,2024-08-30,594,0,18720
+C01230,Michele Cherry,48,M,Kedah,Mass Affluent,P004,1,2024-01-02,835,0,15894
+C01231,Maria Case,72,M,Sabah,Mass Affluent,P007,1,2023-06-03,1048,0,6032
+C01232,Brittany Stevens,40,M,Sabah,Mass,P006|P003,2,2019-07-07,2475,1,2254
+C01233,Brandon Brown,33,F,Pahang,Mass,P010,1,2019-12-29,2300,1,3530
+C01234,Kristin Andrews,27,F,Kedah,Mass,P006|P009,2,2021-04-23,1819,1,8981
+C01235,David Hughes,47,M,Johor,Private Banking,P009|P001|P007,3,2020-12-23,1940,1,27411
+C01236,Jessica Smith,71,F,Selangor,Mass,P003|P009,2,2022-10-26,1268,1,6462
+C01237,Kimberly May,29,F,Selangor,Mass,P009,1,2021-10-21,1638,1,6550
+C01238,Nicole Richards,62,F,Selangor,Mass,P005|P008,2,2023-03-07,1136,1,3000
+C01239,Angel Reilly,64,M,Pahang,Mass,P004|P009,2,2019-08-27,2424,1,4443
+C01240,Richard Turner,29,F,Selangor,Mass,P003|P005,2,2020-08-27,2058,1,6438
+C01241,Preston Kim,65,M,Pahang,Mass,P003,1,2019-03-20,2584,1,3188
+C01242,Matthew Wells,27,M,Sabah,Mass,P008|P007|P001,3,2023-12-02,866,1,3391
+C01243,Brandy Myers,36,F,Johor,Affluent,P010|P008|P002,3,2024-02-23,783,1,10899
+C01244,Kimberly Choi,30,F,Kedah,Affluent,P003|P009|P004,3,2024-02-20,786,1,9366
+C01245,Michael Sloan,27,M,Kedah,Private Banking,P005|P007|P009,3,2018-09-21,2764,1,28933
+C01246,Monica Brooks,30,M,Negeri Sembilan,Mass,P010|P007,2,2021-06-11,1770,1,2372
+C01247,Kristen Peters,62,F,Kedah,Affluent,P001|P006|P003,3,2018-12-22,2672,1,13520
+C01248,Aaron Carlson,43,M,Johor,Mass,P004|P006|P007,3,2024-06-07,678,1,2781
+C01249,Theresa Torres,62,F,Sabah,Mass Affluent,P003,1,2022-04-06,1471,0,7957
+C01250,Stephanie Cooper,62,F,Negeri Sembilan,Mass,P010|P003|P005|P002,4,2025-06-11,309,0,2112
+C01251,Matthew Hunt,58,M,Penang,Mass Affluent,P001|P010,2,2022-04-22,1455,1,8232
+C01252,Daniel Davenport,52,M,Perak,Affluent,P004|P010|P002,3,2025-01-06,465,1,17885
+C01253,Christopher Marsh,25,M,Kedah,Mass,P001,1,2021-07-01,1750,1,1812
+C01254,Sarah Randolph,61,M,Negeri Sembilan,Affluent,P006|P002|P008|P004,4,2019-05-29,2514,1,15228
+C01255,Julia Dunn MD,37,M,Perak,Mass,P004|P010,2,2024-01-06,831,1,5595
+C01256,Brett Swanson,26,M,Johor,Mass Affluent,P002|P004,2,2024-01-20,817,0,4801
+C01257,Mr. Carl Rios,70,M,Pahang,Mass,P002|P006,2,2022-03-06,1502,1,6538
+C01258,Manuel Mccullough,57,M,Kedah,Affluent,P006|P009|P003,3,2023-11-19,879,1,15470
+C01259,Jerry Jensen,25,F,Kuala Lumpur,Mass Affluent,P009,1,2021-12-28,1570,1,5729
+C01260,Kevin Cunningham,24,F,Sabah,Mass Affluent,P004,1,2023-08-16,974,1,7190
+C01261,Eugene Patterson,25,M,Pahang,Affluent,P005|P002,2,2022-03-13,1495,0,16243
+C01262,David Walker,40,F,Sabah,Mass,P002,1,2020-08-07,2078,1,3739
+C01263,Jessica Larsen,42,M,Penang,Mass,P001,1,2025-11-05,162,1,4397
+C01264,Nicholas Humphrey,69,M,Sarawak,Mass Affluent,P004|P008|P002,3,2022-07-06,1380,0,5312
+C01265,Ian Torres,59,F,Selangor,Mass Affluent,P009|P008|P003,3,2021-07-17,1734,1,7780
+C01266,Casey Obrien,53,F,Penang,Mass,P008,1,2020-08-21,2064,1,2220
+C01267,Shannon Taylor,22,F,Selangor,Mass Affluent,P009|P007|P001,3,2025-08-03,256,1,7052
+C01268,Deborah Mercado,65,M,Kedah,Mass,P009|P003,2,2021-12-23,1575,1,2653
+C01269,Bernard Smith,44,M,Penang,Mass,P001,1,2019-04-22,2551,1,2815
+C01270,Amanda Perkins,35,M,Selangor,Mass,P009|P001|P010,3,2026-02-04,71,1,5612
+C01271,Kevin Escobar,49,M,Sabah,Mass,P006,1,2024-10-14,549,1,5335
+C01272,Kimberly Lutz,51,M,Kedah,Mass Affluent,P002|P005,2,2021-09-30,1659,1,9074
+C01273,Reginald Diaz,35,F,Penang,Mass,P006,1,2022-03-16,1492,1,2484
+C01274,Raymond Quinn,41,F,Negeri Sembilan,Mass Affluent,P001|P006,2,2023-03-18,1125,1,6563
+C01275,John Dixon,34,M,Kuala Lumpur,Affluent,P009|P004|P005|P006,4,2025-04-30,351,1,20426
+C01276,Jonathan Bates,23,F,Selangor,Private Banking,P008|P002|P001,3,2024-08-13,611,1,38162
+C01277,Renee Mendez,45,M,Perak,Mass,P001|P005|P007|P004,4,2019-08-12,2439,1,8199
+C01278,Jose Griffin,35,M,Sabah,Mass,P007,1,2025-09-17,211,1,4178
+C01279,Travis Hopkins,22,M,Sarawak,Affluent,P006|P005|P004|P007,4,2022-04-23,1454,1,14289
+C01280,Nancy Webb,48,F,Pahang,Affluent,P001|P002|P007|P006,4,2019-03-29,2575,1,11990
+C01281,Daniel Freeman,67,F,Penang,Mass Affluent,P003|P007,2,2019-10-15,2375,1,7683
+C01282,Jacob Williams,38,F,Selangor,Mass Affluent,P002|P004|P005|P003,4,2026-01-14,92,1,6951
+C01283,Terry Ward,38,F,Negeri Sembilan,Mass Affluent,P010|P001|P002,3,2022-02-25,1511,1,9394
+C01284,Jesse Williams,32,F,Selangor,Mass,P001,1,2023-03-30,1113,0,5089
+C01285,Mrs. Michele Boyd,61,F,Negeri Sembilan,Affluent,P001|P002,2,2020-10-28,1996,1,10147
+C01286,Sandy Baker,49,M,Penang,Mass,P005|P010|P008,3,2025-06-28,292,1,2285
+C01287,Carrie Valdez,60,M,Pahang,Mass Affluent,P001,1,2024-07-24,631,1,3856
+C01288,Matthew Houston,41,F,Selangor,Mass,P001|P005,2,2019-09-15,2405,1,4349
+C01289,Jamie Solomon,55,M,Pahang,Mass Affluent,P006|P002,2,2022-03-31,1477,1,4983
+C01290,Heather Parrish,25,F,Kuala Lumpur,Mass,P006,1,2020-06-23,2123,1,1714
+C01291,Mr. Larry Shaw,30,F,Sarawak,Mass,P006|P010,2,2023-01-13,1189,1,4171
+C01292,Christopher Jones,60,M,Negeri Sembilan,Mass,P005,1,2022-11-29,1234,1,8713
+C01293,Christine Lopez,34,F,Negeri Sembilan,Affluent,P009|P006|P004,3,2019-05-19,2524,1,13331
+C01294,Mitchell Wilson,45,F,Pahang,Mass Affluent,P002|P004,2,2024-07-11,644,1,9833
+C01295,Robert Cortez,72,F,Sarawak,Mass,P009|P010,2,2020-04-16,2191,1,3747
+C01296,Mr. Daniel Martin,39,F,Sarawak,Affluent,P006|P004,2,2019-10-04,2386,1,12905
+C01297,Alison Williams,65,M,Sarawak,Mass,P007|P006,2,2024-11-30,502,1,5022
+C01298,Candace Soto,44,M,Negeri Sembilan,Mass Affluent,P008|P007,2,2025-05-08,343,1,6624
+C01299,Kenneth Brown,55,F,Sarawak,Mass,P010|P003|P005,3,2024-10-20,543,1,3998
+C01300,Christopher Mullen,47,F,Selangor,Mass,P010|P008|P004|P002,4,2025-04-18,363,1,4075
+C01301,Kristy Smith,37,M,Selangor,Mass Affluent,P008|P002,2,2021-07-07,1744,1,5803
+C01302,Mary Campbell,65,F,Perak,Mass,P009,1,2025-12-09,128,1,5152
+C01303,Jerry Haney,65,F,Negeri Sembilan,Mass Affluent,P002|P006,2,2021-09-12,1677,1,6896
+C01304,Carolyn Greer,67,F,Kedah,Mass,P006|P008,2,2024-12-31,471,1,2795
+C01305,Rebecca Hoover,39,M,Johor,Mass Affluent,P003|P009,2,2021-04-28,1814,0,8847
+C01306,Matthew Baker,58,F,Johor,Mass,P007|P006,2,2019-07-21,2461,1,2659
+C01307,Grace Chavez,38,F,Selangor,Affluent,P005|P008,2,2019-08-13,2438,1,13492
+C01308,Crystal Cruz,58,F,Johor,Mass,P005|P006|P007,3,2020-04-26,2181,0,3629
+C01309,Dale Heath,68,F,Kuala Lumpur,Affluent,P007|P009|P005,3,2025-09-27,201,1,19537
+C01310,Jennifer Hernandez,28,F,Sabah,Mass,P004|P003,2,2024-05-08,708,0,4299
+C01311,John Mendez,35,M,Selangor,Mass Affluent,P004,1,2025-01-07,464,1,7268
+C01312,Richard Gordon,55,M,Sarawak,Mass,P008,1,2025-10-06,192,1,4847
+C01313,John Anderson,48,M,Kuala Lumpur,Mass Affluent,P008|P005,2,2019-10-21,2369,1,11927
+C01314,Samantha Prince,52,M,Penang,Mass,P005|P002|P006,3,2021-05-12,1800,1,4426
+C01315,Marie Boyd,31,M,Sarawak,Mass,P009,1,2022-07-17,1369,0,3654
+C01316,Andrew Moreno,48,M,Pahang,Mass,P009|P006,2,2025-10-11,187,1,2300
+C01317,Robert Clarke,23,M,Penang,Affluent,P004|P003|P007,3,2019-03-10,2594,1,9202
+C01318,Kevin Figueroa,52,M,Pahang,Affluent,P005|P003|P004,3,2024-07-05,650,1,12006
+C01319,Melissa Davis,21,M,Selangor,Mass,P010|P004,2,2023-10-22,907,1,2941
+C01320,John Hall,60,M,Sabah,Mass,P006|P008,2,2023-04-05,1107,1,3410
+C01321,Diane Mcdowell,63,F,Kuala Lumpur,Mass,P007|P006|P008,3,2022-12-07,1226,1,3714
+C01322,Colin Fletcher,47,M,Kedah,Private Banking,P007|P002,2,2022-12-27,1206,0,43713
+C01323,Laura Wilson,28,F,Kedah,Mass,P003,1,2018-10-20,2735,1,3552
+C01324,Matthew Watts,36,F,Selangor,Mass,P004,1,2018-07-03,2844,1,4317
+C01325,Jack Moore,37,F,Sabah,Mass Affluent,P008|P007,2,2022-08-02,1353,0,7499
+C01326,Dawn Wyatt,52,F,Kedah,Mass Affluent,P001,1,2023-03-14,1129,1,3672
+C01327,Jacob Hill,31,M,Selangor,Mass,P002|P006|P003,3,2019-10-16,2374,1,2621
+C01328,Nicole Gutierrez,70,M,Sarawak,Mass Affluent,P009|P002|P001,3,2025-03-13,399,1,6971
+C01329,Karen Wood,55,F,Sarawak,Mass,P005|P003,2,2024-06-12,673,1,2384
+C01330,Dawn Parker,67,M,Pahang,Mass,P001,1,2020-01-04,2294,1,4492
+C01331,Michael Fitzgerald,23,M,Selangor,Mass,P004,1,2020-10-08,2016,1,6221
+C01332,Mary Adkins,71,M,Kuala Lumpur,Mass,P005|P002,2,2024-10-27,536,1,5578
+C01333,Michael Martin,69,M,Kuala Lumpur,Mass Affluent,P009,1,2018-04-27,2911,1,6804
+C01334,James Morgan,33,F,Kedah,Affluent,P006|P007|P001|P003,4,2021-10-27,1632,1,22511
+C01335,Melissa Mann,62,M,Penang,Mass Affluent,P007,1,2023-03-31,1112,0,7724
+C01336,Vincent Smith,38,F,Selangor,Mass,P009|P010|P004,3,2019-12-02,2327,0,3236
+C01337,Charles Frost,44,M,Perak,Mass Affluent,P008|P004,2,2021-10-17,1642,1,5915
+C01338,Austin Walker,44,F,Johor,Mass,P005,1,2021-03-12,1861,1,3275
+C01339,Andrew Cruz,27,M,Kuala Lumpur,Mass Affluent,P008,1,2025-04-09,372,1,6401
+C01340,Miss Kelly Dawson,51,F,Perak,Mass,P004|P001|P008,3,2019-04-18,2555,1,3865
+C01341,Theresa Wilkins,30,M,Sabah,Mass,P010|P007,2,2022-06-03,1413,1,3851
+C01342,Jessica Harris,71,F,Kedah,Mass,P004|P006,2,2019-11-26,2333,1,3645
+C01343,Regina Mitchell,27,M,Johor,Mass,P003,1,2025-04-18,363,1,4243
+C01344,Kyle Black,31,F,Johor,Mass,P002|P001|P007,3,2024-11-05,527,1,5523
+C01345,Christopher Johnson,52,F,Kuala Lumpur,Mass,P007|P010|P001,3,2020-04-29,2178,1,5076
+C01346,Aaron Moore,67,M,Johor,Affluent,P009|P006|P010,3,2022-11-28,1235,1,7945
+C01347,Penny Gomez MD,34,F,Penang,Affluent,P006|P009|P005|P004,4,2018-07-12,2835,0,5465
+C01348,Kelly Mclaughlin,31,M,Johor,Mass,P001|P006|P007,3,2024-09-09,584,1,5049
+C01349,Brandon Mitchell,40,F,Sarawak,Mass Affluent,P002,1,2026-02-23,52,1,4544
+C01350,Suzanne Bailey,50,M,Sarawak,Mass Affluent,P009,1,2019-03-15,2589,1,6777
+C01351,Destiny Obrien,38,F,Sabah,Mass,P007|P005|P006,3,2024-01-18,819,1,2417
+C01352,Timothy Andrews,63,F,Johor,Mass,P002|P004,2,2019-01-06,2657,1,1938
+C01353,Jason Rodriguez,29,F,Negeri Sembilan,Mass Affluent,P007|P006,2,2025-01-22,449,1,8862
+C01354,Edward Arroyo,34,M,Johor,Mass,P004|P002|P003,3,2020-11-24,1969,1,4749
+C01355,Tina Walter,41,F,Sarawak,Mass,P003|P009|P008|P004,4,2026-03-16,31,1,2976
+C01356,Laura Benson,36,F,Sarawak,Mass Affluent,P007,1,2024-11-22,510,1,2961
+C01357,Kristine Carrillo,41,M,Perak,Mass,P004|P003|P005,3,2020-05-09,2168,1,3007
+C01358,Tonya Ellis,65,F,Johor,Mass Affluent,P009|P007,2,2020-09-17,2037,1,8410
+C01359,Kevin Johnson,50,M,Negeri Sembilan,Mass Affluent,P007,1,2022-02-09,1527,1,4369
+C01360,Austin Schultz,45,F,Pahang,Mass,P001|P004|P008,3,2024-01-25,812,1,3882
+C01361,Megan Hall MD,40,F,Selangor,Mass,P005|P009|P001,3,2019-08-20,2431,1,3621
+C01362,Kelli Smith,51,M,Kedah,Mass,P005|P010|P001|P009,4,2019-01-05,2658,0,4459
+C01363,Danielle Davis,50,M,Sarawak,Mass,P009|P002,2,2019-02-13,2619,1,3797
+C01364,Samantha Jones,66,M,Selangor,Mass Affluent,P003|P002|P007,3,2024-06-28,657,1,5216
+C01365,Karen Gomez,41,F,Sarawak,Mass,P004|P001,2,2025-07-05,285,0,5535
+C01366,Debra Valentine,58,F,Perak,Mass Affluent,P001,1,2024-04-23,723,1,6936
+C01367,Susan Porter,24,M,Johor,Mass,P009|P003|P005,3,2018-09-13,2772,1,3606
+C01368,Nicolas Salas,59,F,Sabah,Mass,P003|P001,2,2023-02-13,1158,1,2626
+C01369,Dale Wright,42,M,Kuala Lumpur,Mass,P002|P008|P010,3,2024-11-20,512,1,3118
+C01370,Brittney Rodriguez,32,M,Penang,Mass,P001|P003,2,2025-03-29,383,1,2671
+C01371,Megan Alvarado,26,M,Perak,Affluent,P005|P004|P003|P008,4,2021-01-17,1915,1,12575
+C01372,Pamela Weaver,38,M,Sabah,Mass,P004,1,2024-03-18,759,0,6628
+C01373,John Oliver,39,F,Negeri Sembilan,Mass,P002|P008,2,2024-03-22,755,1,2253
+C01374,William Prince PhD,54,F,Johor,Mass,P003|P001,2,2019-01-05,2658,1,2070
+C01375,William Moon IV,65,F,Pahang,Mass,P005|P004,2,2023-11-06,892,1,6093
+C01376,Kenneth Brown,26,F,Sabah,Mass,P004,1,2023-03-12,1131,1,3384
+C01377,Karen Fernandez,54,F,Negeri Sembilan,Mass Affluent,P003,1,2024-11-30,502,1,5801
+C01378,Jennifer Parks,45,M,Johor,Mass Affluent,P006|P002|P010,3,2019-11-20,2339,1,10551
+C01379,William Wolfe,42,F,Johor,Mass Affluent,P006,1,2022-06-16,1400,1,5932
+C01380,Michael Smith,69,F,Penang,Mass,P008|P007|P009,3,2024-02-14,792,1,6899
+C01381,Kevin Nguyen,59,M,Pahang,Mass,P005|P001,2,2022-01-09,1558,1,4616
+C01382,Debbie Dunn,70,M,Pahang,Mass,P010|P001,2,2021-06-07,1774,1,3069
+C01383,John Austin,59,F,Selangor,Private Banking,P004|P003|P009|P006,4,2022-11-02,1261,0,77270
+C01384,Jonathan Clark,71,F,Selangor,Mass Affluent,P008|P007|P003,3,2022-09-28,1296,1,5931
+C01385,Jacqueline Dickerson,32,M,Perak,Mass,P004,1,2023-12-18,850,1,4721
+C01386,Christopher Anderson,30,M,Sarawak,Mass Affluent,P006|P001|P008,3,2023-06-19,1032,1,8142
+C01387,Crystal Garcia,64,F,Kedah,Mass,P008,1,2020-01-16,2282,1,5742
+C01388,David Reynolds,45,F,Perak,Mass,P003|P007|P006,3,2025-02-18,422,1,6289
+C01389,Charles Haley,25,M,Negeri Sembilan,Mass,P010|P001,2,2020-03-21,2217,1,3682
+C01390,Robert Thompson,44,M,Penang,Mass,P001|P007,2,2023-07-28,993,1,2797
+C01391,Dr. Samuel Holmes DDS,23,M,Perak,Mass,P006|P007,2,2024-02-07,799,1,4277
+C01392,Elizabeth Hart,45,M,Johor,Mass Affluent,P005|P007,2,2022-09-20,1304,1,5784
+C01393,Jennifer Vaughn,27,F,Selangor,Mass,P002,1,2020-05-28,2149,1,7366
+C01394,Robert Woods,57,F,Perak,Mass,P001|P008,2,2024-10-06,557,1,3819
+C01395,Joanna Cook,48,F,Kedah,Mass,P010|P008,2,2022-10-24,1270,1,3204
+C01396,Justin Frederick,44,F,Kuala Lumpur,Mass,P007,1,2020-03-17,2221,1,3884
+C01397,Alejandro Martinez,66,F,Perak,Mass Affluent,P010,1,2022-06-06,1410,1,4576
+C01398,Tracey Gonzalez,23,F,Sabah,Mass,P006|P001,2,2023-01-19,1183,1,2591
+C01399,Mariah Thompson,39,M,Sabah,Mass Affluent,P005,1,2018-08-22,2794,1,11161
+C01400,Heather Nunez,49,F,Selangor,Mass,P010|P002,2,2026-01-05,101,1,2893
+C01401,Dr. Steve James,36,F,Perak,Mass,P003|P010,2,2021-10-07,1652,0,2524
+C01402,Mark Thomas,50,F,Selangor,Mass Affluent,P009,1,2022-05-03,1444,1,8847
+C01403,Robert Rogers,23,F,Perak,Mass,P002|P007|P010|P003,4,2022-01-11,1556,1,5514
+C01404,Laura Sweeney,68,M,Penang,Mass,P002|P007,2,2024-02-23,783,1,4683
+C01405,Christopher Perez,60,F,Penang,Mass,P004|P001|P006,3,2022-10-23,1271,1,5160
+C01406,Eddie Adams,38,F,Johor,Mass Affluent,P005|P009|P001,3,2021-04-23,1819,1,5626
+C01407,Denise Wallace,21,M,Sabah,Mass,P007,1,2023-02-25,1146,1,2214
+C01408,Heidi Matthews,71,M,Sarawak,Private Banking,P004|P010,2,2019-06-29,2483,1,61419
+C01409,Jennifer White,39,F,Pahang,Mass Affluent,P008|P007,2,2019-05-09,2534,1,6549
+C01410,Nicholas Stanley,21,M,Kedah,Mass,P008,1,2019-12-15,2314,1,3335
+C01411,Mercedes Miller,34,F,Perak,Mass,P007,1,2020-08-12,2073,1,5796
+C01412,Brian Brown,26,M,Pahang,Mass Affluent,P006|P002,2,2019-10-20,2370,1,8908
+C01413,Kimberly Johnson,69,M,Negeri Sembilan,Mass,P001|P003,2,2022-12-08,1225,1,4271
+C01414,Phillip Miller,47,F,Penang,Private Banking,P005|P009,2,2021-05-15,1797,1,77478
+C01415,Christopher Pena,29,M,Penang,Mass,P002|P010|P007,3,2020-03-07,2231,0,2907
+C01416,Ellen Wright,39,F,Sarawak,Mass,P007,1,2019-10-23,2367,1,5038
+C01417,Mark Anderson,59,M,Perak,Mass,P002|P006|P007,3,2021-07-09,1742,1,3714
+C01418,Alyssa Alvarado,39,M,Pahang,Affluent,P003|P007|P005,3,2021-01-02,1930,1,14677
+C01419,Erika Alvarez,62,F,Penang,Mass,P007|P010|P009,3,2021-01-02,1930,1,6217
+C01420,Kimberly Nelson,35,M,Sarawak,Mass,P002|P007,2,2019-04-09,2564,1,4349
+C01421,Wayne Wolfe,57,F,Pahang,Mass Affluent,P006|P001,2,2024-05-05,711,1,8852
+C01422,Kyle Welch,31,F,Penang,Mass,P004|P003,2,2024-01-17,820,1,5300
+C01423,Kristy Mills,25,M,Negeri Sembilan,Affluent,P008|P010,2,2022-12-03,1230,1,11758
+C01424,Emily Reed,71,M,Penang,Mass,P002|P006,2,2023-07-01,1020,1,2714
+C01425,Regina Ramos,21,F,Perak,Mass Affluent,P007|P009,2,2025-06-04,316,1,5086
+C01426,David Torres,37,F,Kedah,Affluent,P010|P009|P001,3,2021-07-13,1738,1,6713
+C01427,Robert Charles,39,F,Perak,Affluent,P001|P006|P007|P009,4,2025-07-16,274,1,27438
+C01428,John Smith,30,F,Sarawak,Affluent,P010|P002|P003|P008,4,2025-01-17,454,1,9080
+C01429,Theresa Woods,71,M,Kedah,Mass,P006,1,2023-06-26,1025,0,3370
+C01430,Jeffrey Carter,69,F,Sarawak,Mass,P005,1,2020-09-11,2043,1,3305
+C01431,Adam Brooks,37,F,Selangor,Mass Affluent,P003|P010,2,2018-05-13,2895,1,8165
+C01432,Justin Foster,57,F,Kedah,Mass,P003,1,2022-01-18,1549,1,4844
+C01433,Omar Price,39,F,Sabah,Mass,P003|P010|P005,3,2018-08-29,2787,1,4921
+C01434,Dennis Henderson,34,F,Sarawak,Mass Affluent,P001,1,2025-11-23,144,1,5978
+C01435,Phillip Kent,46,F,Perak,Mass,P006|P003|P010,3,2020-05-31,2146,1,3434
+C01436,Melinda Mitchell,62,F,Selangor,Mass,P003|P008,2,2020-10-07,2017,1,4019
+C01437,Rhonda Gutierrez,42,F,Negeri Sembilan,Mass,P003,1,2025-06-25,295,1,3337
+C01438,Catherine Roberts,62,M,Penang,Mass,P010|P001,2,2024-11-13,519,1,6391
+C01439,Lisa Nelson,46,M,Selangor,Mass Affluent,P009|P002|P005|P008,4,2025-11-03,164,1,8707
+C01440,Chelsea Smith,36,F,Johor,Mass,P003|P004|P009,3,2020-05-06,2171,1,4709
+C01441,Joseph Lopez,38,M,Johor,Mass Affluent,P004,1,2019-05-18,2525,1,9247
+C01442,Derrick Espinoza,34,F,Kuala Lumpur,Mass,P010|P008,2,2025-07-11,279,1,5490
+C01443,Crystal Hernandez,41,M,Kedah,Mass Affluent,P008,1,2025-08-20,239,1,7812
+C01444,Glenn Collins DDS,27,F,Negeri Sembilan,Mass,P008,1,2023-12-30,838,1,2313
+C01445,Mrs. Raven Rivera DVM,28,M,Sabah,Mass Affluent,P004|P008,2,2021-05-22,1790,1,8433
+C01446,Amy Rowe,38,F,Pahang,Mass,P009,1,2019-06-19,2493,1,2899
+C01447,John Lee,40,F,Kedah,Mass,P006|P005,2,2018-12-21,2673,1,3026
+C01448,Ruth Clayton,52,M,Johor,Mass,P009|P008|P010,3,2024-03-01,776,1,4470
+C01449,Randy Wright,64,M,Kuala Lumpur,Mass,P008|P006|P003,3,2021-05-13,1799,1,5616
+C01450,Jessica Rojas,40,F,Kuala Lumpur,Mass,P009,1,2023-10-26,903,1,3668
+C01451,Joel Wise,34,M,Perak,Mass Affluent,P003,1,2019-05-17,2526,1,8169
+C01452,Vickie Kennedy,60,F,Negeri Sembilan,Mass Affluent,P009,1,2024-06-09,676,1,13303
+C01453,Emily Morris,35,F,Sarawak,Affluent,P005|P006|P003,3,2023-03-10,1133,1,14534
+C01454,Amanda Pineda,49,F,Selangor,Mass,P007|P001,2,2022-09-03,1321,0,9051
+C01455,Dawn Little,62,F,Sabah,Affluent,P005|P001|P004|P002,4,2022-03-30,1478,1,16284
+C01456,Stephen Boyer,41,M,Penang,Mass,P009,1,2025-12-11,126,1,1966
+C01457,Brian Chen,38,F,Negeri Sembilan,Mass,P006,1,2021-04-10,1832,1,4739
+C01458,Christopher Hill,70,F,Negeri Sembilan,Mass Affluent,P008|P004,2,2025-09-10,218,1,8378
+C01459,Richard Smith,27,F,Kedah,Mass,P009,1,2025-07-18,272,0,5718
+C01460,Richard Alvarez,51,M,Johor,Mass,P006|P007,2,2024-12-18,484,1,4608
+C01461,Jacqueline Davis,33,F,Pahang,Mass Affluent,P006|P009,2,2019-10-09,2381,1,6985
+C01462,Brandon Montgomery,65,F,Penang,Mass,P002|P006|P009,3,2022-12-10,1223,1,2372
+C01463,Yolanda Garrett,35,F,Negeri Sembilan,Mass,P005,1,2020-12-15,1948,1,3384
+C01464,Matthew Miles,29,M,Pahang,Mass,P007|P008,2,2025-12-13,124,1,2704
+C01465,Beth Hall,44,F,Pahang,Mass,P001|P009,2,2020-06-18,2128,1,2971
+C01466,Dr. Nicole Trujillo,42,M,Pahang,Mass Affluent,P010|P002,2,2019-10-06,2384,1,9009
+C01467,Corey Norris,26,F,Sabah,Mass Affluent,P004|P002,2,2020-06-13,2133,1,13154
+C01468,Chad Roach,62,F,Kedah,Mass,P010,1,2024-07-02,653,1,4180
+C01469,Mr. Edward Terry,68,M,Negeri Sembilan,Affluent,P001|P007|P005,3,2018-06-11,2866,1,8791
+C01470,Cody Bailey,21,F,Pahang,Mass,P005|P004,2,2025-12-30,107,1,4254
+C01471,Denise Guerra,33,M,Johor,Mass Affluent,P006|P003,2,2018-09-30,2755,1,11146
+C01472,Kristen Jones,27,F,Kuala Lumpur,Mass,P001|P003,2,2024-03-04,773,1,2941
+C01473,Edward Baker,35,F,Sabah,Mass Affluent,P003,1,2022-09-03,1321,1,6996
+C01474,Aaron Little,70,M,Perak,Mass,P008,1,2023-10-10,919,1,3660
+C01475,Cody Smith,45,F,Negeri Sembilan,Mass,P004|P010,2,2023-11-14,884,1,2766
+C01476,Patty Allen,32,M,Penang,Mass,P009|P002,2,2025-03-02,410,1,4568
+C01477,Mary Ryan,68,M,Penang,Mass Affluent,P006|P007,2,2020-09-21,2033,0,7028
+C01478,Joseph Jimenez,44,M,Perak,Mass,P008|P001,2,2020-07-10,2106,1,4217
+C01479,Lisa Morris,27,M,Kuala Lumpur,Mass,P002|P007|P005,3,2021-09-20,1669,1,2669
+C01480,Ashley Mills,51,M,Johor,Mass,P006|P001|P003|P007,4,2021-11-02,1626,1,3124
+C01481,Russell Anderson,54,M,Sabah,Mass,P001|P010,2,2024-10-09,554,1,4688
+C01482,Christina Washington,31,M,Johor,Mass,P009,1,2021-07-22,1729,1,3196
+C01483,Kenneth Huff,71,F,Sabah,Mass,P005|P007,2,2024-12-24,478,1,6664
+C01484,Kelly Miles,71,M,Johor,Mass,P008,1,2025-11-21,146,0,3166
+C01485,Jacob Obrien,55,M,Kuala Lumpur,Mass,P009|P003,2,2025-09-08,220,1,3939
+C01486,Timothy Clark,26,F,Perak,Mass,P008,1,2023-09-17,942,1,5046
+C01487,Steve Miller PhD,49,F,Kedah,Mass,P001|P005,2,2020-03-10,2228,0,2216
+C01488,Justin Hurley,29,F,Kedah,Mass,P010|P002,2,2023-04-30,1082,1,1966
+C01489,Jacob Erickson,33,M,Kuala Lumpur,Mass,P003|P004,2,2019-10-21,2369,1,2135
+C01490,Deborah Williams,60,F,Sarawak,Mass,P003,1,2023-01-16,1186,1,5664
+C01491,Eric Blackburn,63,F,Perak,Mass Affluent,P005|P003,2,2021-01-10,1922,1,6044
+C01492,Anne Hardy,58,M,Selangor,Mass Affluent,P007|P001|P004,3,2024-07-31,624,1,17950
+C01493,Chelsey Fox,71,F,Kedah,Mass,P001,1,2025-10-29,169,1,2988
+C01494,Mario White,61,F,Pahang,Affluent,P007|P008|P004|P009,4,2024-02-07,799,1,14251
+C01495,Jennifer Garcia,62,F,Kedah,Mass Affluent,P006|P003|P005,3,2023-01-28,1174,1,12578
+C01496,Heather Ellis,63,F,Perak,Mass,P009|P005|P002,3,2021-02-02,1899,1,7348
+C01497,Sonya Jackson,29,F,Sabah,Mass,P002|P010|P005|P009,4,2020-02-12,2255,1,7492
+C01498,James Morgan,26,M,Selangor,Private Banking,P003|P007|P004|P002,4,2020-01-02,2296,1,55433
+C01499,Zachary Ramos,54,M,Pahang,Mass Affluent,P009,1,2022-03-29,1479,1,10493
+C01500,Ethan Frey,65,M,Negeri Sembilan,Affluent,P006|P003|P002,3,2023-08-17,973,1,16439
+C01501,Jacob Duran,55,F,Sabah,Affluent,P004|P005|P001,3,2024-07-03,652,1,17543
+C01502,Nicholas Franklin,47,M,Sabah,Affluent,P003|P005|P001,3,2020-05-10,2167,1,11016
+C01503,Cindy Cannon,40,M,Perak,Mass,P010|P002,2,2018-09-19,2766,1,2734
+C01504,Dawn Nixon,31,F,Perak,Mass Affluent,P004|P007|P003,3,2020-10-25,1999,1,7323
+C01505,James Barber,43,M,Penang,Mass,P005|P003|P007|P001,4,2023-06-03,1048,1,3430
+C01506,Ms. Kelly Holder,38,F,Pahang,Mass Affluent,P002,1,2018-09-02,2783,1,6256
+C01507,Eric Walker,59,F,Johor,Mass,P005|P002,2,2019-02-28,2604,1,4646
+C01508,Alison Short,38,F,Perak,Affluent,P005|P002,2,2022-05-19,1428,1,18664
+C01509,Desiree Spencer,71,M,Kuala Lumpur,Mass,P009,1,2018-06-15,2862,0,3755
+C01510,Tammy Moore,59,F,Selangor,Affluent,P008|P007,2,2019-06-11,2501,1,22407
+C01511,Henry Taylor,67,F,Sarawak,Mass Affluent,P009|P006|P007,3,2023-01-25,1177,1,4917
+C01512,Kevin Hall,66,F,Sabah,Affluent,P008|P004,2,2025-01-27,444,1,12484
+C01513,Anna Ross,56,F,Selangor,Mass Affluent,P010|P009,2,2020-09-26,2028,1,5705
+C01514,Morgan Cummings,71,M,Penang,Mass Affluent,P002,1,2019-08-03,2448,1,3815
+C01515,Carrie Petersen,66,F,Kedah,Affluent,P007|P001|P006,3,2018-08-31,2785,1,12979
+C01516,Laura Velez,23,M,Selangor,Affluent,P007|P001|P004|P005,4,2020-05-06,2171,1,12802
+C01517,Elizabeth Cross,27,F,Sarawak,Mass,P001|P008,2,2022-07-09,1377,1,6184
+C01518,Angela Brown,43,F,Kedah,Private Banking,P008|P001,2,2022-05-08,1439,1,45287
+C01519,Hannah Montoya,37,F,Perak,Mass Affluent,P009,1,2019-02-02,2630,1,5123
+C01520,Sean Kane,52,M,Sarawak,Affluent,P010|P009,2,2024-04-12,734,1,25564
+C01521,Matthew Guzman,67,M,Perak,Mass,P010|P008,2,2025-01-27,444,1,5582
+C01522,Richard Reyes,43,M,Sarawak,Mass,P006|P003,2,2020-10-06,2018,1,4464
+C01523,Andrew Fernandez,58,M,Perak,Mass,P009|P005,2,2024-01-30,807,1,3363
+C01524,Jonathan Walker,33,M,Sarawak,Mass,P007|P005,2,2025-05-10,341,1,2602
+C01525,Nicholas Long,29,F,Penang,Affluent,P005|P002,2,2021-10-04,1655,1,11728
+C01526,Kurt Wagner,36,F,Penang,Mass,P005|P001,2,2025-10-01,197,1,5330
+C01527,Dylan Foster,36,F,Penang,Affluent,P004|P003|P001,3,2023-10-03,926,0,25838
+C01528,Bradley Duncan,51,M,Pahang,Affluent,P009|P004|P007,3,2019-05-06,2537,1,22928
+C01529,James Miller,57,F,Sarawak,Affluent,P005|P006|P010|P004,4,2019-03-05,2599,0,11259
+C01530,Patricia Anderson,41,F,Penang,Mass,P003,1,2023-07-30,991,1,2461
+C01531,Justin Freeman,29,M,Negeri Sembilan,Mass,P009|P008|P006,3,2019-09-19,2401,1,3825
+C01532,Christina Gilbert,66,M,Kedah,Mass Affluent,P004|P008|P005|P009,4,2022-04-21,1456,1,3948
+C01533,Danielle Jones,58,M,Sarawak,Mass,P003|P001|P008|P005,4,2020-08-19,2066,1,4077
+C01534,Erica Glass,25,F,Selangor,Mass Affluent,P005,1,2024-07-20,635,1,6963
+C01535,Michael Henderson,48,F,Pahang,Mass Affluent,P007|P004|P008,3,2020-09-14,2040,1,6228
+C01536,Frank Wheeler,42,F,Selangor,Mass,P009|P007|P003,3,2022-10-17,1277,0,2084
+C01537,Eric Huerta,66,F,Johor,Mass Affluent,P002|P010,2,2025-08-13,246,1,8776
+C01538,Wanda Ramos,59,M,Sarawak,Mass Affluent,P003|P001|P008|P006,4,2023-06-02,1049,1,6085
+C01539,Andrew Meyers,57,F,Johor,Mass Affluent,P007|P010,2,2021-09-07,1682,1,4868
+C01540,James Todd,27,F,Kedah,Mass,P007,1,2024-02-27,779,1,1332
+C01541,Ashley Brown,46,F,Kedah,Mass,P002,1,2023-04-15,1097,1,3606
+C01542,Tammy Melton,37,F,Kuala Lumpur,Mass,P009|P001,2,2020-05-02,2175,1,6770
+C01543,Alexis Benson,21,F,Kuala Lumpur,Mass,P001,1,2020-04-10,2197,0,6512
+C01544,Jerry Johnson,61,F,Kuala Lumpur,Mass Affluent,P004,1,2024-02-04,802,1,6248
+C01545,Joshua Harris,59,M,Pahang,Mass,P008,1,2024-06-22,663,1,2949
+C01546,Deanna Webb,22,M,Sarawak,Mass Affluent,P002|P005|P009,3,2021-03-20,1853,1,8639
+C01547,Brenda Hale,54,M,Negeri Sembilan,Mass,P004,1,2019-08-04,2447,0,2567
+C01548,Kevin Alvarado,63,M,Pahang,Mass,P008,1,2021-02-09,1892,1,4047
+C01549,Christopher Campbell,44,F,Selangor,Mass,P008|P004|P007|P001,4,2023-06-13,1038,0,4761
+C01550,Lisa Brown,72,F,Pahang,Affluent,P010|P002|P009,3,2020-10-27,1997,1,20526
+C01551,Alejandra Price,55,M,Kedah,Mass,P004|P005|P006,3,2018-05-02,2906,1,3516
+C01552,Samuel Keller,61,M,Kedah,Mass,P002|P008,2,2022-12-04,1229,1,3390
+C01553,Alicia Dillon,51,M,Pahang,Mass Affluent,P005,1,2019-12-01,2328,1,5392
+C01554,Crystal James,26,M,Sarawak,Mass,P010|P009,2,2024-02-06,800,1,2726
+C01555,Ariana Stewart,22,F,Pahang,Mass,P004,1,2020-03-20,2218,1,3363
+C01556,Kim Lopez,48,F,Selangor,Mass Affluent,P003|P009,2,2018-07-15,2832,0,8338
+C01557,Judith House,50,M,Negeri Sembilan,Affluent,P006|P002|P004|P008,4,2025-02-06,434,1,18394
+C01558,David Moreno,23,M,Penang,Affluent,P002|P005,2,2026-01-13,93,1,10086
+C01559,James Moore,32,M,Negeri Sembilan,Private Banking,P006|P007|P001|P002,4,2022-07-02,1384,1,61233
+C01560,Harold Garrett,37,F,Perak,Affluent,P010|P005|P004,3,2018-09-17,2768,1,12150
+C01561,William Mason,47,M,Perak,Mass,P004|P008|P005,3,2021-07-18,1733,1,3614
+C01562,Lori Johns,29,M,Johor,Mass Affluent,P002,1,2021-03-04,1869,0,5645
+C01563,Robin Johnson,25,F,Sabah,Mass,P005,1,2020-09-23,2031,1,1559
+C01564,Diana Hernandez,57,F,Penang,Mass,P007|P004|P002,3,2023-01-06,1196,1,4961
+C01565,Mary Miller,51,F,Johor,Mass,P001,1,2025-10-22,176,1,4712
+C01566,Tyler Salazar,72,M,Kedah,Mass,P006|P008,2,2018-06-06,2871,1,3300
+C01567,Crystal Allen,63,M,Johor,Affluent,P004|P010|P006|P001,4,2025-09-30,198,1,13677
+C01568,Wesley Browning,32,F,Perak,Mass,P001,1,2023-05-25,1057,1,4362
+C01569,Joshua Clark,53,F,Kedah,Mass,P004,1,2022-12-08,1225,1,2107
+C01570,Joshua Mcbride,25,M,Pahang,Affluent,P005|P009|P003,3,2021-04-08,1834,0,11101
+C01571,Ellen Thornton,28,M,Sarawak,Mass Affluent,P009|P001,2,2025-07-28,262,1,9682
+C01572,Brandy Forbes,27,M,Perak,Mass Affluent,P001,1,2024-08-07,617,1,4727
+C01573,Brianna Fitzpatrick,35,M,Selangor,Mass Affluent,P009,1,2024-11-12,520,1,8125
+C01574,Emily Grant,57,F,Kedah,Mass Affluent,P010,1,2020-11-12,1981,0,4561
+C01575,Bailey Stewart,64,F,Johor,Mass,P008,1,2023-07-18,1003,1,4287
+C01576,Monica Cannon,35,F,Johor,Mass,P003|P007,2,2022-03-03,1505,1,3596
+C01577,Jennifer Jenkins,48,M,Perak,Affluent,P008|P007,2,2025-12-22,115,1,7591
+C01578,Timothy Shannon,43,F,Kedah,Mass,P007|P008,2,2019-03-08,2596,0,5473
+C01579,Denise Maxwell,44,M,Penang,Mass,P003|P009,2,2021-01-04,1928,1,2815
+C01580,Cody Farmer,57,F,Sarawak,Mass,P010|P006|P008,3,2024-01-25,812,1,2742
+C01581,Debra Bradley,46,F,Negeri Sembilan,Mass,P008,1,2023-10-25,904,1,3906
+C01582,David Mcdaniel,34,M,Kedah,Mass,P007|P009|P010,3,2023-12-22,846,1,5443
+C01583,Michael Woods,45,M,Perak,Mass Affluent,P010,1,2023-11-23,875,1,5138
+C01584,Lisa Joseph,30,F,Negeri Sembilan,Mass,P003|P008,2,2023-12-28,840,0,3720
+C01585,Samuel Henry,54,M,Selangor,Mass Affluent,P002|P010|P009,3,2019-05-05,2538,0,8519
+C01586,Corey Johnson,42,M,Penang,Affluent,P006|P004,2,2025-08-13,246,1,17028
+C01587,Alexis Nelson,44,F,Sarawak,Mass Affluent,P008,1,2025-06-20,300,1,7799
+C01588,Patrick Mcneil,40,F,Kuala Lumpur,Mass,P003|P010,2,2022-12-17,1216,1,3202
+C01589,Andrea Ho,47,M,Kuala Lumpur,Mass,P008|P005,2,2019-04-11,2562,1,2725
+C01590,Dr. Katherine Nguyen,49,F,Perak,Mass,P007,1,2024-07-25,630,1,3752
+C01591,David Sullivan,58,M,Kedah,Mass Affluent,P008|P003|P010,3,2025-12-26,111,0,5038
+C01592,Nicolas James,43,F,Perak,Affluent,P006|P002|P003|P009,4,2019-11-08,2351,0,4806
+C01593,Logan Newton,71,M,Sarawak,Private Banking,P006|P005,2,2024-12-18,484,1,42311
+C01594,Kelly Liu,22,F,Penang,Mass Affluent,P003|P006,2,2020-08-29,2056,1,10061
+C01595,Kelly Hayes,22,F,Kedah,Mass,P001|P004|P005,3,2020-05-16,2161,0,1592
+C01596,Amanda Forbes,23,M,Johor,Mass,P008|P002|P006|P005,4,2022-06-04,1412,1,2557
+C01597,Jennifer Moss,21,M,Kedah,Mass Affluent,P007,1,2019-03-18,2586,1,9106
+C01598,Kelli Mccoy,65,F,Perak,Mass Affluent,P006|P010,2,2025-10-21,177,1,15065
+C01599,Eddie Sanders,43,F,Kuala Lumpur,Mass Affluent,P008|P005,2,2024-09-21,572,0,7386
+C01600,Ronald Murray,26,M,Kuala Lumpur,Affluent,P009|P002|P001|P007,4,2018-09-04,2781,1,10355
+C01601,Louis Brown,44,M,Selangor,Mass,P004|P002,2,2024-03-22,755,1,3415
+C01602,Brenda Gallegos,60,M,Negeri Sembilan,Mass,P008|P006,2,2022-05-20,1427,1,5891
+C01603,Nathan Wilson,29,M,Kuala Lumpur,Mass,P002|P003,2,2018-04-24,2914,1,2904
+C01604,Teresa Horton,35,M,Kedah,Mass,P007|P006,2,2018-07-09,2838,1,2753
+C01605,Jason Hayes,59,F,Johor,Mass Affluent,P010|P001,2,2020-08-27,2058,1,6192
+C01606,Kevin Marquez,32,M,Kuala Lumpur,Private Banking,P009|P004,2,2025-04-26,355,1,26013
+C01607,Jesse Wright,69,F,Pahang,Private Banking,P010|P005,2,2022-08-09,1346,1,37909
+C01608,Susan Hogan,48,M,Sabah,Mass,P004,1,2023-10-06,923,1,6429
+C01609,Becky Wilson,25,M,Kedah,Mass,P001|P007,2,2024-05-26,690,1,4077
+C01610,Jack Mills,26,F,Kedah,Mass,P006|P002|P005,3,2018-08-24,2792,1,3333
+C01611,Richard Hunt,44,M,Negeri Sembilan,Mass,P006|P009|P004,3,2020-10-27,1997,1,3287
+C01612,Jamie James,43,F,Kedah,Mass,P006|P007|P008,3,2018-06-18,2859,1,2107
+C01613,Susan Cunningham,47,F,Selangor,Affluent,P006|P007|P003|P004,4,2021-11-19,1609,1,18198
+C01614,Brittany Melton,32,F,Kedah,Mass,P004|P002|P001,3,2018-10-15,2740,1,3543
+C01615,Michael Barnes,33,F,Penang,Mass,P005,1,2022-06-05,1411,1,3418
+C01616,Randy Griffin,67,M,Sarawak,Mass,P003|P008,2,2019-05-28,2515,0,11132
+C01617,Autumn Anderson,41,F,Penang,Mass Affluent,P003|P004,2,2025-06-16,304,1,8140
+C01618,Marcus King,40,F,Negeri Sembilan,Mass Affluent,P005,1,2026-01-23,83,1,5636
+C01619,Scott Stephens,54,F,Kuala Lumpur,Mass,P003|P006,2,2024-10-03,560,1,3136
+C01620,Stephen Young,47,F,Pahang,Mass,P004|P006|P008,3,2022-01-22,1545,1,5442
+C01621,Karen Ortiz,65,M,Negeri Sembilan,Mass,P006,1,2022-06-30,1386,1,3788
+C01622,Kyle Sanchez,52,F,Johor,Mass Affluent,P006|P009|P002,3,2023-06-01,1050,1,4432
+C01623,Lisa Grant,54,F,Perak,Mass,P005|P002,2,2025-04-18,363,1,5023
+C01624,Amber Hernandez,66,M,Selangor,Mass,P001|P008|P004,3,2023-02-10,1161,1,2882
+C01625,Amanda Nash,51,M,Penang,Mass Affluent,P006|P008|P010,3,2019-04-01,2572,0,14124
+C01626,Sara Evans,59,F,Penang,Mass,P004|P009,2,2019-07-05,2477,1,5314
+C01627,Amber Butler,65,M,Sabah,Affluent,P005|P004,2,2021-06-19,1762,1,11424
+C01628,Michael Carr,62,M,Kedah,Mass Affluent,P008,1,2018-11-25,2699,1,11480
+C01629,Linda Cobb,31,F,Penang,Mass Affluent,P002|P005|P008,3,2019-12-25,2304,1,7508
+C01630,Jesse Riley,39,M,Selangor,Mass,P001,1,2021-02-15,1886,1,4907
+C01631,Anna Evans,51,M,Perak,Mass,P007,1,2020-01-05,2293,1,4314
+C01632,James Jones,32,M,Pahang,Mass,P001|P005|P006,3,2021-10-09,1650,1,2707
+C01633,Joshua Carter,52,M,Pahang,Mass,P003,1,2024-09-23,570,1,2907
+C01634,Michael Hill,26,M,Kedah,Mass Affluent,P006|P002|P007|P003,4,2023-07-29,992,1,10514
+C01635,Kelly Dominguez,54,M,Kedah,Mass,P003|P009|P002,3,2025-07-06,284,1,3238
+C01636,Ashley Blair,35,M,Penang,Mass,P009|P001,2,2023-04-14,1098,1,3161
+C01637,Victoria Webb,35,F,Perak,Mass Affluent,P003|P009|P006,3,2025-09-26,202,1,5249
+C01638,Taylor Andersen,46,M,Selangor,Mass,P008|P001|P007,3,2018-09-10,2775,1,4223
+C01639,Lee Stewart,34,F,Pahang,Mass,P006|P002,2,2025-10-21,177,0,7494
+C01640,Whitney Gomez,46,F,Pahang,Mass,P010|P005,2,2024-05-14,702,1,2506
+C01641,Justin Stone,31,F,Perak,Affluent,P005|P006|P004|P003,4,2021-11-08,1620,1,13473
+C01642,Katherine White,49,M,Johor,Mass,P009|P007,2,2023-01-04,1198,1,5969
+C01643,Michelle Krause,72,M,Negeri Sembilan,Mass,P004|P010|P005,3,2021-11-11,1617,1,3541
+C01644,Alexander Garrett,50,M,Pahang,Mass,P010|P005,2,2022-02-28,1508,1,4266
+C01645,Ryan Marsh,34,F,Kedah,Affluent,P004|P008|P007|P006,4,2026-01-26,80,0,9211
+C01646,Mrs. Felicia Castro DDS,69,M,Kuala Lumpur,Mass,P009|P005,2,2019-06-17,2495,1,4230
+C01647,Curtis Campbell,22,F,Perak,Mass Affluent,P005|P001|P010,3,2026-03-16,31,1,6867
+C01648,Elizabeth Hunter,27,F,Sarawak,Mass,P004,1,2024-06-02,683,1,5141
+C01649,Aaron Jennings,62,F,Kedah,Mass,P002|P005|P003,3,2021-07-11,1740,0,5517
+C01650,Nathaniel Gilbert,28,M,Kuala Lumpur,Affluent,P001|P008|P003,3,2023-11-30,868,1,33069
+C01651,Christopher Rivera,50,M,Negeri Sembilan,Affluent,P009|P005|P010,3,2023-07-30,991,1,16365
+C01652,Michael Hendricks,30,M,Selangor,Mass,P007,1,2018-06-14,2863,1,4081
+C01653,Maria Olson,47,M,Sabah,Mass,P001,1,2020-12-26,1937,1,3897
+C01654,Stephanie Herrera,33,M,Kedah,Affluent,P005|P004,2,2020-11-01,1992,1,11806
+C01655,Richard Gutierrez,23,M,Selangor,Affluent,P007|P009|P008|P010,4,2018-12-01,2693,1,15040
+C01656,Sandy Evans,59,F,Pahang,Mass,P009|P003|P006,3,2025-03-20,392,1,3283
+C01657,Emily Herrera,68,F,Kedah,Mass Affluent,P010|P007,2,2022-08-12,1343,0,7777
+C01658,Michael Marsh,30,F,Kuala Lumpur,Affluent,P008|P009|P007|P003,4,2022-12-06,1227,1,21187
+C01659,Heather Montes,42,M,Sarawak,Affluent,P008|P009|P003,3,2024-08-31,593,1,9393
+C01660,Andre Terrell,30,M,Perak,Mass Affluent,P003|P010,2,2019-03-14,2590,1,10927
+C01661,Sarah Duncan,28,F,Pahang,Private Banking,P009|P002|P001,3,2021-07-05,1746,1,57583
+C01662,Kurt Hancock,68,M,Sarawak,Mass,P006|P008,2,2024-05-12,704,1,3494
+C01663,Michele Edwards,56,F,Kuala Lumpur,Affluent,P007|P004|P006,3,2022-01-08,1559,1,6357
+C01664,Jason Crawford,50,M,Kedah,Mass,P004|P001,2,2018-12-27,2667,1,2943
+C01665,Jesse Sampson,65,M,Pahang,Private Banking,P007|P005,2,2025-05-26,325,1,57179
+C01666,Eric Rodriguez,22,M,Kuala Lumpur,Mass,P004,1,2024-01-25,812,1,3612
+C01667,Paula Gentry,28,M,Negeri Sembilan,Mass,P007,1,2021-02-18,1883,1,2566
+C01668,Alexander Webb,44,M,Kedah,Mass,P010|P008,2,2021-11-10,1618,0,3051
+C01669,Cheryl Mclean,41,F,Pahang,Mass,P008,1,2020-08-08,2077,1,4886
+C01670,Kelly Rowe,65,M,Kedah,Mass Affluent,P008|P001|P007,3,2021-06-20,1761,1,8878
+C01671,Shane Short,51,M,Kedah,Mass,P004,1,2025-03-27,385,1,3349
+C01672,Megan Anderson,36,F,Penang,Mass Affluent,P006|P005,2,2022-06-05,1411,1,6449
+C01673,Julia Reeves,21,F,Kuala Lumpur,Mass Affluent,P001|P009,2,2025-02-22,418,1,6393
+C01674,April Randolph,38,M,Sabah,Mass Affluent,P009,1,2021-01-05,1927,1,5309
+C01675,Linda Miller,54,F,Negeri Sembilan,Mass,P005|P003|P001,3,2018-05-19,2889,1,6409
+C01676,Angel Meyer,64,M,Selangor,Mass,P004|P008|P009,3,2024-12-23,479,1,3253
+C01677,Emily Lane,32,M,Sarawak,Mass Affluent,P003,1,2018-11-16,2708,1,11226
+C01678,Steven Flores,52,M,Johor,Mass,P002|P010,2,2019-08-31,2420,1,6201
+C01679,Donald Flores,57,F,Pahang,Mass,P007|P001,2,2019-06-04,2508,1,5164
+C01680,Bruce Hernandez,23,M,Kuala Lumpur,Mass,P007|P002,2,2020-11-23,1970,1,3130
+C01681,Adrian Dean,43,M,Selangor,Mass,P004|P003,2,2018-10-03,2752,1,4194
+C01682,Christine Bell,32,F,Kedah,Mass Affluent,P009|P006,2,2019-10-24,2366,1,7270
+C01683,Charles Bush,32,M,Penang,Mass Affluent,P001,1,2018-11-06,2718,1,5344
+C01684,David Jones,68,M,Kuala Lumpur,Mass Affluent,P001,1,2024-09-18,575,1,8213
+C01685,Gina Wallace,58,F,Penang,Mass,P003,1,2023-03-24,1119,1,2410
+C01686,John Lowe,33,M,Perak,Mass Affluent,P004|P002,2,2023-10-25,904,1,11111
+C01687,Anthony Simmons,55,M,Kuala Lumpur,Affluent,P003|P009,2,2019-03-06,2598,1,11355
+C01688,Kyle Watkins,57,M,Sabah,Mass,P007|P006,2,2025-05-24,327,1,3907
+C01689,Melissa Jensen,23,F,Negeri Sembilan,Affluent,P001|P004|P006|P009,4,2021-05-14,1798,1,14752
+C01690,Robert Marquez,68,M,Negeri Sembilan,Affluent,P009|P007|P003,3,2023-09-09,950,1,12202
+C01691,Kim Beltran,70,M,Johor,Mass,P007|P002,2,2020-08-19,2066,1,4471
+C01692,Julie Anderson,44,F,Pahang,Mass,P006,1,2025-10-05,193,1,3083
+C01693,Tamara Mcdonald,51,M,Kedah,Mass,P010,1,2022-10-02,1292,1,4939
+C01694,Michael Mckinney,52,F,Sabah,Private Banking,P010|P002|P005,3,2018-06-15,2862,1,22672
+C01695,David Walker,53,F,Sabah,Mass,P006|P004|P009,3,2019-07-18,2464,1,3806
+C01696,Lisa Durham,54,F,Penang,Mass Affluent,P010,1,2022-06-14,1402,1,14453
+C01697,Michael Ortega,72,F,Penang,Mass Affluent,P006,1,2024-08-24,600,1,5166
+C01698,Sonya Chavez,54,M,Negeri Sembilan,Mass,P005|P004,2,2019-09-08,2412,1,2872
+C01699,John Bell,32,F,Negeri Sembilan,Affluent,P006|P004|P007|P009,4,2022-06-05,1411,1,15992
+C01700,Christopher Tate,30,F,Pahang,Mass,P002,1,2022-05-19,1428,0,3877
+C01701,Bethany Garcia,25,F,Penang,Mass,P008|P010|P005,3,2026-03-04,43,1,4116
+C01702,Rebecca Nguyen,61,F,Kuala Lumpur,Private Banking,P008|P007|P009,3,2021-05-31,1781,1,43097
+C01703,Rebecca Patel,44,F,Johor,Mass Affluent,P001|P002|P005|P010,4,2024-10-30,533,1,9156
+C01704,Jason Oliver,48,M,Sarawak,Mass,P010|P001|P009,3,2018-07-05,2842,0,5369
+C01705,Valerie Reyes,39,F,Pahang,Mass,P010,1,2023-02-06,1165,1,4203
+C01706,Robert Garza,30,F,Penang,Mass,P004|P003,2,2023-07-23,998,1,3346
+C01707,Jessica Cobb,31,M,Kuala Lumpur,Mass,P005|P008,2,2026-01-05,101,1,4607
+C01708,Cynthia Bates,35,F,Kuala Lumpur,Mass,P003|P004,2,2021-08-26,1694,1,7080
+C01709,Timothy Andrews,40,M,Kuala Lumpur,Mass,P007|P008|P004,3,2018-09-06,2779,1,3476
+C01710,Mr. Joel Peters,66,F,Selangor,Mass,P007,1,2021-08-17,1703,1,2589
+C01711,Casey Blanchard,34,M,Kedah,Affluent,P009|P006|P010,3,2023-03-01,1142,1,19682
+C01712,Brian Cervantes,49,F,Johor,Mass Affluent,P002,1,2021-11-10,1618,1,7029
+C01713,Jamie Snyder,34,M,Perak,Mass,P004|P005,2,2023-11-20,878,1,1702
+C01714,Ann Montoya,22,M,Perak,Mass Affluent,P002|P008,2,2020-12-10,1953,1,9864
+C01715,Stephanie Fields,45,M,Perak,Mass,P008|P007,2,2022-03-06,1502,1,3019
+C01716,Charles Hernandez,38,M,Selangor,Mass,P008|P003|P009|P002,4,2023-08-24,966,0,3527
+C01717,Jean Lane,24,M,Negeri Sembilan,Mass Affluent,P003,1,2022-02-13,1523,1,8235
+C01718,Michael Stewart,37,M,Perak,Mass,P008|P003|P005,3,2025-08-24,235,1,3892
+C01719,Susan Torres,35,M,Kuala Lumpur,Mass,P002,1,2024-02-15,791,1,4667
+C01720,Jessica Haas,62,F,Johor,Mass Affluent,P003|P005|P008,3,2019-10-15,2375,1,6295
+C01721,Brandon Smith,59,F,Johor,Mass Affluent,P002,1,2024-01-07,830,1,8774
+C01722,Mrs. Bethany Phillips,56,M,Penang,Mass Affluent,P003|P009,2,2021-01-08,1924,1,6695
+C01723,Joshua Brown,31,M,Perak,Mass Affluent,P001|P009,2,2022-07-23,1363,1,9496
+C01724,Samantha Howard,51,F,Negeri Sembilan,Mass,P010,1,2025-08-31,228,1,4516
+C01725,Sharon Young,36,M,Kuala Lumpur,Mass,P004|P003,2,2021-01-08,1924,0,2624
+C01726,Jennifer Flores,21,F,Pahang,Mass,P008|P007,2,2024-09-07,586,1,5325
+C01727,James Gardner,54,F,Johor,Mass,P007|P005,2,2018-12-13,2681,1,3018
+C01728,Karen Lopez,29,F,Kuala Lumpur,Affluent,P010|P006,2,2020-08-09,2076,1,17727
+C01729,Tim Larsen,45,F,Penang,Mass,P006,1,2021-08-01,1719,1,4140
+C01730,Zachary Santiago,48,F,Penang,Mass Affluent,P008|P003|P005,3,2023-10-17,912,1,13952
+C01731,Benjamin Smith,49,F,Penang,Mass,P008,1,2023-08-30,960,1,3367
+C01732,Katelyn Kim,24,F,Sarawak,Mass,P002,1,2021-07-18,1733,1,3222
+C01733,Angela May MD,45,F,Selangor,Affluent,P002|P005|P006|P007,4,2020-12-28,1935,0,13269
+C01734,Richard Munoz,25,M,Selangor,Mass,P009,1,2020-10-31,1993,0,3274
+C01735,Christopher Hicks,68,M,Pahang,Mass Affluent,P001,1,2024-07-28,627,1,9701
+C01736,Joanna Kelly,46,F,Sarawak,Mass,P006|P010,2,2021-03-07,1866,1,2068
+C01737,Larry Lane,58,M,Pahang,Mass,P008|P007,2,2020-05-30,2147,1,2518
+C01738,Cynthia Shaw,53,F,Johor,Mass,P007|P006|P008|P009,4,2019-11-10,2349,1,2506
+C01739,Joshua Richardson,26,M,Selangor,Mass Affluent,P004,1,2024-01-03,834,1,10225
+C01740,Laura Bush,33,F,Pahang,Mass,P003,1,2024-09-19,574,1,6626
+C01741,John Vaughn,21,F,Kuala Lumpur,Private Banking,P001|P005,2,2023-11-06,892,1,35012
+C01742,Nicholas Terrell,64,F,Negeri Sembilan,Mass,P008,1,2024-05-08,708,1,3432
+C01743,Dr. Julie Miller,51,F,Sarawak,Private Banking,P009|P010,2,2022-01-13,1554,1,37217
+C01744,Ann Kennedy,64,M,Perak,Affluent,P005|P004|P009,3,2018-09-20,2765,1,20063
+C01745,Toni Miller,53,F,Kuala Lumpur,Mass,P007|P001|P005|P010,4,2022-07-12,1374,1,2632
+C01746,Rebecca Edwards,35,M,Kuala Lumpur,Affluent,P004|P008,2,2019-12-26,2303,1,14522
+C01747,Greg Osborne,44,F,Sabah,Mass,P010,1,2020-07-15,2101,1,5122
+C01748,Jose Harrison,60,F,Perak,Mass,P002|P006|P001,3,2024-05-21,695,1,4339
+C01749,Jennifer Yu,47,M,Sabah,Mass,P006,1,2024-06-25,660,1,3891
+C01750,Donna Johnson,46,M,Negeri Sembilan,Mass Affluent,P004|P005,2,2020-09-10,2044,1,10408
+C01751,Nicole Acosta,31,M,Kuala Lumpur,Mass Affluent,P002|P010,2,2022-06-10,1406,1,2847
+C01752,Amy Kennedy,30,M,Selangor,Mass,P002|P003,2,2026-02-11,64,1,4616
+C01753,Anthony Mooney,29,M,Sabah,Mass,P006|P002|P001,3,2025-11-04,163,1,2896
+C01754,Lori Mitchell,58,M,Johor,Mass,P001,1,2025-10-09,189,0,1918
+C01755,Jonathan York,27,M,Negeri Sembilan,Mass,P009,1,2020-09-16,2038,1,4354
+C01756,Casey Campbell,50,M,Kedah,Mass Affluent,P009,1,2025-06-24,296,1,11858
+C01757,Alexis Rodriguez,39,F,Pahang,Mass,P003|P008|P009,3,2018-06-25,2852,1,3470
+C01758,Kevin Hernandez,66,M,Penang,Affluent,P004|P005|P006,3,2018-11-18,2706,1,18648
+C01759,Robert Green,30,M,Kuala Lumpur,Mass,P002,1,2018-04-28,2910,0,6402
+C01760,Kari Lloyd,30,F,Negeri Sembilan,Mass Affluent,P006,1,2024-10-17,546,1,11617
+C01761,Grace Miller,48,F,Selangor,Mass,P009|P005|P004,3,2020-10-22,2002,1,6464
+C01762,Timothy Moore,33,F,Johor,Mass,P005,1,2021-10-29,1630,1,4721
+C01763,Wyatt Townsend II,63,F,Perak,Private Banking,P006|P008|P003|P007,4,2021-01-04,1928,1,37287
+C01764,Mark Clark,65,M,Kedah,Mass,P003|P005|P007,3,2019-11-09,2350,1,2078
+C01765,Haley May,30,F,Sabah,Mass,P009,1,2022-06-16,1400,0,3341
+C01766,Audrey Jackson,47,F,Negeri Sembilan,Mass,P006,1,2024-03-08,769,1,2710
+C01767,Eric Reese,27,M,Sarawak,Mass,P009|P004|P010,3,2026-03-06,41,1,7784
+C01768,Kim James,38,M,Kedah,Mass,P010|P004|P007,3,2020-07-18,2098,0,3424
+C01769,Karen Thomas,56,M,Perak,Mass,P008|P001|P005|P003,4,2019-08-01,2450,1,3801
+C01770,Alexandra Ho,51,M,Kedah,Affluent,P008|P004|P006,3,2025-07-03,287,1,16204
+C01771,Michael Nixon,23,F,Selangor,Affluent,P010|P005|P007,3,2018-11-24,2700,1,13565
+C01772,Amanda Hardin,35,M,Kuala Lumpur,Private Banking,P007|P001|P010,3,2025-10-02,196,1,65727
+C01773,Tina Reynolds,55,M,Kedah,Affluent,P007|P001|P005,3,2023-02-21,1150,0,10744
+C01774,Shannon Rogers,55,M,Perak,Mass Affluent,P002,1,2023-10-25,904,1,7849
+C01775,Brett Pena,32,M,Sarawak,Mass,P007,1,2022-07-11,1375,1,2808
+C01776,Raymond Curry,22,F,Perak,Mass,P005|P003|P010,3,2020-10-29,1995,1,2294
+C01777,Leah Lee,34,F,Pahang,Mass Affluent,P005,1,2021-06-05,1776,1,5919
+C01778,Michael White,25,M,Penang,Mass,P002,1,2019-01-16,2647,1,3594
+C01779,Megan Decker,32,F,Pahang,Mass,P002|P009,2,2023-03-07,1136,1,3133
+C01780,Brent Garcia,60,F,Johor,Mass,P002,1,2018-09-19,2766,1,2857
+C01781,Daniel Campbell,55,M,Johor,Affluent,P010|P002|P009,3,2024-02-01,805,1,8166
+C01782,Alexander Davis,65,F,Perak,Mass,P006|P001,2,2020-05-09,2168,1,3537
+C01783,Mary Houston,27,F,Negeri Sembilan,Affluent,P007|P004|P003|P002,4,2021-05-11,1801,1,7890
+C01784,Margaret Erickson,68,F,Perak,Mass,P008|P009,2,2025-06-16,304,1,4751
+C01785,Scott Anderson,33,F,Selangor,Affluent,P004|P001,2,2022-01-27,1540,0,13751
+C01786,Stephanie Knight,62,F,Kuala Lumpur,Mass,P001|P006,2,2022-01-12,1555,1,2186
+C01787,Stephanie Dominguez,59,F,Pahang,Mass,P010|P003|P008,3,2025-02-17,423,0,3267
+C01788,John Mayer,28,M,Sabah,Mass Affluent,P006,1,2022-05-22,1425,1,5635
+C01789,Tammy Hill,39,M,Sabah,Mass,P005,1,2021-06-08,1773,1,4071
+C01790,Steven Carrillo,38,F,Kuala Lumpur,Mass,P002|P009,2,2024-06-29,656,1,5821
+C01791,Christopher Jones,47,M,Pahang,Mass,P006|P003|P002|P007,4,2022-11-05,1258,1,1889
+C01792,Janet Cook,44,M,Negeri Sembilan,Mass,P006|P010|P002|P008,4,2025-01-31,440,1,3791
+C01793,Tyler Baker,24,F,Pahang,Mass,P009|P010|P002,3,2023-08-12,978,1,3443
+C01794,John Mcfarland,46,M,Sarawak,Mass Affluent,P007,1,2025-01-30,441,1,9274
+C01795,Cassandra Vasquez,29,F,Selangor,Mass,P010|P001|P002,3,2025-08-16,243,1,3923
+C01796,Randy Robinson,46,M,Kuala Lumpur,Mass,P010,1,2022-02-27,1509,1,2798
+C01797,Susan Baldwin,62,M,Johor,Affluent,P002|P001|P008,3,2024-02-18,788,1,11948
+C01798,Benjamin Duncan,53,M,Kedah,Mass,P009|P005,2,2018-07-22,2825,1,2756
+C01799,Jeremy Mosley,48,F,Sarawak,Mass,P004|P009,2,2025-07-17,273,1,5306
+C01800,Martin Fitzpatrick,47,F,Sabah,Affluent,P004|P002,2,2019-08-02,2449,1,13460
+C01801,Deborah Graves,21,M,Negeri Sembilan,Private Banking,P004|P005|P003,3,2020-08-17,2068,1,70645
+C01802,Laura Robertson,36,M,Kuala Lumpur,Mass,P004,1,2018-09-07,2778,1,3564
+C01803,Katherine Graham,34,M,Kuala Lumpur,Mass,P001,1,2024-09-19,574,1,2841
+C01804,Priscilla Floyd,47,M,Kuala Lumpur,Mass,P003,1,2026-01-20,86,1,2144
+C01805,April Finley,47,M,Johor,Mass,P005|P008,2,2022-07-25,1361,1,1937
+C01806,Karen Bradley,33,F,Selangor,Affluent,P004|P008|P009|P003,4,2022-04-01,1476,1,7674
+C01807,Heather Maldonado,50,M,Perak,Mass,P001|P008|P005,3,2021-05-08,1804,1,3998
+C01808,Mark Benjamin,30,F,Pahang,Mass,P001,1,2022-12-27,1206,1,4351
+C01809,Joseph Woodward,43,F,Kedah,Mass,P004,1,2021-02-10,1891,0,2093
+C01810,Joe Miranda,31,M,Kedah,Mass,P003|P001,2,2023-03-09,1134,1,4980
+C01811,Cassandra Williams,53,F,Pahang,Mass Affluent,P005,1,2020-01-09,2289,1,6191
+C01812,Connor Dominguez,38,M,Negeri Sembilan,Affluent,P005|P007|P001,3,2025-02-06,434,0,14064
+C01813,Lydia Howard,36,M,Kedah,Affluent,P004|P009,2,2025-01-03,468,0,23489
+C01814,Mark Moss,30,F,Selangor,Private Banking,P009|P007,2,2026-03-04,43,1,49707
+C01815,Corey Cortez,27,F,Negeri Sembilan,Mass Affluent,P007|P005,2,2024-02-09,797,1,6674
+C01816,Katherine Brown,63,F,Kedah,Affluent,P010|P006|P002,3,2021-09-13,1676,1,9780
+C01817,Elizabeth Ferguson,41,M,Pahang,Mass,P008,1,2023-06-18,1033,1,1714
+C01818,Joann Forbes,48,M,Penang,Private Banking,P002|P010,2,2023-08-28,962,1,28234
+C01819,Anthony French,34,F,Johor,Mass,P002|P010,2,2025-09-19,209,1,3382
+C01820,Bruce Roman,34,F,Kuala Lumpur,Mass,P001,1,2023-10-21,908,0,2577
+C01821,Judy Gregory,58,M,Kuala Lumpur,Affluent,P002|P006|P004|P005,4,2018-12-31,2663,1,12760
+C01822,Brittany Riley,55,F,Pahang,Mass Affluent,P004|P001|P008,3,2019-07-02,2480,1,7532
+C01823,Amanda Thomas,67,M,Kuala Lumpur,Mass,P004|P007|P006,3,2018-05-28,2880,1,3365
+C01824,Kaitlin Hardin,57,F,Pahang,Mass,P006|P010,2,2023-08-21,969,1,2900
+C01825,Michael Anderson,68,M,Johor,Mass,P001|P005,2,2025-11-27,140,1,3862
+C01826,Anthony Parker,68,M,Johor,Mass,P004,1,2023-08-01,989,1,4250
+C01827,Joy Jackson,63,M,Sarawak,Mass,P001|P002,2,2025-07-10,280,1,2486
+C01828,Sabrina Rodriguez,64,F,Selangor,Mass,P003|P008,2,2022-11-06,1257,1,5966
+C01829,Robert Walker PhD,55,M,Penang,Mass,P007|P002|P009,3,2025-10-25,173,1,3517
+C01830,Robert Hendrix,27,F,Kedah,Mass,P003|P005,2,2021-07-21,1730,1,3665
+C01831,Erika Daugherty,55,F,Johor,Mass Affluent,P008,1,2019-07-18,2464,1,9394
+C01832,Brenda Copeland,38,F,Sabah,Mass,P001|P004,2,2021-03-20,1853,1,3951
+C01833,Pamela Watkins,50,M,Pahang,Affluent,P002|P003|P001|P010,4,2020-03-15,2223,1,18650
+C01834,Bryan Thomas,58,M,Johor,Mass Affluent,P001|P009|P003,3,2018-12-04,2690,1,8107
+C01835,Michael Tran,53,F,Pahang,Affluent,P002|P004|P010,3,2025-08-22,237,1,10782
+C01836,Timothy Williams,37,M,Perak,Mass,P003,1,2023-04-19,1093,1,4132
+C01837,Ryan Salazar,29,M,Negeri Sembilan,Affluent,P002|P009,2,2023-11-28,870,1,8953
+C01838,Alexis Tucker,67,F,Johor,Mass Affluent,P006,1,2021-06-22,1759,1,7616
+C01839,Christopher Davis,22,M,Selangor,Mass,P001,1,2022-06-03,1413,1,3599
+C01840,Stacie Butler,69,M,Kedah,Mass Affluent,P002|P010,2,2024-05-11,705,0,6817
+C01841,Patricia Schwartz,49,M,Johor,Mass Affluent,P006|P001,2,2025-02-08,432,0,7009
+C01842,Mark Mills,45,F,Johor,Mass Affluent,P009|P005|P010,3,2022-09-13,1311,1,3795
+C01843,Todd Bishop,59,M,Johor,Mass Affluent,P005|P008,2,2024-07-20,635,1,6051
+C01844,Christopher Porter,53,F,Selangor,Mass Affluent,P007,1,2022-12-20,1213,1,7574
+C01845,Lori Patton,22,M,Perak,Mass,P005,1,2020-12-19,1944,1,3850
+C01846,Aaron Young,26,F,Perak,Mass,P009|P003,2,2022-05-19,1428,1,2541
+C01847,Joseph Davis,47,F,Sarawak,Mass,P004,1,2023-07-26,995,1,5670
+C01848,Philip Fernandez,40,F,Selangor,Affluent,P007|P001|P009|P006,4,2022-02-07,1529,1,9866
+C01849,Randy Hopkins,47,M,Negeri Sembilan,Mass Affluent,P008|P006,2,2023-07-07,1014,1,10294
+C01850,Cory Hogan,32,M,Perak,Mass,P001,1,2020-04-24,2183,1,4228
+C01851,Tracy Wells,28,M,Pahang,Affluent,P001|P005|P009|P007,4,2020-04-12,2195,0,10655
+C01852,Michael Williams,36,M,Perak,Mass,P004,1,2020-08-14,2071,1,6777
+C01853,Dominique Hamilton,64,M,Pahang,Mass,P010|P005,2,2024-06-21,664,1,2398
+C01854,Robert Chang,63,M,Perak,Mass Affluent,P003|P001,2,2018-09-13,2772,1,10114
+C01855,Patrick Buckley,44,F,Sabah,Mass Affluent,P007|P004|P002,3,2024-09-29,564,1,10407
+C01856,Richard Washington,45,F,Sabah,Mass,P007|P003|P006|P010,4,2025-10-01,197,1,2879
+C01857,Steven Griffith,32,F,Pahang,Mass,P006,1,2025-09-25,203,1,5928
+C01858,Erika Gonzalez,33,F,Perak,Private Banking,P001|P002|P008|P004,4,2022-11-30,1233,1,33272
+C01859,Erika Maxwell,53,M,Sarawak,Mass Affluent,P009|P001|P004,3,2022-12-13,1220,1,8112
+C01860,Brent Rojas,53,F,Negeri Sembilan,Mass,P005|P006|P003,3,2018-05-22,2886,1,3988
+C01861,Jaime Walker,64,F,Penang,Mass Affluent,P001,1,2025-07-08,282,1,6995
+C01862,John Zamora,34,F,Kuala Lumpur,Private Banking,P004|P009|P005|P008,4,2023-10-14,915,1,48232
+C01863,Timothy Gibson,72,F,Pahang,Mass,P002,1,2023-09-21,938,1,4806
+C01864,Chad Cortez,55,M,Johor,Mass,P004|P002|P010|P008,4,2024-10-27,536,1,1974
+C01865,Vanessa Harris,35,M,Negeri Sembilan,Mass,P001|P002,2,2022-08-02,1353,1,5747
+C01866,Michael Brown,69,M,Selangor,Private Banking,P002|P008|P007|P009,4,2020-08-21,2064,0,20295
+C01867,Samuel Ellis,22,F,Kuala Lumpur,Private Banking,P002|P006,2,2023-11-14,884,1,52125
+C01868,Greg Tanner,54,F,Kedah,Affluent,P007|P006,2,2019-07-06,2476,1,19818
+C01869,Rachel Little,59,M,Perak,Mass,P007|P001,2,2023-01-11,1191,1,2485
+C01870,Carolyn Cordova,29,M,Pahang,Affluent,P010|P002,2,2022-05-01,1446,1,11571
+C01871,Angelica Vincent,39,F,Pahang,Mass,P004,1,2019-10-05,2385,1,2473
+C01872,Zachary Vargas PhD,58,M,Kuala Lumpur,Mass,P004|P003|P009|P002,4,2025-11-29,138,1,3377
+C01873,Nicholas Fitzgerald,42,M,Sabah,Mass,P005,1,2023-02-15,1156,1,3269
+C01874,Garrett Riley,47,F,Penang,Affluent,P006|P001,2,2020-03-13,2225,1,17551
+C01875,Leslie Hernandez,48,M,Johor,Mass,P001|P009|P002,3,2021-10-10,1649,1,5760
+C01876,Abigail Baird,23,F,Perak,Affluent,P001|P009|P004|P003,4,2026-01-03,103,0,21774
+C01877,John Mack,69,M,Sarawak,Mass,P008,1,2025-03-20,392,0,2991
+C01878,Joseph Mendoza,27,F,Pahang,Private Banking,P005|P006|P009|P001,4,2023-10-28,901,1,33751
+C01879,Samantha Chavez,57,M,Negeri Sembilan,Mass,P008|P007,2,2021-04-26,1816,1,2020
+C01880,Justin Smith,37,M,Pahang,Mass,P002|P004|P005|P008,4,2020-04-29,2178,0,2746
+C01881,Tiffany Anderson,42,M,Perak,Mass,P009|P010,2,2024-01-13,824,1,5104
+C01882,Matthew Davis,62,F,Kedah,Mass,P001|P002,2,2023-08-03,987,1,6409
+C01883,Eric Warner,59,F,Negeri Sembilan,Affluent,P010|P002|P005,3,2026-01-03,103,1,8673
+C01884,Nicole Johnson,66,F,Negeri Sembilan,Private Banking,P010|P003|P007|P008,4,2026-01-12,94,1,29515
+C01885,Raymond Sawyer,70,F,Johor,Mass Affluent,P010|P008|P002,3,2021-12-29,1569,1,7265
+C01886,Richard Wood,58,M,Sabah,Mass,P004|P003|P006|P005,4,2022-02-07,1529,1,4016
+C01887,Mark Dalton,40,M,Johor,Mass Affluent,P004|P003|P010,3,2020-08-06,2079,1,5523
+C01888,Steven Cook,39,F,Negeri Sembilan,Mass Affluent,P007|P010|P001,3,2023-09-16,943,1,8505
+C01889,Jeffery Nelson,51,M,Kedah,Mass,P008|P007,2,2019-12-14,2315,1,3085
+C01890,Kimberly Norton,40,F,Penang,Mass Affluent,P004|P009|P010|P003,4,2023-10-15,914,0,7295
+C01891,Angela Gilmore,29,M,Sarawak,Mass Affluent,P001|P005,2,2020-05-17,2160,0,8877
+C01892,Amy Dougherty,28,M,Perak,Private Banking,P010|P007|P006|P001,4,2018-10-07,2748,1,36397
+C01893,Stacy Rodriguez,55,F,Negeri Sembilan,Mass Affluent,P005|P002,2,2022-03-09,1499,1,6293
+C01894,Manuel Diaz,61,F,Kuala Lumpur,Mass,P001|P009|P008,3,2021-08-24,1696,1,3504
+C01895,Justin Jones,30,F,Penang,Mass Affluent,P006|P010|P002,3,2018-07-09,2838,1,7109
+C01896,Christine Zavala,55,F,Selangor,Mass,P005|P009,2,2021-09-27,1662,1,3199
+C01897,Brian Mendoza,51,F,Negeri Sembilan,Mass Affluent,P009,1,2024-05-14,702,1,6697
+C01898,Lauren Haley,25,M,Kuala Lumpur,Private Banking,P007|P009,2,2021-11-04,1624,1,63546
+C01899,Patrick Perez,60,M,Negeri Sembilan,Mass,P001|P010|P002|P004,4,2024-01-16,821,1,4431
+C01900,Derek Frazier,39,M,Kedah,Mass Affluent,P006,1,2025-04-23,358,1,6612
+C01901,Arthur Reed,61,M,Sarawak,Mass,P008|P007|P003,3,2024-03-22,755,1,4647
+C01902,Mr. Bryan Mckinney,38,F,Johor,Mass,P008|P005,2,2023-01-26,1176,1,3239
+C01903,Kim Carter,29,F,Selangor,Mass Affluent,P007|P003|P009,3,2021-03-04,1869,1,11055
+C01904,Rebecca Dougherty,68,M,Negeri Sembilan,Affluent,P008|P007|P001,3,2025-03-05,407,1,15205
+C01905,Teresa Jones,25,F,Kuala Lumpur,Mass Affluent,P007,1,2019-06-18,2494,0,7062
+C01906,Judith Miller,33,F,Sarawak,Mass,P003,1,2023-12-26,842,1,4259
+C01907,Donna Frye,33,M,Penang,Mass,P002|P008|P010|P004,4,2024-04-15,731,1,2101
+C01908,Donald Terry,64,M,Penang,Mass,P001|P007,2,2024-05-14,702,1,2454
+C01909,Shaun Meyer DDS,53,F,Perak,Private Banking,P008|P010,2,2023-07-17,1004,1,23912
+C01910,Wayne Weaver,49,F,Negeri Sembilan,Mass,P005|P010,2,2023-10-06,923,1,3828
+C01911,Gregory Wallace,58,F,Pahang,Mass,P007,1,2024-04-26,720,1,6677
+C01912,Dorothy Brown,48,F,Kuala Lumpur,Mass,P004|P008|P010|P006,4,2025-02-23,417,1,7950
+C01913,Crystal Meza,27,M,Selangor,Affluent,P008|P009|P003|P002,4,2020-03-20,2218,1,16703
+C01914,Jennifer Cooper,26,M,Sabah,Affluent,P010|P009|P003|P001,4,2019-01-16,2647,1,15919
+C01915,Erin Watkins,31,F,Penang,Mass Affluent,P008,1,2021-07-02,1749,1,3904
+C01916,Sarah Wallace,55,M,Pahang,Mass,P009,1,2023-08-12,978,1,3011
+C01917,Carlos Clarke,47,M,Kedah,Mass,P008,1,2022-08-21,1334,1,2764
+C01918,David Washington,55,F,Selangor,Mass Affluent,P002|P008,2,2019-08-11,2440,1,5900
+C01919,Patricia Williams,36,M,Perak,Affluent,P003|P001|P006,3,2020-08-22,2063,1,12596
+C01920,Jesus Jackson,63,M,Kuala Lumpur,Affluent,P006|P010,2,2025-04-06,375,0,11325
+C01921,Michelle Mitchell,63,F,Perak,Mass,P009|P008|P002,3,2018-08-06,2810,1,1821
+C01922,Sara Schwartz,54,F,Kedah,Mass Affluent,P002|P003|P006,3,2025-05-23,328,1,9526
+C01923,Brittany Young,56,F,Pahang,Mass Affluent,P005|P004|P007,3,2025-10-07,191,1,5037
+C01924,Eugene Martinez,29,M,Pahang,Affluent,P006|P001,2,2024-06-07,678,1,14527
+C01925,Cody Hart,66,F,Negeri Sembilan,Mass Affluent,P005|P003,2,2019-07-02,2480,1,15153
+C01926,Evan Cooper,53,F,Sarawak,Mass Affluent,P002,1,2019-05-16,2527,1,5315
+C01927,Joshua Martin,53,F,Johor,Mass,P001|P008|P002,3,2020-02-02,2265,1,1502
+C01928,Thomas Sullivan,46,M,Negeri Sembilan,Mass,P009|P003,2,2020-02-09,2258,1,3294
+C01929,Mr. Jimmy Flores Jr.,70,F,Perak,Mass,P008|P010,2,2021-12-10,1588,1,5353
+C01930,Vanessa Rivera,57,M,Kedah,Affluent,P003|P010|P006,3,2019-03-20,2584,0,26514
+C01931,Kara Roberts,71,M,Perak,Mass Affluent,P009,1,2025-10-12,186,1,4768
+C01932,Veronica Berry,61,M,Sarawak,Mass Affluent,P005,1,2018-07-23,2824,1,8724
+C01933,Keith Meadows,45,M,Selangor,Mass Affluent,P008,1,2021-10-31,1628,1,6230
+C01934,Michael Dennis,38,F,Sabah,Affluent,P006|P010,2,2024-04-29,717,1,12873
+C01935,Brenda Pierce,46,F,Negeri Sembilan,Mass,P003,1,2020-05-03,2174,1,9187
+C01936,James Randall,36,F,Perak,Mass Affluent,P009,1,2019-01-19,2644,1,4333
+C01937,Brandon Brown,33,F,Johor,Mass,P010|P002|P006,3,2023-09-19,940,1,3979
+C01938,Lauren Walker,64,M,Sarawak,Affluent,P006|P008,2,2018-07-14,2833,1,15736
+C01939,Diana Johnson,31,F,Kuala Lumpur,Mass,P004|P006,2,2019-10-03,2387,1,5324
+C01940,Jill Powers,27,M,Kedah,Mass Affluent,P006,1,2020-07-20,2096,1,7588
+C01941,Jorge Lee,56,F,Penang,Mass,P008|P005,2,2021-11-16,1612,1,4055
+C01942,Larry Harding,61,F,Negeri Sembilan,Mass Affluent,P009|P002|P010,3,2022-10-09,1285,1,6393
+C01943,Heather Hernandez,33,F,Selangor,Mass,P010|P004,2,2025-09-06,222,1,4001
+C01944,Jaclyn Watson,34,F,Kuala Lumpur,Mass,P005,1,2022-02-15,1521,1,3229
+C01945,Gregory Madden,33,F,Kedah,Mass,P006|P004,2,2022-07-14,1372,1,4526
+C01946,Anita Luna,27,M,Negeri Sembilan,Mass,P006|P001,2,2020-04-29,2178,1,3199
+C01947,Willie Lara,65,F,Johor,Affluent,P005|P002|P001|P007,4,2024-07-12,643,1,15245
+C01948,Robert Waller,54,F,Pahang,Affluent,P010|P009,2,2019-04-22,2551,1,13224
+C01949,Steven Taylor,69,M,Pahang,Mass,P003,1,2024-09-24,569,1,5400
+C01950,Angelica Clark,46,F,Perak,Mass,P006,1,2022-04-21,1456,1,3576
+C01951,Sean Hatfield,70,F,Sabah,Mass Affluent,P008|P009,2,2022-07-28,1358,1,3942
+C01952,Tyler Avila,29,F,Pahang,Mass,P006,1,2024-04-30,716,1,5663
+C01953,Jason Rocha,48,M,Sabah,Private Banking,P006|P005|P003|P009,4,2019-08-12,2439,0,26450
+C01954,Justin Page,26,M,Selangor,Affluent,P006|P001|P003,3,2024-11-16,516,1,10627
+C01955,Breanna Lopez,44,M,Johor,Mass Affluent,P004|P002,2,2022-10-08,1286,1,5952
+C01956,Julian Williams,72,M,Sarawak,Mass,P004,1,2024-11-28,504,1,5890
+C01957,Sandra Torres,54,M,Sabah,Mass,P009|P003,2,2025-10-30,168,1,1724
+C01958,Julie Johnson,54,F,Johor,Mass Affluent,P010,1,2020-05-18,2159,1,21987
+C01959,Dennis Blanchard,35,M,Selangor,Mass,P008|P005|P007,3,2018-06-20,2857,1,5269
+C01960,Kaitlyn Valdez,68,M,Johor,Mass Affluent,P005|P004|P002,3,2020-06-06,2140,1,7928
+C01961,Jennifer Vasquez,68,M,Sabah,Mass,P003|P004|P010,3,2025-01-08,463,1,3572
+C01962,Danielle Wilson,45,F,Kedah,Mass Affluent,P009|P004|P007,3,2025-07-19,271,1,8103
+C01963,Zachary Jones,50,M,Kedah,Mass,P008|P007,2,2020-01-04,2294,1,4369
+C01964,Lauren Cunningham,43,F,Kedah,Mass,P006,1,2024-03-07,770,1,4563
+C01965,Lori Alvarez,57,F,Perak,Affluent,P010|P002,2,2024-06-22,663,0,16227
+C01966,Barbara Hunt,36,M,Kedah,Mass Affluent,P009,1,2019-12-31,2298,0,7565
+C01967,Sarah Martin,51,F,Penang,Mass,P004|P010,2,2018-12-21,2673,0,3398
+C01968,Francisco Johns,58,M,Negeri Sembilan,Private Banking,P001|P006|P003|P002,4,2018-11-10,2714,0,34443
+C01969,Christopher Nelson,34,M,Sabah,Mass Affluent,P002|P007|P006,3,2019-04-25,2548,1,6848
+C01970,Thomas Kelly,30,M,Negeri Sembilan,Mass,P006,1,2020-01-13,2285,1,5414
+C01971,Joseph Mayer,34,F,Kedah,Mass,P005|P007|P002,3,2020-02-25,2242,1,4482
+C01972,Pamela White,35,M,Negeri Sembilan,Mass,P004,1,2020-09-05,2049,1,1301
+C01973,Paul Stephens,57,F,Selangor,Affluent,P010|P002|P003|P004,4,2023-05-13,1069,1,16807
+C01974,Samantha Cohen,49,F,Pahang,Mass,P004,1,2024-04-02,744,0,3898
+C01975,Michael Barker,34,M,Johor,Mass,P006|P003|P004,3,2024-12-12,490,1,3617
+C01976,Kevin Morrow,69,M,Pahang,Private Banking,P006|P007,2,2018-08-21,2795,1,31698
+C01977,Joseph Watson,23,F,Sarawak,Mass,P010|P008,2,2025-10-14,184,1,5396
+C01978,Mr. Thomas Garcia,68,M,Pahang,Mass Affluent,P009|P006|P003,3,2018-06-08,2869,1,10215
+C01979,Daniel Lopez,72,F,Penang,Affluent,P001|P004|P010|P003,4,2025-07-11,279,0,10193
+C01980,Lisa Guerra,26,M,Sarawak,Affluent,P010|P006|P002|P004,4,2018-12-21,2673,1,15405
+C01981,Kim Arnold,34,M,Negeri Sembilan,Affluent,P002|P001|P003,3,2024-05-19,697,1,9508
+C01982,Ashley Stevens,22,M,Selangor,Mass,P005,1,2018-10-06,2749,1,2247
+C01983,Robert Mclean,21,M,Johor,Mass Affluent,P002|P004|P008|P001,4,2024-01-03,834,1,5888
+C01984,Eric Cox,30,M,Kedah,Mass Affluent,P003,1,2019-02-09,2623,1,9915
+C01985,Stacy Harper,29,M,Perak,Mass,P002|P010,2,2018-10-21,2734,1,5083
+C01986,Gloria Mckinney,32,M,Sarawak,Mass,P001|P008,2,2024-10-03,560,1,4357
+C01987,Robert Walker,69,M,Selangor,Mass,P010,1,2020-04-10,2197,1,4693
+C01988,Brenda Perez,48,M,Kedah,Mass,P001,1,2024-01-19,818,1,4362
+C01989,Carlos Miller,72,M,Kuala Lumpur,Mass,P003|P005,2,2018-10-01,2754,1,2909
+C01990,Rachel Jones,71,M,Sarawak,Mass Affluent,P009,1,2025-12-14,123,1,8529
+C01991,Nicole Williams,63,F,Perak,Mass,P010,1,2019-09-29,2391,1,4818
+C01992,Ricky Palmer,33,F,Kuala Lumpur,Mass Affluent,P006,1,2019-07-30,2452,1,9547
+C01993,Bryan King,21,M,Negeri Sembilan,Affluent,P010|P006,2,2018-11-11,2713,1,20254
+C01994,Michael Webster,70,F,Sarawak,Mass,P002|P003|P005|P010,4,2026-01-07,99,1,4665
+C01995,Tamara Harris,44,F,Kuala Lumpur,Mass,P003|P004|P001,3,2020-02-27,2240,0,4118
+C01996,Cathy Bell,22,M,Sarawak,Mass,P001|P007,2,2024-06-16,669,1,5295
+C01997,Ryan Mcmahon,35,M,Kedah,Mass Affluent,P003,1,2020-10-31,1993,1,7264
+C01998,Hannah Martin,48,M,Johor,Mass,P007|P004,2,2025-04-02,379,1,2674
+C01999,Monica Allen,62,M,Selangor,Affluent,P006|P005,2,2020-04-02,2205,1,12619
+C02000,Annette Lane,23,F,Perak,Mass,P010,1,2023-01-03,1199,0,2805

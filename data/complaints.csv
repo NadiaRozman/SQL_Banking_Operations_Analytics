@@ -1,0 +1,1201 @@
+complaint_id,customer_id,product_id,complaint_category,filed_date,resolved_date,resolution_days,sla_target_days,sla_breached,channel,status,csat_score
+CMP00001,C00414,P006,Transaction Dispute,2024-12-05,2024-12-09,4,5,0,Mobile App,Escalated,1
+CMP00002,C01306,P003,Fraud Report,2023-11-07,2023-11-10,3,1,1,Online Banking,Pending,5
+CMP00003,C01688,P009,Loan Statement Error,2024-08-18,2024-08-31,13,7,1,Branch,Pending,5
+CMP00004,C00157,P009,Poor Service,2024-03-04,2024-03-22,18,10,1,Online Banking,Escalated,4
+CMP00005,C00042,P005,Poor Service,2023-12-21,2024-01-10,20,10,1,Call Centre,Resolved,4
+CMP00006,C00812,P002,Fraud Report,2024-07-23,2024-07-24,1,1,0,Mobile App,Resolved,5
+CMP00007,C00822,P008,Fraud Report,2024-06-20,2024-06-21,1,1,0,ATM,Pending,2
+CMP00008,C00617,P005,Card Blocked / Lost,2023-07-14,2023-07-15,1,2,0,Mobile App,Resolved,5
+CMP00009,C00656,P007,Poor Service,2023-02-26,2023-03-04,6,10,0,Call Centre,Resolved,5
+CMP00010,C01936,P008,Incorrect Charges,2023-08-02,2023-08-04,2,5,0,ATM,Escalated,4
+CMP00011,C00888,P005,Account Access,2024-06-21,2024-06-22,1,3,0,Call Centre,Escalated,2
+CMP00012,C01490,P004,Online Banking Issue,2023-06-18,2023-06-24,6,3,1,Mobile App,Resolved,4
+CMP00013,C00791,P001,Fraud Report,2024-02-06,2024-02-07,1,1,0,Branch,Pending,5
+CMP00014,C01166,P009,Card Blocked / Lost,2024-09-21,2024-09-22,1,2,0,Online Banking,Escalated,4
+CMP00015,C01834,P008,Incorrect Charges,2023-03-30,2023-04-02,3,5,0,Call Centre,Escalated,5
+CMP00016,C01739,P008,Online Banking Issue,2024-11-28,2024-11-29,1,3,0,Online Banking,Pending,4
+CMP00017,C01390,P001,Card Blocked / Lost,2024-06-22,2024-06-26,4,2,1,Mobile App,Escalated,5
+CMP00018,C01693,P009,Card Blocked / Lost,2023-11-20,2023-11-21,1,2,0,Mobile App,Resolved,4
+CMP00019,C01604,P002,Account Access,2023-08-19,2023-08-21,2,3,0,Mobile App,Escalated,3
+CMP00020,C00359,P006,Transaction Dispute,2023-12-13,2023-12-14,1,5,0,Branch,Resolved,5
+CMP00021,C01348,P005,Account Access,2024-04-17,2024-04-19,2,3,0,Mobile App,Resolved,5
+CMP00022,C01982,P010,Online Banking Issue,2024-02-10,2024-02-16,6,3,1,Online Banking,Pending,2
+CMP00023,C00558,P010,Loan Statement Error,2023-12-25,2024-01-01,7,7,0,Online Banking,Resolved,3
+CMP00024,C00417,P006,Fraud Report,2024-05-03,2024-05-08,5,1,1,Online Banking,Escalated,5
+CMP00025,C00052,P003,Loan Statement Error,2023-05-14,2023-05-31,17,7,1,Call Centre,Pending,4
+CMP00026,C01960,P004,Account Access,2023-06-09,2023-06-11,2,3,0,Online Banking,Escalated,4
+CMP00027,C01641,P008,Loan Statement Error,2023-05-17,2023-05-22,5,7,0,Branch,Resolved,5
+CMP00028,C00715,P010,Transaction Dispute,2023-08-13,2023-08-15,2,5,0,Mobile App,Escalated,2
+CMP00029,C00951,P002,Loan Statement Error,2023-07-05,2023-07-08,3,7,0,Mobile App,Escalated,4
+CMP00030,C01241,P003,Incorrect Charges,2023-02-08,2023-02-13,5,5,0,Online Banking,Escalated,3
+CMP00031,C01149,P009,Poor Service,2024-08-21,2024-08-26,5,10,0,Online Banking,Resolved,4
+CMP00032,C00944,P003,Transaction Dispute,2024-11-25,2024-11-27,2,5,0,Mobile App,Resolved,2
+CMP00033,C00877,P004,Fraud Report,2023-07-12,2023-07-18,6,1,1,Mobile App,Escalated,4
+CMP00034,C00730,P009,Card Blocked / Lost,2024-03-09,2024-03-12,3,2,1,Branch,Resolved,5
+CMP00035,C00464,P001,Fraud Report,2024-08-19,2024-08-20,1,1,0,Branch,Resolved,3
+CMP00036,C00295,P001,Card Blocked / Lost,2024-06-06,2024-06-07,1,2,0,Mobile App,Escalated,1
+CMP00037,C01857,P008,Online Banking Issue,2024-04-30,2024-05-03,3,3,0,Branch,Pending,3
+CMP00038,C00955,P006,Online Banking Issue,2024-05-06,2024-05-08,2,3,0,Branch,Resolved,5
+CMP00039,C00262,P005,Poor Service,2023-08-03,2023-08-11,8,10,0,Mobile App,Pending,3
+CMP00040,C00238,P005,Fraud Report,2023-08-15,2023-08-16,1,1,0,Branch,Resolved,3
+CMP00041,C01089,P003,Loan Statement Error,2024-10-11,2024-10-17,6,7,0,Call Centre,Resolved,4
+CMP00042,C00707,P004,Account Access,2023-04-10,2023-04-11,1,3,0,Online Banking,Escalated,3
+CMP00043,C00502,P009,Loan Statement Error,2024-05-07,2024-05-08,1,7,0,Mobile App,Resolved,2
+CMP00044,C01831,P005,Fraud Report,2023-09-30,2023-10-10,10,1,1,Branch,Escalated,5
+CMP00045,C01082,P008,Fraud Report,2023-09-06,2023-09-07,1,1,0,Online Banking,Resolved,3
+CMP00046,C00022,P008,Incorrect Charges,2023-01-29,2023-01-30,1,5,0,Branch,Pending,4
+CMP00047,C01281,P006,Loan Statement Error,2024-05-06,2024-05-22,16,7,1,Call Centre,Pending,4
+CMP00048,C00098,P007,Loan Statement Error,2024-08-30,2024-09-12,13,7,1,Branch,Resolved,4
+CMP00049,C00684,P005,Poor Service,2024-06-21,2024-06-22,1,10,0,Call Centre,Resolved,4
+CMP00050,C00407,P003,Online Banking Issue,2024-04-08,2024-04-15,7,3,1,Branch,Escalated,4
+CMP00051,C01534,P007,Card Blocked / Lost,2023-06-11,2023-06-13,2,2,0,Call Centre,Resolved,5
+CMP00052,C01042,P009,Online Banking Issue,2023-12-05,2023-12-07,2,3,0,Online Banking,Pending,5
+CMP00053,C00969,P007,Incorrect Charges,2023-04-04,2023-04-08,4,5,0,Branch,Resolved,5
+CMP00054,C00741,P009,Fraud Report,2024-10-17,2024-10-18,1,1,0,Branch,Resolved,4
+CMP00055,C00980,P001,Incorrect Charges,2024-05-03,2024-05-04,1,5,0,Mobile App,Resolved,4
+CMP00056,C01618,P009,Card Blocked / Lost,2023-10-22,2023-10-23,1,2,0,Branch,Resolved,5
+CMP00057,C01770,P002,Card Blocked / Lost,2024-07-18,2024-07-20,2,2,0,Mobile App,Resolved,1
+CMP00058,C01296,P007,Account Access,2023-01-20,2023-01-26,6,3,1,Mobile App,Resolved,4
+CMP00059,C00715,P001,Account Access,2024-03-18,2024-03-21,3,3,0,Call Centre,Escalated,5
+CMP00060,C01020,P005,Transaction Dispute,2024-04-11,2024-04-15,4,5,0,Mobile App,Resolved,3
+CMP00061,C01325,P006,Transaction Dispute,2023-04-21,2023-04-25,4,5,0,Call Centre,Resolved,3
+CMP00062,C00310,P008,Loan Statement Error,2024-11-01,2024-11-06,5,7,0,Online Banking,Pending,5
+CMP00063,C00205,P009,Loan Statement Error,2023-12-20,2023-12-26,6,7,0,Online Banking,Pending,5
+CMP00064,C01411,P008,Online Banking Issue,2024-01-23,2024-01-24,1,3,0,Mobile App,Escalated,3
+CMP00065,C00302,P006,Account Access,2023-11-09,2023-11-12,3,3,0,Online Banking,Resolved,3
+CMP00066,C00441,P001,Account Access,2023-12-31,2024-01-02,2,3,0,Online Banking,Resolved,5
+CMP00067,C01699,P008,Poor Service,2024-10-19,2024-10-23,4,10,0,Call Centre,Resolved,4
+CMP00068,C00694,P006,Poor Service,2023-05-27,2023-06-08,12,10,1,Online Banking,Escalated,2
+CMP00069,C01580,P005,Account Access,2023-07-28,2023-07-30,2,3,0,Mobile App,Resolved,5
+CMP00070,C00328,P003,Fraud Report,2023-07-17,2023-07-21,4,1,1,Online Banking,Resolved,3
+CMP00071,C00842,P009,Card Blocked / Lost,2023-09-01,2023-09-03,2,2,0,Call Centre,Resolved,4
+CMP00072,C01596,P001,Online Banking Issue,2023-05-31,2023-06-01,1,3,0,ATM,Resolved,4
+CMP00073,C00939,P009,Incorrect Charges,2023-02-19,2023-02-20,1,5,0,Branch,Resolved,2
+CMP00074,C00447,P008,Transaction Dispute,2024-09-15,2024-09-20,5,5,0,Branch,Resolved,5
+CMP00075,C01314,P002,Account Access,2023-06-12,2023-06-18,6,3,1,Call Centre,Escalated,3
+CMP00076,C01085,P003,Card Blocked / Lost,2023-10-11,2023-10-13,2,2,0,Online Banking,Resolved,4
+CMP00077,C00478,P003,Loan Statement Error,2024-04-08,2024-04-17,9,7,1,Call Centre,Escalated,5
+CMP00078,C00268,P005,Incorrect Charges,2024-10-12,2024-10-27,15,5,1,Branch,Escalated,3
+CMP00079,C01817,P005,Card Blocked / Lost,2023-09-17,2023-09-26,9,2,1,Call Centre,Resolved,3
+CMP00080,C01558,P007,Loan Statement Error,2023-10-12,2023-10-29,17,7,1,Branch,Resolved,5
+CMP00081,C01918,P007,Poor Service,2024-08-25,2024-09-01,7,10,0,Mobile App,Resolved,3
+CMP00082,C01147,P006,Account Access,2023-07-01,2023-07-04,3,3,0,Online Banking,Resolved,2
+CMP00083,C01011,P002,Incorrect Charges,2023-11-16,2023-11-21,5,5,0,Mobile App,Resolved,4
+CMP00084,C00786,P003,Card Blocked / Lost,2024-01-14,2024-01-16,2,2,0,Call Centre,Resolved,4
+CMP00085,C01741,P003,Poor Service,2024-04-03,2024-04-11,8,10,0,Branch,Resolved,4
+CMP00086,C01834,P009,Loan Statement Error,2024-09-22,2024-09-26,4,7,0,Online Banking,Escalated,3
+CMP00087,C01328,P001,Transaction Dispute,2024-01-20,2024-01-22,2,5,0,Mobile App,Resolved,2
+CMP00088,C00599,P004,Card Blocked / Lost,2023-07-21,2023-07-23,2,2,0,ATM,Escalated,3
+CMP00089,C00378,P002,Loan Statement Error,2024-06-08,2024-06-16,8,7,1,Branch,Pending,4
+CMP00090,C01295,P006,Transaction Dispute,2023-10-18,2023-10-23,5,5,0,Call Centre,Escalated,5
+CMP00091,C01091,P008,Poor Service,2023-07-15,2023-07-29,14,10,1,Online Banking,Escalated,5
+CMP00092,C00063,P004,Card Blocked / Lost,2024-10-27,2024-10-28,1,2,0,Branch,Escalated,3
+CMP00093,C00305,P010,Incorrect Charges,2023-12-15,2023-12-18,3,5,0,Online Banking,Resolved,2
+CMP00094,C00571,P008,Card Blocked / Lost,2023-11-19,2023-11-20,1,2,0,Branch,Resolved,3
+CMP00095,C00383,P009,Transaction Dispute,2024-12-18,2024-12-22,4,5,0,Online Banking,Resolved,5
+CMP00096,C00147,P001,Fraud Report,2024-06-18,2024-06-19,1,1,0,Call Centre,Pending,4
+CMP00097,C00474,P001,Incorrect Charges,2024-08-31,2024-09-01,1,5,0,Mobile App,Pending,4
+CMP00098,C01550,P009,Poor Service,2024-03-06,2024-03-16,10,10,0,ATM,Resolved,3
+CMP00099,C01226,P009,Poor Service,2024-04-27,2024-05-07,10,10,0,Call Centre,Resolved,4
+CMP00100,C00884,P001,Incorrect Charges,2024-09-28,2024-09-29,1,5,0,Mobile App,Pending,4
+CMP00101,C01034,P007,Poor Service,2023-12-14,2023-12-19,5,10,0,Online Banking,Escalated,4
+CMP00102,C01443,P003,Card Blocked / Lost,2024-06-11,2024-06-22,11,2,1,Online Banking,Escalated,2
+CMP00103,C00643,P010,Online Banking Issue,2024-09-07,2024-09-08,1,3,0,Online Banking,Resolved,4
+CMP00104,C01007,P008,Transaction Dispute,2024-06-20,2024-07-03,13,5,1,Online Banking,Pending,4
+CMP00105,C00800,P009,Online Banking Issue,2024-11-13,2024-11-16,3,3,0,Online Banking,Resolved,1
+CMP00106,C01173,P007,Online Banking Issue,2023-08-16,2023-08-17,1,3,0,Branch,Resolved,5
+CMP00107,C01329,P006,Card Blocked / Lost,2024-10-03,2024-10-05,2,2,0,Mobile App,Resolved,5
+CMP00108,C01406,P010,Online Banking Issue,2024-12-16,2024-12-19,3,3,0,Mobile App,Resolved,4
+CMP00109,C01618,P002,Incorrect Charges,2024-05-19,2024-05-22,3,5,0,Call Centre,Resolved,4
+CMP00110,C01445,P006,Card Blocked / Lost,2024-12-11,2024-12-13,2,2,0,Mobile App,Resolved,4
+CMP00111,C00381,P008,Account Access,2024-10-09,2024-10-13,4,3,1,Mobile App,Resolved,3
+CMP00112,C00089,P004,Poor Service,2023-04-22,2023-05-04,12,10,1,Branch,Pending,5
+CMP00113,C01953,P001,Poor Service,2023-05-05,2023-05-15,10,10,0,Mobile App,Escalated,4
+CMP00114,C01107,P009,Card Blocked / Lost,2024-08-18,2024-08-20,2,2,0,Call Centre,Pending,4
+CMP00115,C00741,P006,Card Blocked / Lost,2024-01-19,2024-01-21,2,2,0,Branch,Resolved,4
+CMP00116,C01975,P008,Account Access,2023-11-17,2023-11-18,1,3,0,Online Banking,Pending,4
+CMP00117,C01378,P010,Loan Statement Error,2024-10-10,2024-10-17,7,7,0,Mobile App,Escalated,5
+CMP00118,C01043,P008,Online Banking Issue,2024-01-29,2024-01-30,1,3,0,Call Centre,Escalated,5
+CMP00119,C01362,P001,Loan Statement Error,2024-01-27,2024-01-29,2,7,0,Call Centre,Pending,2
+CMP00120,C00992,P007,Loan Statement Error,2023-01-07,2023-01-14,7,7,0,Online Banking,Pending,5
+CMP00121,C00643,P002,Card Blocked / Lost,2024-08-05,2024-08-06,1,2,0,Online Banking,Resolved,4
+CMP00122,C01371,P003,Loan Statement Error,2024-02-07,2024-02-11,4,7,0,Online Banking,Resolved,5
+CMP00123,C01861,P008,Fraud Report,2023-11-30,2023-12-10,10,1,1,Mobile App,Resolved,5
+CMP00124,C00416,P006,Online Banking Issue,2023-06-02,2023-06-04,2,3,0,Online Banking,Pending,2
+CMP00125,C00187,P006,Online Banking Issue,2024-05-08,2024-05-11,3,3,0,Branch,Resolved,3
+CMP00126,C00196,P005,Poor Service,2023-08-19,2023-08-23,4,10,0,Mobile App,Pending,2
+CMP00127,C01260,P004,Loan Statement Error,2023-07-06,2023-07-11,5,7,0,Branch,Escalated,2
+CMP00128,C00741,P010,Card Blocked / Lost,2023-08-13,2023-08-17,4,2,1,Branch,Resolved,4
+CMP00129,C00150,P002,Loan Statement Error,2023-10-22,2023-10-27,5,7,0,Online Banking,Resolved,4
+CMP00130,C00994,P006,Incorrect Charges,2023-02-04,2023-02-12,8,5,1,Mobile App,Pending,1
+CMP00131,C01246,P006,Loan Statement Error,2024-01-05,2024-01-21,16,7,1,Branch,Pending,5
+CMP00132,C00479,P004,Card Blocked / Lost,2023-05-16,2023-05-18,2,2,0,ATM,Pending,2
+CMP00133,C01492,P008,Card Blocked / Lost,2024-07-27,2024-07-29,2,2,0,Call Centre,Resolved,3
+CMP00134,C01658,P003,Card Blocked / Lost,2024-08-15,2024-08-25,10,2,1,Mobile App,Pending,1
+CMP00135,C01282,P005,Card Blocked / Lost,2023-02-08,2023-02-10,2,2,0,Branch,Escalated,5
+CMP00136,C01719,P004,Transaction Dispute,2024-11-27,2024-11-29,2,5,0,Branch,Resolved,3
+CMP00137,C00367,P002,Poor Service,2023-09-09,2023-09-24,15,10,1,Mobile App,Pending,4
+CMP00138,C01035,P005,Online Banking Issue,2023-10-03,2023-10-06,3,3,0,Mobile App,Resolved,3
+CMP00139,C00568,P002,Transaction Dispute,2024-05-16,2024-05-24,8,5,1,Branch,Resolved,1
+CMP00140,C00014,P008,Fraud Report,2024-10-18,2024-10-19,1,1,0,Mobile App,Resolved,4
+CMP00141,C01606,P007,Incorrect Charges,2023-01-15,2023-01-20,5,5,0,Call Centre,Pending,4
+CMP00142,C00278,P001,Fraud Report,2024-04-17,2024-04-18,1,1,0,Branch,Resolved,5
+CMP00143,C01821,P001,Online Banking Issue,2024-01-28,2024-01-31,3,3,0,Branch,Resolved,4
+CMP00144,C01715,P009,Poor Service,2023-10-13,2023-10-15,2,10,0,Mobile App,Resolved,4
+CMP00145,C00434,P009,Account Access,2024-03-16,2024-03-28,12,3,1,Online Banking,Resolved,5
+CMP00146,C01114,P009,Online Banking Issue,2024-04-28,2024-04-30,2,3,0,Call Centre,Pending,5
+CMP00147,C01662,P005,Card Blocked / Lost,2023-03-24,2023-03-31,7,2,1,Mobile App,Resolved,3
+CMP00148,C01492,P008,Transaction Dispute,2023-10-16,2023-10-19,3,5,0,Branch,Resolved,3
+CMP00149,C01483,P009,Poor Service,2023-10-16,2023-10-21,5,10,0,Mobile App,Pending,5
+CMP00150,C00437,P007,Poor Service,2023-10-13,2023-10-22,9,10,0,Branch,Pending,5
+CMP00151,C00131,P003,Loan Statement Error,2023-03-26,2023-03-29,3,7,0,Online Banking,Pending,4
+CMP00152,C00423,P009,Account Access,2023-09-12,2023-09-15,3,3,0,Mobile App,Escalated,1
+CMP00153,C01899,P001,Incorrect Charges,2024-01-17,2024-01-20,3,5,0,Online Banking,Resolved,5
+CMP00154,C00088,P005,Loan Statement Error,2023-07-09,2023-07-23,14,7,1,Mobile App,Escalated,4
+CMP00155,C00551,P006,Poor Service,2023-05-28,2023-06-05,8,10,0,Call Centre,Resolved,5
+CMP00156,C01034,P003,Online Banking Issue,2024-02-02,2024-02-07,5,3,1,Mobile App,Resolved,5
+CMP00157,C01494,P002,Transaction Dispute,2024-01-08,2024-01-12,4,5,0,Branch,Resolved,5
+CMP00158,C00765,P003,Online Banking Issue,2024-09-07,2024-09-09,2,3,0,Mobile App,Resolved,4
+CMP00159,C00669,P009,Poor Service,2024-09-28,2024-10-01,3,10,0,ATM,Pending,3
+CMP00160,C00753,P006,Loan Statement Error,2023-02-01,2023-02-18,17,7,1,Branch,Resolved,2
+CMP00161,C01626,P009,Card Blocked / Lost,2023-08-12,2023-08-13,1,2,0,Branch,Escalated,2
+CMP00162,C01750,P005,Online Banking Issue,2024-06-30,2024-07-02,2,3,0,Online Banking,Resolved,3
+CMP00163,C00663,P007,Incorrect Charges,2024-03-15,2024-03-19,4,5,0,Mobile App,Resolved,4
+CMP00164,C00647,P001,Account Access,2024-08-04,2024-08-07,3,3,0,Branch,Escalated,3
+CMP00165,C00417,P008,Online Banking Issue,2024-06-25,2024-06-27,2,3,0,Call Centre,Resolved,4
+CMP00166,C00417,P006,Fraud Report,2023-11-26,2023-11-27,1,1,0,Branch,Escalated,3
+CMP00167,C01108,P004,Fraud Report,2024-10-29,2024-10-31,2,1,1,Online Banking,Pending,4
+CMP00168,C01244,P008,Online Banking Issue,2023-10-25,2023-10-26,1,3,0,Call Centre,Pending,4
+CMP00169,C00495,P008,Account Access,2024-07-12,2024-07-13,1,3,0,Call Centre,Resolved,4
+CMP00170,C00966,P009,Loan Statement Error,2024-02-10,2024-02-17,7,7,0,Branch,Resolved,4
+CMP00171,C01467,P004,Online Banking Issue,2024-04-05,2024-04-07,2,3,0,Call Centre,Resolved,1
+CMP00172,C00031,P010,Poor Service,2023-04-15,2023-04-18,3,10,0,Call Centre,Escalated,4
+CMP00173,C00949,P009,Loan Statement Error,2023-06-05,2023-06-09,4,7,0,Mobile App,Resolved,4
+CMP00174,C00449,P009,Fraud Report,2023-03-14,2023-03-15,1,1,0,Mobile App,Escalated,2
+CMP00175,C01615,P002,Transaction Dispute,2024-06-16,2024-06-28,12,5,1,Mobile App,Escalated,1
+CMP00176,C00806,P005,Transaction Dispute,2023-12-21,2024-01-02,12,5,1,Branch,Pending,3
+CMP00177,C01312,P003,Incorrect Charges,2023-03-18,2023-03-21,3,5,0,Call Centre,Escalated,4
+CMP00178,C00104,P002,Fraud Report,2023-06-13,2023-06-21,8,1,1,Mobile App,Resolved,2
+CMP00179,C01342,P004,Card Blocked / Lost,2023-08-13,2023-08-14,1,2,0,Mobile App,Pending,5
+CMP00180,C00821,P005,Transaction Dispute,2024-12-02,2024-12-17,15,5,1,Branch,Resolved,4
+CMP00181,C00974,P006,Online Banking Issue,2024-09-06,2024-09-08,2,3,0,Online Banking,Pending,5
+CMP00182,C00576,P007,Loan Statement Error,2023-02-14,2023-02-16,2,7,0,Online Banking,Resolved,3
+CMP00183,C00613,P007,Poor Service,2023-11-23,2023-11-25,2,10,0,Mobile App,Escalated,4
+CMP00184,C00706,P004,Poor Service,2023-12-04,2023-12-13,9,10,0,Online Banking,Resolved,3
+CMP00185,C01265,P002,Card Blocked / Lost,2023-07-05,2023-07-07,2,2,0,Branch,Escalated,5
+CMP00186,C01781,P005,Fraud Report,2023-01-21,2023-01-22,1,1,0,Mobile App,Resolved,5
+CMP00187,C01727,P001,Account Access,2024-08-06,2024-08-08,2,3,0,ATM,Resolved,5
+CMP00188,C01852,P006,Account Access,2024-07-30,2024-08-02,3,3,0,Mobile App,Escalated,3
+CMP00189,C01023,P004,Card Blocked / Lost,2023-09-28,2023-09-29,1,2,0,Mobile App,Escalated,3
+CMP00190,C01305,P005,Loan Statement Error,2023-07-18,2023-07-20,2,7,0,Online Banking,Resolved,2
+CMP00191,C01097,P002,Card Blocked / Lost,2024-03-13,2024-03-15,2,2,0,Call Centre,Pending,5
+CMP00192,C01401,P002,Incorrect Charges,2024-02-02,2024-02-17,15,5,1,Mobile App,Pending,3
+CMP00193,C00237,P003,Account Access,2023-06-01,2023-06-04,3,3,0,Call Centre,Resolved,2
+CMP00194,C01700,P009,Card Blocked / Lost,2024-05-20,2024-05-27,7,2,1,Mobile App,Escalated,2
+CMP00195,C00902,P008,Fraud Report,2024-11-28,2024-11-29,1,1,0,Online Banking,Escalated,4
+CMP00196,C00231,P003,Poor Service,2023-11-12,2023-11-26,14,10,1,Call Centre,Escalated,4
+CMP00197,C01372,P010,Online Banking Issue,2024-02-26,2024-02-28,2,3,0,Mobile App,Pending,3
+CMP00198,C00534,P001,Poor Service,2023-08-05,2023-08-07,2,10,0,Branch,Resolved,5
+CMP00199,C00077,P005,Fraud Report,2024-06-01,2024-06-02,1,1,0,Call Centre,Pending,4
+CMP00200,C00186,P004,Account Access,2024-01-11,2024-01-12,1,3,0,Online Banking,Escalated,2
+CMP00201,C00351,P001,Incorrect Charges,2023-08-27,2023-08-30,3,5,0,Call Centre,Pending,4
+CMP00202,C00535,P010,Incorrect Charges,2023-10-18,2023-10-30,12,5,1,Call Centre,Pending,4
+CMP00203,C00242,P002,Loan Statement Error,2024-04-26,2024-05-02,6,7,0,Mobile App,Resolved,5
+CMP00204,C00230,P002,Account Access,2023-03-29,2023-04-01,3,3,0,Mobile App,Escalated,4
+CMP00205,C01113,P007,Fraud Report,2024-03-16,2024-03-17,1,1,0,Branch,Resolved,3
+CMP00206,C00196,P007,Online Banking Issue,2024-06-05,2024-06-06,1,3,0,Mobile App,Resolved,3
+CMP00207,C00320,P002,Transaction Dispute,2024-12-15,2024-12-30,15,5,1,Branch,Resolved,5
+CMP00208,C00576,P005,Online Banking Issue,2024-11-04,2024-11-07,3,3,0,Branch,Resolved,4
+CMP00209,C00293,P006,Poor Service,2024-04-27,2024-05-12,15,10,1,Online Banking,Pending,2
+CMP00210,C01083,P007,Poor Service,2024-04-19,2024-04-28,9,10,0,Mobile App,Resolved,5
+CMP00211,C01522,P010,Card Blocked / Lost,2023-01-23,2023-01-25,2,2,0,Mobile App,Resolved,4
+CMP00212,C01413,P009,Card Blocked / Lost,2023-06-10,2023-06-12,2,2,0,Mobile App,Escalated,3
+CMP00213,C00766,P007,Poor Service,2023-06-17,2023-06-27,10,10,0,Call Centre,Resolved,4
+CMP00214,C00137,P003,Transaction Dispute,2023-12-18,2023-12-23,5,5,0,Branch,Resolved,3
+CMP00215,C01473,P010,Incorrect Charges,2023-07-06,2023-07-11,5,5,0,Mobile App,Resolved,5
+CMP00216,C01518,P005,Loan Statement Error,2023-10-27,2023-11-12,16,7,1,Mobile App,Resolved,4
+CMP00217,C00179,P008,Transaction Dispute,2023-10-17,2023-10-20,3,5,0,Online Banking,Resolved,5
+CMP00218,C01777,P003,Poor Service,2023-09-05,2023-09-15,10,10,0,Online Banking,Resolved,3
+CMP00219,C01979,P010,Poor Service,2024-05-26,2024-06-04,9,10,0,Online Banking,Resolved,4
+CMP00220,C00693,P004,Online Banking Issue,2023-08-26,2023-08-27,1,3,0,Branch,Resolved,2
+CMP00221,C00617,P010,Card Blocked / Lost,2023-01-12,2023-01-13,1,2,0,Branch,Resolved,5
+CMP00222,C00349,P009,Loan Statement Error,2024-05-07,2024-05-12,5,7,0,Mobile App,Escalated,5
+CMP00223,C00964,P005,Loan Statement Error,2023-12-26,2024-01-01,6,7,0,Branch,Escalated,5
+CMP00224,C01569,P002,Transaction Dispute,2023-04-24,2023-04-29,5,5,0,Online Banking,Resolved,4
+CMP00225,C00288,P002,Incorrect Charges,2024-08-02,2024-08-15,13,5,1,Online Banking,Escalated,5
+CMP00226,C00249,P004,Fraud Report,2023-02-02,2023-02-03,1,1,0,Mobile App,Escalated,5
+CMP00227,C00502,P006,Poor Service,2024-05-25,2024-06-09,15,10,1,Mobile App,Resolved,4
+CMP00228,C01059,P008,Transaction Dispute,2023-10-31,2023-11-03,3,5,0,Call Centre,Resolved,5
+CMP00229,C00070,P009,Poor Service,2024-11-27,2024-11-30,3,10,0,Mobile App,Resolved,4
+CMP00230,C00269,P003,Card Blocked / Lost,2024-11-09,2024-11-10,1,2,0,Online Banking,Escalated,4
+CMP00231,C00695,P007,Loan Statement Error,2024-07-05,2024-07-12,7,7,0,Branch,Escalated,4
+CMP00232,C01477,P010,Incorrect Charges,2023-08-27,2023-09-01,5,5,0,Mobile App,Resolved,5
+CMP00233,C00807,P007,Online Banking Issue,2023-11-20,2023-11-22,2,3,0,Online Banking,Resolved,2
+CMP00234,C01973,P009,Card Blocked / Lost,2024-06-07,2024-06-15,8,2,1,Mobile App,Pending,5
+CMP00235,C00235,P004,Poor Service,2024-02-16,2024-02-21,5,10,0,Online Banking,Pending,5
+CMP00236,C01941,P010,Poor Service,2024-12-18,2024-12-21,3,10,0,Online Banking,Resolved,4
+CMP00237,C00672,P006,Incorrect Charges,2023-10-06,2023-10-18,12,5,1,Mobile App,Pending,2
+CMP00238,C01910,P003,Poor Service,2024-08-12,2024-08-25,13,10,1,Mobile App,Resolved,3
+CMP00239,C01927,P004,Transaction Dispute,2024-08-30,2024-09-04,5,5,0,Mobile App,Pending,4
+CMP00240,C00042,P010,Account Access,2023-10-01,2023-10-03,2,3,0,Branch,Resolved,1
+CMP00241,C00618,P002,Poor Service,2023-09-07,2023-09-08,1,10,0,Call Centre,Resolved,5
+CMP00242,C01790,P001,Loan Statement Error,2024-08-15,2024-08-17,2,7,0,Branch,Resolved,3
+CMP00243,C01311,P006,Account Access,2024-05-08,2024-05-14,6,3,1,Online Banking,Pending,4
+CMP00244,C01059,P007,Online Banking Issue,2024-08-27,2024-08-28,1,3,0,Branch,Escalated,3
+CMP00245,C00612,P009,Account Access,2023-08-17,2023-08-20,3,3,0,Call Centre,Resolved,5
+CMP00246,C00563,P002,Account Access,2023-05-31,2023-06-02,2,3,0,Online Banking,Pending,3
+CMP00247,C00792,P009,Card Blocked / Lost,2023-04-10,2023-04-12,2,2,0,Online Banking,Resolved,3
+CMP00248,C01342,P002,Online Banking Issue,2023-11-11,2023-11-13,2,3,0,Mobile App,Resolved,3
+CMP00249,C01827,P006,Fraud Report,2023-05-10,2023-05-11,1,1,0,Online Banking,Pending,4
+CMP00250,C00166,P005,Loan Statement Error,2023-02-13,2023-02-28,15,7,1,Branch,Pending,4
+CMP00251,C01033,P007,Transaction Dispute,2024-05-26,2024-06-05,10,5,1,Branch,Resolved,4
+CMP00252,C00882,P002,Fraud Report,2023-02-14,2023-02-15,1,1,0,Branch,Resolved,5
+CMP00253,C01713,P007,Incorrect Charges,2023-03-11,2023-03-15,4,5,0,Mobile App,Pending,5
+CMP00254,C00388,P010,Loan Statement Error,2024-12-10,2024-12-15,5,7,0,Online Banking,Pending,3
+CMP00255,C01953,P001,Poor Service,2024-02-27,2024-03-13,15,10,1,ATM,Resolved,5
+CMP00256,C01999,P010,Online Banking Issue,2024-03-14,2024-03-17,3,3,0,Branch,Escalated,5
+CMP00257,C00624,P003,Fraud Report,2024-09-25,2024-09-26,1,1,0,Online Banking,Resolved,5
+CMP00258,C00957,P008,Fraud Report,2023-04-27,2023-04-28,1,1,0,Mobile App,Resolved,4
+CMP00259,C00490,P008,Poor Service,2023-03-21,2023-04-02,12,10,1,Branch,Escalated,5
+CMP00260,C00547,P003,Transaction Dispute,2024-04-30,2024-05-02,2,5,0,Mobile App,Resolved,3
+CMP00261,C00646,P009,Fraud Report,2023-02-04,2023-02-14,10,1,1,Mobile App,Resolved,4
+CMP00262,C01712,P007,Online Banking Issue,2023-10-01,2023-10-04,3,3,0,Online Banking,Resolved,5
+CMP00263,C00843,P004,Card Blocked / Lost,2024-02-20,2024-02-21,1,2,0,Branch,Resolved,4
+CMP00264,C00502,P009,Account Access,2023-09-20,2023-09-21,1,3,0,Mobile App,Resolved,3
+CMP00265,C00474,P009,Account Access,2024-12-02,2024-12-09,7,3,1,Mobile App,Escalated,2
+CMP00266,C00600,P010,Incorrect Charges,2023-04-05,2023-04-06,1,5,0,Online Banking,Resolved,5
+CMP00267,C01382,P001,Loan Statement Error,2024-07-12,2024-07-17,5,7,0,Branch,Pending,5
+CMP00268,C01270,P008,Account Access,2024-02-21,2024-02-25,4,3,1,Online Banking,Resolved,3
+CMP00269,C01896,P007,Card Blocked / Lost,2024-04-11,2024-04-12,1,2,0,Call Centre,Resolved,4
+CMP00270,C01881,P008,Account Access,2024-03-03,2024-03-13,10,3,1,ATM,Resolved,3
+CMP00271,C01698,P005,Fraud Report,2023-04-10,2023-04-11,1,1,0,Mobile App,Resolved,5
+CMP00272,C01677,P004,Online Banking Issue,2024-12-11,2024-12-12,1,3,0,Online Banking,Escalated,4
+CMP00273,C01447,P002,Incorrect Charges,2024-12-02,2024-12-07,5,5,0,Mobile App,Resolved,3
+CMP00274,C00108,P010,Card Blocked / Lost,2024-09-13,2024-09-21,8,2,1,Call Centre,Escalated,5
+CMP00275,C01161,P006,Fraud Report,2023-05-06,2023-05-07,1,1,0,Branch,Resolved,3
+CMP00276,C01422,P004,Incorrect Charges,2024-04-20,2024-05-03,13,5,1,Call Centre,Resolved,2
+CMP00277,C01892,P005,Account Access,2023-11-30,2023-12-01,1,3,0,Mobile App,Resolved,4
+CMP00278,C00872,P003,Account Access,2024-02-27,2024-02-28,1,3,0,Mobile App,Resolved,4
+CMP00279,C00867,P007,Online Banking Issue,2023-03-19,2023-03-20,1,3,0,Online Banking,Pending,3
+CMP00280,C01268,P008,Online Banking Issue,2023-07-31,2023-08-02,2,3,0,Branch,Pending,4
+CMP00281,C00478,P002,Online Banking Issue,2023-12-31,2024-01-01,1,3,0,Call Centre,Resolved,5
+CMP00282,C00485,P008,Incorrect Charges,2023-10-09,2023-10-12,3,5,0,Online Banking,Resolved,4
+CMP00283,C01293,P001,Online Banking Issue,2024-04-21,2024-05-02,11,3,1,Online Banking,Pending,2
+CMP00284,C01275,P004,Card Blocked / Lost,2023-01-29,2023-01-31,2,2,0,Mobile App,Resolved,4
+CMP00285,C01674,P007,Transaction Dispute,2024-12-24,2024-12-28,4,5,0,Branch,Pending,5
+CMP00286,C01646,P005,Fraud Report,2024-11-29,2024-12-09,10,1,1,Branch,Resolved,4
+CMP00287,C01820,P001,Poor Service,2023-04-11,2023-05-01,20,10,1,Branch,Resolved,2
+CMP00288,C00250,P006,Loan Statement Error,2023-02-10,2023-02-23,13,7,1,Mobile App,Resolved,4
+CMP00289,C00127,P007,Poor Service,2024-04-26,2024-05-02,6,10,0,Online Banking,Escalated,4
+CMP00290,C00794,P010,Incorrect Charges,2023-12-09,2023-12-22,13,5,1,Call Centre,Resolved,5
+CMP00291,C00570,P004,Transaction Dispute,2024-02-07,2024-02-10,3,5,0,Online Banking,Resolved,4
+CMP00292,C01832,P001,Loan Statement Error,2023-12-08,2023-12-17,9,7,1,Online Banking,Escalated,5
+CMP00293,C01675,P004,Loan Statement Error,2023-05-23,2023-05-25,2,7,0,Online Banking,Resolved,4
+CMP00294,C01415,P001,Poor Service,2024-07-20,2024-07-26,6,10,0,Online Banking,Escalated,5
+CMP00295,C00624,P006,Account Access,2024-01-04,2024-01-13,9,3,1,Call Centre,Pending,4
+CMP00296,C01166,P009,Transaction Dispute,2023-10-15,2023-10-19,4,5,0,Call Centre,Escalated,4
+CMP00297,C00741,P004,Incorrect Charges,2023-12-25,2023-12-28,3,5,0,Branch,Resolved,4
+CMP00298,C01580,P002,Poor Service,2024-01-29,2024-01-30,1,10,0,Branch,Escalated,2
+CMP00299,C01306,P005,Poor Service,2023-01-11,2023-01-17,6,10,0,Online Banking,Resolved,4
+CMP00300,C00929,P010,Account Access,2024-06-30,2024-07-02,2,3,0,Mobile App,Pending,4
+CMP00301,C01202,P003,Account Access,2024-08-07,2024-08-09,2,3,0,Branch,Pending,5
+CMP00302,C00621,P004,Incorrect Charges,2023-09-26,2023-09-27,1,5,0,Online Banking,Resolved,3
+CMP00303,C00024,P010,Transaction Dispute,2023-06-26,2023-07-10,14,5,1,Online Banking,Resolved,4
+CMP00304,C00898,P008,Online Banking Issue,2024-02-13,2024-02-14,1,3,0,Mobile App,Resolved,5
+CMP00305,C01732,P001,Online Banking Issue,2023-01-18,2023-01-21,3,3,0,Call Centre,Resolved,5
+CMP00306,C00231,P003,Loan Statement Error,2024-09-02,2024-09-14,12,7,1,Mobile App,Resolved,3
+CMP00307,C00252,P007,Account Access,2024-04-24,2024-04-25,1,3,0,Mobile App,Escalated,5
+CMP00308,C00692,P003,Incorrect Charges,2023-06-22,2023-07-05,13,5,1,Call Centre,Resolved,5
+CMP00309,C00873,P005,Incorrect Charges,2023-05-17,2023-05-18,1,5,0,Call Centre,Resolved,1
+CMP00310,C01883,P003,Online Banking Issue,2023-09-13,2023-09-15,2,3,0,Branch,Resolved,4
+CMP00311,C01691,P009,Loan Statement Error,2023-02-08,2023-02-13,5,7,0,Call Centre,Resolved,2
+CMP00312,C01721,P007,Transaction Dispute,2024-12-02,2024-12-07,5,5,0,Mobile App,Resolved,5
+CMP00313,C00575,P004,Transaction Dispute,2023-08-20,2023-08-27,7,5,1,Mobile App,Resolved,5
+CMP00314,C00129,P007,Card Blocked / Lost,2024-09-20,2024-09-21,1,2,0,Call Centre,Pending,5
+CMP00315,C01606,P006,Poor Service,2023-07-19,2023-07-22,3,10,0,Branch,Resolved,3
+CMP00316,C00152,P009,Transaction Dispute,2024-05-11,2024-05-24,13,5,1,Branch,Escalated,4
+CMP00317,C01007,P010,Poor Service,2024-10-27,2024-11-06,10,10,0,Online Banking,Escalated,5
+CMP00318,C01721,P007,Transaction Dispute,2023-06-20,2023-06-22,2,5,0,Branch,Pending,4
+CMP00319,C01657,P006,Incorrect Charges,2024-08-13,2024-08-16,3,5,0,Mobile App,Pending,3
+CMP00320,C00238,P007,Incorrect Charges,2023-10-07,2023-10-10,3,5,0,Online Banking,Escalated,4
+CMP00321,C01513,P009,Loan Statement Error,2023-10-06,2023-10-10,4,7,0,Online Banking,Pending,4
+CMP00322,C01977,P005,Loan Statement Error,2024-09-09,2024-09-12,3,7,0,Branch,Resolved,3
+CMP00323,C00455,P007,Online Banking Issue,2024-07-21,2024-07-23,2,3,0,Call Centre,Pending,4
+CMP00324,C00640,P005,Online Banking Issue,2024-08-11,2024-08-22,11,3,1,Online Banking,Resolved,3
+CMP00325,C01510,P002,Online Banking Issue,2023-08-21,2023-08-23,2,3,0,Mobile App,Escalated,3
+CMP00326,C00171,P001,Transaction Dispute,2023-09-11,2023-09-17,6,5,1,ATM,Resolved,2
+CMP00327,C01068,P002,Account Access,2023-04-07,2023-04-09,2,3,0,Online Banking,Pending,3
+CMP00328,C00940,P003,Incorrect Charges,2023-02-17,2023-02-18,1,5,0,Branch,Resolved,5
+CMP00329,C00621,P003,Card Blocked / Lost,2024-01-11,2024-01-13,2,2,0,Online Banking,Resolved,4
+CMP00330,C01679,P009,Incorrect Charges,2024-06-19,2024-06-26,7,5,1,Online Banking,Resolved,5
+CMP00331,C01036,P003,Loan Statement Error,2023-05-27,2023-06-03,7,7,0,Branch,Pending,3
+CMP00332,C01752,P001,Fraud Report,2024-12-11,2024-12-12,1,1,0,Mobile App,Pending,2
+CMP00333,C01542,P009,Incorrect Charges,2023-04-29,2023-04-30,1,5,0,Mobile App,Resolved,2
+CMP00334,C00140,P009,Loan Statement Error,2023-03-17,2023-03-22,5,7,0,Online Banking,Escalated,4
+CMP00335,C00733,P004,Card Blocked / Lost,2024-06-05,2024-06-06,1,2,0,Branch,Escalated,3
+CMP00336,C01988,P007,Fraud Report,2023-12-15,2023-12-16,1,1,0,Online Banking,Escalated,4
+CMP00337,C00229,P010,Poor Service,2024-11-06,2024-11-09,3,10,0,Branch,Resolved,2
+CMP00338,C01257,P010,Incorrect Charges,2024-05-11,2024-05-16,5,5,0,Online Banking,Resolved,5
+CMP00339,C00586,P010,Poor Service,2023-01-04,2023-01-07,3,10,0,Online Banking,Resolved,4
+CMP00340,C00572,P004,Transaction Dispute,2024-07-11,2024-07-14,3,5,0,Branch,Escalated,2
+CMP00341,C00682,P008,Poor Service,2023-03-03,2023-03-06,3,10,0,Online Banking,Resolved,3
+CMP00342,C01776,P006,Card Blocked / Lost,2024-10-22,2024-10-29,7,2,1,Branch,Resolved,5
+CMP00343,C01142,P002,Incorrect Charges,2024-04-14,2024-04-17,3,5,0,Mobile App,Escalated,5
+CMP00344,C01442,P005,Account Access,2023-10-17,2023-10-18,1,3,0,Call Centre,Escalated,4
+CMP00345,C01958,P010,Incorrect Charges,2024-07-30,2024-08-12,13,5,1,Mobile App,Resolved,5
+CMP00346,C00537,P010,Incorrect Charges,2023-02-05,2023-02-20,15,5,1,Online Banking,Pending,5
+CMP00347,C00001,P010,Online Banking Issue,2023-06-11,2023-06-13,2,3,0,Call Centre,Resolved,3
+CMP00348,C01493,P010,Loan Statement Error,2023-06-19,2023-06-26,7,7,0,ATM,Resolved,5
+CMP00349,C01294,P004,Poor Service,2023-06-16,2023-06-24,8,10,0,Online Banking,Resolved,3
+CMP00350,C01503,P006,Card Blocked / Lost,2023-08-01,2023-08-02,1,2,0,Mobile App,Escalated,5
+CMP00351,C01267,P002,Poor Service,2024-03-02,2024-03-09,7,10,0,Mobile App,Pending,5
+CMP00352,C00274,P009,Online Banking Issue,2024-11-05,2024-11-06,1,3,0,Mobile App,Pending,3
+CMP00353,C00363,P004,Loan Statement Error,2023-05-16,2023-05-23,7,7,0,Online Banking,Resolved,5
+CMP00354,C00201,P008,Incorrect Charges,2023-06-14,2023-06-19,5,5,0,Branch,Resolved,1
+CMP00355,C01774,P003,Loan Statement Error,2024-05-25,2024-06-04,10,7,1,ATM,Resolved,5
+CMP00356,C01217,P009,Online Banking Issue,2024-10-07,2024-10-16,9,3,1,Call Centre,Escalated,5
+CMP00357,C01344,P010,Account Access,2023-03-03,2023-03-05,2,3,0,Mobile App,Escalated,2
+CMP00358,C01114,P006,Loan Statement Error,2024-01-31,2024-02-01,1,7,0,Mobile App,Resolved,5
+CMP00359,C00644,P008,Fraud Report,2023-06-27,2023-07-07,10,1,1,Mobile App,Escalated,3
+CMP00360,C00737,P010,Transaction Dispute,2023-04-04,2023-04-05,1,5,0,Mobile App,Resolved,5
+CMP00361,C01401,P009,Transaction Dispute,2023-02-07,2023-02-09,2,5,0,Branch,Pending,4
+CMP00362,C01013,P008,Account Access,2023-06-14,2023-06-17,3,3,0,Mobile App,Escalated,4
+CMP00363,C01554,P005,Account Access,2023-04-08,2023-04-19,11,3,1,Call Centre,Resolved,4
+CMP00364,C00393,P005,Loan Statement Error,2024-03-28,2024-03-29,1,7,0,Call Centre,Resolved,2
+CMP00365,C01156,P004,Loan Statement Error,2024-04-13,2024-04-20,7,7,0,Mobile App,Resolved,5
+CMP00366,C00675,P006,Card Blocked / Lost,2024-08-13,2024-08-15,2,2,0,Mobile App,Resolved,4
+CMP00367,C01255,P002,Online Banking Issue,2023-08-15,2023-08-16,1,3,0,Online Banking,Resolved,2
+CMP00368,C00019,P003,Fraud Report,2023-12-11,2023-12-20,9,1,1,Branch,Pending,4
+CMP00369,C00615,P008,Incorrect Charges,2023-10-16,2023-10-18,2,5,0,Branch,Pending,4
+CMP00370,C01790,P007,Fraud Report,2023-04-25,2023-04-26,1,1,0,ATM,Escalated,5
+CMP00371,C01120,P006,Poor Service,2023-02-25,2023-03-15,18,10,1,Branch,Pending,5
+CMP00372,C01835,P007,Loan Statement Error,2023-05-13,2023-05-16,3,7,0,Online Banking,Escalated,4
+CMP00373,C00343,P004,Incorrect Charges,2024-03-17,2024-03-22,5,5,0,Branch,Resolved,4
+CMP00374,C00538,P001,Poor Service,2023-05-09,2023-05-16,7,10,0,Mobile App,Resolved,3
+CMP00375,C00830,P007,Incorrect Charges,2023-09-22,2023-10-02,10,5,1,Online Banking,Resolved,5
+CMP00376,C00870,P002,Incorrect Charges,2023-05-23,2023-05-25,2,5,0,Online Banking,Pending,4
+CMP00377,C01944,P006,Poor Service,2023-01-28,2023-02-07,10,10,0,Branch,Resolved,3
+CMP00378,C01586,P001,Card Blocked / Lost,2024-04-20,2024-04-22,2,2,0,Mobile App,Resolved,5
+CMP00379,C00383,P004,Online Banking Issue,2024-12-18,2024-12-20,2,3,0,Branch,Resolved,5
+CMP00380,C00360,P002,Online Banking Issue,2023-04-19,2023-04-22,3,3,0,Mobile App,Pending,4
+CMP00381,C00154,P008,Incorrect Charges,2024-11-29,2024-12-04,5,5,0,Branch,Escalated,4
+CMP00382,C00533,P004,Transaction Dispute,2024-01-10,2024-01-11,1,5,0,Call Centre,Resolved,3
+CMP00383,C01244,P006,Card Blocked / Lost,2024-08-05,2024-08-07,2,2,0,Call Centre,Resolved,4
+CMP00384,C01008,P007,Incorrect Charges,2024-02-29,2024-03-05,5,5,0,Branch,Resolved,2
+CMP00385,C01663,P001,Poor Service,2024-03-19,2024-03-22,3,10,0,Branch,Resolved,4
+CMP00386,C01605,P008,Poor Service,2024-12-12,2024-12-24,12,10,1,Branch,Resolved,1
+CMP00387,C00422,P001,Incorrect Charges,2024-12-23,2024-12-27,4,5,0,Online Banking,Resolved,3
+CMP00388,C01319,P002,Incorrect Charges,2023-12-07,2023-12-08,1,5,0,Mobile App,Resolved,2
+CMP00389,C00926,P008,Poor Service,2024-12-18,2024-12-25,7,10,0,Call Centre,Resolved,1
+CMP00390,C00980,P007,Online Banking Issue,2024-06-14,2024-06-18,4,3,1,Branch,Pending,5
+CMP00391,C00525,P007,Card Blocked / Lost,2024-05-02,2024-05-04,2,2,0,Online Banking,Resolved,3
+CMP00392,C01833,P001,Online Banking Issue,2024-07-25,2024-07-27,2,3,0,Branch,Resolved,3
+CMP00393,C01955,P002,Transaction Dispute,2024-10-15,2024-10-20,5,5,0,Call Centre,Resolved,4
+CMP00394,C00306,P009,Transaction Dispute,2023-03-03,2023-03-13,10,5,1,Branch,Resolved,4
+CMP00395,C01946,P010,Poor Service,2023-10-01,2023-10-02,1,10,0,Online Banking,Resolved,3
+CMP00396,C01093,P009,Incorrect Charges,2023-10-27,2023-10-29,2,5,0,ATM,Resolved,3
+CMP00397,C01635,P005,Poor Service,2024-04-30,2024-05-04,4,10,0,Call Centre,Escalated,2
+CMP00398,C00609,P003,Poor Service,2023-02-04,2023-02-22,18,10,1,ATM,Escalated,4
+CMP00399,C00223,P010,Card Blocked / Lost,2023-04-04,2023-04-06,2,2,0,Branch,Resolved,4
+CMP00400,C01849,P004,Card Blocked / Lost,2023-10-11,2023-10-18,7,2,1,Online Banking,Resolved,3
+CMP00401,C01271,P009,Fraud Report,2024-12-28,2024-12-31,4,1,1,Call Centre,Resolved,4
+CMP00402,C00266,P008,Loan Statement Error,2023-03-22,2023-03-23,1,7,0,Online Banking,Escalated,5
+CMP00403,C01497,P005,Card Blocked / Lost,2023-02-13,2023-02-14,1,2,0,Branch,Resolved,4
+CMP00404,C00548,P009,Online Banking Issue,2023-04-10,2023-04-15,5,3,1,Mobile App,Resolved,3
+CMP00405,C01279,P004,Transaction Dispute,2023-03-19,2023-03-28,9,5,1,Online Banking,Resolved,5
+CMP00406,C01971,P008,Online Banking Issue,2023-11-06,2023-11-10,4,3,1,Online Banking,Resolved,3
+CMP00407,C01398,P009,Incorrect Charges,2024-06-16,2024-06-18,2,5,0,Mobile App,Pending,3
+CMP00408,C00257,P010,Transaction Dispute,2023-01-04,2023-01-07,3,5,0,Online Banking,Resolved,1
+CMP00409,C01777,P008,Poor Service,2024-08-17,2024-08-20,3,10,0,Online Banking,Resolved,4
+CMP00410,C01046,P006,Online Banking Issue,2023-11-05,2023-11-07,2,3,0,Call Centre,Resolved,5
+CMP00411,C01504,P008,Account Access,2023-01-27,2023-01-29,2,3,0,Branch,Pending,5
+CMP00412,C00772,P003,Transaction Dispute,2023-04-08,2023-04-11,3,5,0,Branch,Resolved,4
+CMP00413,C01533,P010,Poor Service,2024-08-23,2024-08-29,6,10,0,Mobile App,Resolved,4
+CMP00414,C01933,P009,Loan Statement Error,2024-08-28,2024-08-30,2,7,0,Online Banking,Pending,4
+CMP00415,C00727,P005,Account Access,2023-02-11,2023-02-17,6,3,1,Online Banking,Resolved,5
+CMP00416,C01552,P002,Card Blocked / Lost,2023-06-23,2023-06-29,6,2,1,Mobile App,Pending,3
+CMP00417,C00359,P009,Incorrect Charges,2024-04-25,2024-04-26,1,5,0,Branch,Escalated,5
+CMP00418,C01658,P010,Transaction Dispute,2023-11-10,2023-11-13,3,5,0,Mobile App,Resolved,4
+CMP00419,C01419,P008,Card Blocked / Lost,2024-07-19,2024-07-21,2,2,0,Mobile App,Resolved,4
+CMP00420,C00011,P008,Account Access,2024-09-10,2024-09-11,1,3,0,Online Banking,Escalated,4
+CMP00421,C01087,P001,Transaction Dispute,2024-06-19,2024-06-23,4,5,0,Call Centre,Pending,5
+CMP00422,C00084,P007,Poor Service,2024-03-10,2024-03-13,3,10,0,Online Banking,Escalated,4
+CMP00423,C00772,P006,Poor Service,2024-09-03,2024-09-04,1,10,0,Mobile App,Pending,5
+CMP00424,C00647,P006,Online Banking Issue,2024-05-29,2024-06-05,7,3,1,Mobile App,Escalated,1
+CMP00425,C01684,P007,Poor Service,2024-12-25,2024-12-31,10,10,0,ATM,Escalated,3
+CMP00426,C00960,P002,Card Blocked / Lost,2023-01-10,2023-01-14,4,2,1,Branch,Resolved,4
+CMP00427,C00684,P008,Transaction Dispute,2024-05-12,2024-05-25,13,5,1,Online Banking,Resolved,4
+CMP00428,C00637,P005,Online Banking Issue,2024-11-29,2024-11-30,1,3,0,Call Centre,Escalated,4
+CMP00429,C01961,P002,Loan Statement Error,2024-12-26,2024-12-31,13,7,1,Mobile App,Resolved,2
+CMP00430,C01957,P010,Poor Service,2023-05-17,2023-05-28,11,10,1,Online Banking,Resolved,2
+CMP00431,C01380,P005,Poor Service,2024-11-27,2024-12-12,15,10,1,Branch,Escalated,3
+CMP00432,C00176,P008,Poor Service,2024-11-02,2024-11-16,14,10,1,Mobile App,Resolved,4
+CMP00433,C00027,P007,Transaction Dispute,2024-07-02,2024-07-03,1,5,0,Branch,Resolved,1
+CMP00434,C00420,P004,Incorrect Charges,2024-12-13,2024-12-16,3,5,0,Branch,Resolved,3
+CMP00435,C00787,P006,Account Access,2023-12-12,2023-12-15,3,3,0,Call Centre,Escalated,5
+CMP00436,C01329,P009,Loan Statement Error,2024-11-15,2024-11-27,12,7,1,Mobile App,Resolved,4
+CMP00437,C00640,P005,Incorrect Charges,2024-11-01,2024-11-05,4,5,0,Mobile App,Resolved,4
+CMP00438,C00191,P010,Online Banking Issue,2023-02-21,2023-03-03,10,3,1,Branch,Resolved,5
+CMP00439,C00539,P004,Card Blocked / Lost,2024-05-11,2024-05-13,2,2,0,ATM,Resolved,5
+CMP00440,C00362,P004,Incorrect Charges,2024-09-18,2024-09-23,5,5,0,Call Centre,Resolved,3
+CMP00441,C01982,P009,Online Banking Issue,2023-01-29,2023-02-01,3,3,0,Online Banking,Resolved,4
+CMP00442,C00440,P004,Loan Statement Error,2024-02-02,2024-02-07,5,7,0,Mobile App,Resolved,3
+CMP00443,C01038,P008,Incorrect Charges,2023-12-07,2023-12-12,5,5,0,Mobile App,Resolved,2
+CMP00444,C01570,P009,Transaction Dispute,2024-04-19,2024-05-02,13,5,1,Mobile App,Resolved,4
+CMP00445,C00925,P005,Fraud Report,2023-03-17,2023-03-20,3,1,1,Mobile App,Escalated,2
+CMP00446,C00047,P008,Poor Service,2024-08-07,2024-08-08,1,10,0,Branch,Resolved,4
+CMP00447,C01268,P009,Fraud Report,2023-07-24,2023-08-01,8,1,1,Online Banking,Pending,4
+CMP00448,C00783,P001,Loan Statement Error,2024-08-18,2024-08-28,10,7,1,Mobile App,Resolved,3
+CMP00449,C01813,P005,Incorrect Charges,2024-10-22,2024-10-27,5,5,0,Online Banking,Pending,1
+CMP00450,C01833,P009,Incorrect Charges,2024-06-11,2024-06-14,3,5,0,Call Centre,Resolved,2
+CMP00451,C00337,P003,Loan Statement Error,2024-12-12,2024-12-16,4,7,0,Online Banking,Resolved,4
+CMP00452,C01680,P009,Fraud Report,2024-09-07,2024-09-08,1,1,0,Call Centre,Escalated,2
+CMP00453,C00621,P010,Card Blocked / Lost,2024-09-27,2024-09-29,2,2,0,ATM,Escalated,4
+CMP00454,C01143,P006,Account Access,2024-08-21,2024-08-22,1,3,0,Online Banking,Pending,4
+CMP00455,C01960,P008,Incorrect Charges,2024-02-04,2024-02-06,2,5,0,ATM,Resolved,5
+CMP00456,C00412,P004,Incorrect Charges,2024-03-28,2024-04-07,10,5,1,Call Centre,Pending,4
+CMP00457,C01561,P004,Incorrect Charges,2024-01-14,2024-01-15,1,5,0,Call Centre,Resolved,1
+CMP00458,C01947,P003,Transaction Dispute,2023-12-23,2023-12-24,1,5,0,Mobile App,Resolved,3
+CMP00459,C00583,P010,Card Blocked / Lost,2024-04-05,2024-04-07,2,2,0,Branch,Resolved,4
+CMP00460,C01776,P007,Account Access,2023-02-02,2023-02-03,1,3,0,Mobile App,Escalated,4
+CMP00461,C01753,P007,Loan Statement Error,2024-04-22,2024-05-08,16,7,1,Branch,Pending,5
+CMP00462,C01464,P005,Loan Statement Error,2023-09-18,2023-10-01,13,7,1,Branch,Pending,1
+CMP00463,C01578,P003,Online Banking Issue,2024-05-02,2024-05-05,3,3,0,Call Centre,Resolved,5
+CMP00464,C01877,P002,Fraud Report,2024-10-03,2024-10-07,4,1,1,Mobile App,Resolved,5
+CMP00465,C01979,P010,Transaction Dispute,2024-02-19,2024-02-22,3,5,0,Mobile App,Resolved,3
+CMP00466,C00591,P010,Poor Service,2024-03-19,2024-03-23,4,10,0,Mobile App,Escalated,5
+CMP00467,C01014,P010,Transaction Dispute,2023-01-20,2023-01-24,4,5,0,Online Banking,Resolved,4
+CMP00468,C00247,P008,Poor Service,2024-05-08,2024-05-17,9,10,0,Online Banking,Resolved,4
+CMP00469,C01384,P010,Fraud Report,2024-03-10,2024-03-11,1,1,0,Mobile App,Escalated,2
+CMP00470,C00496,P007,Loan Statement Error,2024-12-19,2024-12-31,15,7,1,Online Banking,Resolved,3
+CMP00471,C00379,P001,Loan Statement Error,2023-03-21,2023-03-26,5,7,0,Mobile App,Resolved,5
+CMP00472,C00234,P002,Poor Service,2024-01-18,2024-01-26,8,10,0,Mobile App,Resolved,2
+CMP00473,C00631,P002,Transaction Dispute,2023-05-09,2023-05-12,3,5,0,Call Centre,Escalated,5
+CMP00474,C01302,P009,Online Banking Issue,2023-02-04,2023-02-06,2,3,0,Online Banking,Pending,5
+CMP00475,C00215,P006,Account Access,2023-06-21,2023-06-23,2,3,0,Mobile App,Resolved,5
+CMP00476,C01453,P002,Account Access,2023-12-09,2023-12-18,9,3,1,Mobile App,Resolved,1
+CMP00477,C01128,P001,Online Banking Issue,2023-11-28,2023-11-29,1,3,0,Mobile App,Resolved,3
+CMP00478,C00874,P010,Online Banking Issue,2023-01-12,2023-01-14,2,3,0,Branch,Escalated,4
+CMP00479,C00022,P003,Incorrect Charges,2023-01-21,2023-01-29,8,5,1,Mobile App,Resolved,4
+CMP00480,C00641,P006,Card Blocked / Lost,2023-12-14,2023-12-15,1,2,0,Mobile App,Pending,4
+CMP00481,C00010,P007,Online Banking Issue,2024-04-29,2024-04-30,1,3,0,Mobile App,Resolved,5
+CMP00482,C00852,P002,Card Blocked / Lost,2023-05-26,2023-05-28,2,2,0,Branch,Pending,3
+CMP00483,C01423,P001,Card Blocked / Lost,2024-03-01,2024-03-03,2,2,0,Online Banking,Pending,4
+CMP00484,C01061,P004,Incorrect Charges,2024-08-02,2024-08-04,2,5,0,Call Centre,Resolved,4
+CMP00485,C00408,P010,Account Access,2023-09-12,2023-09-14,2,3,0,Online Banking,Escalated,5
+CMP00486,C00340,P007,Fraud Report,2024-05-23,2024-05-28,5,1,1,Online Banking,Escalated,4
+CMP00487,C01643,P001,Online Banking Issue,2023-10-02,2023-10-04,2,3,0,Call Centre,Resolved,2
+CMP00488,C00883,P009,Account Access,2023-07-19,2023-07-22,3,3,0,Mobile App,Escalated,5
+CMP00489,C01269,P006,Poor Service,2023-02-20,2023-03-01,9,10,0,Call Centre,Escalated,4
+CMP00490,C01113,P009,Fraud Report,2023-06-23,2023-06-27,4,1,1,Call Centre,Resolved,1
+CMP00491,C00775,P005,Transaction Dispute,2024-05-29,2024-05-30,1,5,0,Mobile App,Pending,4
+CMP00492,C00314,P006,Card Blocked / Lost,2023-12-22,2023-12-24,2,2,0,Mobile App,Escalated,5
+CMP00493,C00584,P004,Fraud Report,2024-05-05,2024-05-06,1,1,0,Mobile App,Pending,5
+CMP00494,C00445,P002,Loan Statement Error,2024-10-28,2024-10-29,1,7,0,Branch,Resolved,3
+CMP00495,C01128,P005,Transaction Dispute,2024-09-21,2024-09-22,1,5,0,ATM,Resolved,2
+CMP00496,C01791,P002,Online Banking Issue,2023-01-07,2023-01-10,3,3,0,Branch,Escalated,5
+CMP00497,C01755,P002,Incorrect Charges,2024-06-12,2024-06-16,4,5,0,Online Banking,Resolved,3
+CMP00498,C01578,P001,Transaction Dispute,2024-01-04,2024-01-07,3,5,0,Online Banking,Resolved,5
+CMP00499,C01400,P009,Poor Service,2023-03-23,2023-04-01,9,10,0,Branch,Escalated,4
+CMP00500,C00810,P004,Incorrect Charges,2024-02-03,2024-02-07,4,5,0,Online Banking,Pending,4
+CMP00501,C01999,P009,Online Banking Issue,2024-05-05,2024-05-08,3,3,0,Online Banking,Resolved,2
+CMP00502,C01957,P006,Incorrect Charges,2024-02-11,2024-02-12,1,5,0,Mobile App,Escalated,5
+CMP00503,C00401,P007,Transaction Dispute,2023-06-20,2023-06-27,7,5,1,Call Centre,Resolved,5
+CMP00504,C00138,P006,Online Banking Issue,2024-10-25,2024-10-28,3,3,0,Mobile App,Pending,3
+CMP00505,C00135,P004,Account Access,2024-03-24,2024-03-26,2,3,0,Call Centre,Resolved,4
+CMP00506,C00032,P008,Transaction Dispute,2023-12-03,2023-12-05,2,5,0,Branch,Resolved,1
+CMP00507,C01433,P001,Account Access,2023-10-14,2023-10-15,1,3,0,Mobile App,Resolved,5
+CMP00508,C00787,P004,Account Access,2023-05-25,2023-05-26,1,3,0,Online Banking,Resolved,5
+CMP00509,C01003,P002,Loan Statement Error,2023-09-02,2023-09-16,14,7,1,Branch,Resolved,4
+CMP00510,C01119,P005,Account Access,2024-12-03,2024-12-08,5,3,1,Mobile App,Resolved,5
+CMP00511,C00271,P008,Loan Statement Error,2023-08-30,2023-08-31,1,7,0,Online Banking,Resolved,4
+CMP00512,C01445,P010,Account Access,2024-02-13,2024-02-16,3,3,0,Online Banking,Pending,5
+CMP00513,C00882,P002,Fraud Report,2023-02-23,2023-02-24,1,1,0,Branch,Escalated,5
+CMP00514,C00447,P009,Fraud Report,2024-08-03,2024-08-04,1,1,0,Online Banking,Resolved,4
+CMP00515,C00871,P006,Account Access,2023-12-01,2023-12-04,3,3,0,Mobile App,Resolved,3
+CMP00516,C01929,P007,Loan Statement Error,2024-12-22,2024-12-29,7,7,0,Call Centre,Resolved,5
+CMP00517,C00627,P006,Transaction Dispute,2023-09-28,2023-10-02,4,5,0,Mobile App,Resolved,4
+CMP00518,C01027,P004,Card Blocked / Lost,2024-10-28,2024-10-29,1,2,0,ATM,Escalated,3
+CMP00519,C00475,P009,Loan Statement Error,2024-07-19,2024-07-23,4,7,0,Call Centre,Escalated,4
+CMP00520,C00681,P009,Account Access,2023-01-05,2023-01-17,12,3,1,Online Banking,Resolved,5
+CMP00521,C00109,P006,Loan Statement Error,2024-01-14,2024-01-15,1,7,0,Call Centre,Pending,4
+CMP00522,C00543,P002,Loan Statement Error,2023-05-31,2023-06-15,15,7,1,Call Centre,Pending,4
+CMP00523,C01154,P003,Incorrect Charges,2023-01-29,2023-01-30,1,5,0,ATM,Resolved,4
+CMP00524,C00588,P003,Account Access,2023-11-10,2023-11-16,6,3,1,Online Banking,Resolved,5
+CMP00525,C00834,P004,Online Banking Issue,2023-11-09,2023-11-11,2,3,0,Branch,Escalated,4
+CMP00526,C01831,P002,Account Access,2023-05-10,2023-05-18,8,3,1,Online Banking,Escalated,4
+CMP00527,C00512,P001,Fraud Report,2024-08-16,2024-08-17,1,1,0,Call Centre,Resolved,4
+CMP00528,C01625,P010,Card Blocked / Lost,2023-01-25,2023-01-27,2,2,0,Mobile App,Resolved,5
+CMP00529,C01815,P010,Loan Statement Error,2023-02-26,2023-03-15,17,7,1,Mobile App,Resolved,4
+CMP00530,C01949,P002,Incorrect Charges,2023-09-08,2023-09-18,10,5,1,ATM,Resolved,4
+CMP00531,C01104,P010,Transaction Dispute,2023-05-21,2023-05-24,3,5,0,Mobile App,Resolved,5
+CMP00532,C01256,P007,Online Banking Issue,2024-03-05,2024-03-07,2,3,0,Online Banking,Escalated,4
+CMP00533,C01743,P004,Transaction Dispute,2024-02-22,2024-02-27,5,5,0,Branch,Resolved,4
+CMP00534,C01701,P003,Fraud Report,2024-07-01,2024-07-02,1,1,0,Mobile App,Escalated,2
+CMP00535,C01645,P008,Incorrect Charges,2023-03-06,2023-03-13,7,5,1,Branch,Pending,4
+CMP00536,C00342,P002,Loan Statement Error,2023-08-22,2023-08-28,6,7,0,Mobile App,Resolved,4
+CMP00537,C00360,P009,Incorrect Charges,2024-10-16,2024-10-19,3,5,0,Call Centre,Resolved,5
+CMP00538,C01197,P001,Incorrect Charges,2023-05-11,2023-05-12,1,5,0,Call Centre,Resolved,5
+CMP00539,C00545,P002,Loan Statement Error,2024-11-14,2024-11-15,1,7,0,Branch,Pending,4
+CMP00540,C01277,P002,Online Banking Issue,2024-04-13,2024-04-15,2,3,0,Online Banking,Resolved,5
+CMP00541,C01249,P010,Online Banking Issue,2023-03-04,2023-03-12,8,3,1,Online Banking,Pending,5
+CMP00542,C00685,P006,Fraud Report,2024-01-14,2024-01-15,1,1,0,Online Banking,Resolved,4
+CMP00543,C01968,P010,Incorrect Charges,2023-04-16,2023-04-18,2,5,0,Branch,Resolved,5
+CMP00544,C01930,P009,Incorrect Charges,2024-05-03,2024-05-05,2,5,0,Online Banking,Pending,5
+CMP00545,C01085,P008,Incorrect Charges,2024-11-02,2024-11-05,3,5,0,Online Banking,Resolved,2
+CMP00546,C00727,P003,Fraud Report,2024-08-22,2024-08-23,1,1,0,Mobile App,Resolved,4
+CMP00547,C00593,P007,Poor Service,2023-11-26,2023-11-30,4,10,0,Online Banking,Resolved,5
+CMP00548,C01748,P003,Online Banking Issue,2023-10-09,2023-10-20,11,3,1,ATM,Resolved,2
+CMP00549,C00508,P009,Incorrect Charges,2024-03-05,2024-03-13,8,5,1,Online Banking,Pending,5
+CMP00550,C00520,P008,Transaction Dispute,2023-03-23,2023-04-05,13,5,1,Mobile App,Resolved,3
+CMP00551,C00472,P005,Account Access,2023-06-28,2023-07-01,3,3,0,Mobile App,Escalated,4
+CMP00552,C00920,P005,Fraud Report,2024-05-13,2024-05-14,1,1,0,Mobile App,Resolved,4
+CMP00553,C00020,P007,Account Access,2023-01-03,2023-01-05,2,3,0,Call Centre,Resolved,4
+CMP00554,C00302,P007,Transaction Dispute,2023-12-05,2023-12-07,2,5,0,Online Banking,Pending,4
+CMP00555,C01480,P007,Poor Service,2023-01-10,2023-01-20,10,10,0,Call Centre,Escalated,5
+CMP00556,C01228,P002,Online Banking Issue,2023-07-23,2023-07-24,1,3,0,Mobile App,Escalated,4
+CMP00557,C00314,P009,Loan Statement Error,2023-03-21,2023-03-24,3,7,0,Mobile App,Resolved,3
+CMP00558,C00738,P008,Poor Service,2024-05-28,2024-06-03,6,10,0,Branch,Resolved,4
+CMP00559,C00594,P001,Card Blocked / Lost,2024-10-17,2024-10-18,1,2,0,ATM,Resolved,1
+CMP00560,C00934,P006,Online Banking Issue,2024-06-15,2024-06-17,2,3,0,Online Banking,Escalated,4
+CMP00561,C01835,P003,Incorrect Charges,2024-12-13,2024-12-20,7,5,1,Call Centre,Resolved,5
+CMP00562,C00422,P007,Incorrect Charges,2023-10-29,2023-11-08,10,5,1,Branch,Resolved,5
+CMP00563,C00871,P004,Loan Statement Error,2024-01-11,2024-01-14,3,7,0,Call Centre,Resolved,5
+CMP00564,C01568,P009,Incorrect Charges,2024-01-29,2024-02-02,4,5,0,Mobile App,Resolved,4
+CMP00565,C00470,P010,Fraud Report,2023-03-01,2023-03-02,1,1,0,Online Banking,Pending,5
+CMP00566,C00851,P009,Incorrect Charges,2024-12-22,2024-12-26,4,5,0,Online Banking,Pending,3
+CMP00567,C01956,P003,Card Blocked / Lost,2024-10-22,2024-10-25,3,2,1,Call Centre,Escalated,4
+CMP00568,C01171,P006,Online Banking Issue,2024-06-22,2024-06-29,7,3,1,Online Banking,Escalated,5
+CMP00569,C01286,P004,Account Access,2023-02-04,2023-02-11,7,3,1,Mobile App,Resolved,5
+CMP00570,C00063,P010,Fraud Report,2024-07-28,2024-07-29,1,1,0,Branch,Pending,5
+CMP00571,C00486,P008,Transaction Dispute,2023-01-08,2023-01-15,7,5,1,Branch,Resolved,4
+CMP00572,C01546,P001,Card Blocked / Lost,2024-08-10,2024-08-11,1,2,0,Branch,Resolved,3
+CMP00573,C00101,P009,Online Banking Issue,2023-04-05,2023-04-07,2,3,0,Mobile App,Resolved,4
+CMP00574,C01035,P006,Fraud Report,2023-09-26,2023-09-27,1,1,0,Mobile App,Resolved,4
+CMP00575,C01478,P009,Incorrect Charges,2023-04-02,2023-04-05,3,5,0,Online Banking,Resolved,3
+CMP00576,C00343,P001,Transaction Dispute,2023-10-09,2023-10-13,4,5,0,Call Centre,Resolved,4
+CMP00577,C00278,P004,Card Blocked / Lost,2024-10-12,2024-10-13,1,2,0,Online Banking,Resolved,4
+CMP00578,C00666,P002,Online Banking Issue,2024-03-11,2024-03-12,1,3,0,Online Banking,Pending,4
+CMP00579,C01827,P003,Incorrect Charges,2023-07-07,2023-07-18,11,5,1,Call Centre,Resolved,5
+CMP00580,C00169,P001,Incorrect Charges,2024-04-16,2024-04-21,5,5,0,Online Banking,Resolved,5
+CMP00581,C00601,P006,Transaction Dispute,2024-09-13,2024-09-18,5,5,0,Branch,Escalated,4
+CMP00582,C00552,P003,Loan Statement Error,2023-05-20,2023-05-25,5,7,0,Call Centre,Pending,5
+CMP00583,C00222,P008,Card Blocked / Lost,2024-12-11,2024-12-12,1,2,0,Mobile App,Resolved,3
+CMP00584,C00561,P007,Online Banking Issue,2024-06-20,2024-06-22,2,3,0,Call Centre,Resolved,4
+CMP00585,C00711,P004,Poor Service,2023-06-27,2023-07-06,9,10,0,Call Centre,Resolved,1
+CMP00586,C00987,P007,Incorrect Charges,2023-03-23,2023-03-25,2,5,0,Online Banking,Resolved,1
+CMP00587,C01606,P009,Incorrect Charges,2023-09-13,2023-09-17,4,5,0,Branch,Pending,3
+CMP00588,C00731,P004,Online Banking Issue,2023-08-02,2023-08-04,2,3,0,Branch,Resolved,4
+CMP00589,C01925,P004,Transaction Dispute,2024-07-05,2024-07-19,14,5,1,Branch,Resolved,5
+CMP00590,C00364,P007,Poor Service,2024-09-20,2024-09-25,5,10,0,Branch,Resolved,4
+CMP00591,C00402,P006,Transaction Dispute,2023-04-06,2023-04-08,2,5,0,Call Centre,Pending,3
+CMP00592,C01639,P007,Card Blocked / Lost,2024-02-11,2024-02-12,1,2,0,Mobile App,Escalated,5
+CMP00593,C01352,P003,Incorrect Charges,2024-02-10,2024-02-13,3,5,0,Online Banking,Resolved,4
+CMP00594,C00157,P003,Transaction Dispute,2024-07-11,2024-07-13,2,5,0,Mobile App,Pending,2
+CMP00595,C01928,P009,Fraud Report,2023-03-31,2023-04-01,1,1,0,Call Centre,Resolved,4
+CMP00596,C00135,P007,Incorrect Charges,2024-09-28,2024-10-02,4,5,0,Mobile App,Resolved,5
+CMP00597,C01331,P006,Loan Statement Error,2024-10-28,2024-11-04,7,7,0,Branch,Resolved,4
+CMP00598,C01758,P005,Card Blocked / Lost,2024-04-29,2024-05-08,9,2,1,ATM,Pending,5
+CMP00599,C00069,P001,Incorrect Charges,2024-05-31,2024-06-04,4,5,0,Call Centre,Resolved,4
+CMP00600,C01714,P004,Online Banking Issue,2024-01-09,2024-01-10,1,3,0,Branch,Pending,3
+CMP00601,C00971,P005,Poor Service,2024-04-06,2024-04-15,9,10,0,Branch,Resolved,3
+CMP00602,C01043,P007,Incorrect Charges,2023-12-25,2023-12-28,3,5,0,Online Banking,Escalated,4
+CMP00603,C00112,P009,Card Blocked / Lost,2023-04-19,2023-04-21,2,2,0,Branch,Pending,4
+CMP00604,C00363,P005,Account Access,2023-04-07,2023-04-08,1,3,0,ATM,Resolved,5
+CMP00605,C01979,P003,Account Access,2023-07-26,2023-07-29,3,3,0,Branch,Escalated,5
+CMP00606,C00725,P006,Card Blocked / Lost,2023-09-11,2023-09-12,1,2,0,Branch,Resolved,5
+CMP00607,C00522,P008,Transaction Dispute,2024-04-02,2024-04-06,4,5,0,Branch,Resolved,3
+CMP00608,C00228,P006,Online Banking Issue,2024-02-10,2024-02-12,2,3,0,Branch,Resolved,5
+CMP00609,C01269,P002,Incorrect Charges,2023-01-03,2023-01-13,10,5,1,Mobile App,Resolved,2
+CMP00610,C01860,P004,Loan Statement Error,2024-05-25,2024-05-30,5,7,0,Mobile App,Escalated,2
+CMP00611,C00466,P005,Account Access,2024-08-07,2024-08-14,7,3,1,Branch,Resolved,1
+CMP00612,C01242,P008,Transaction Dispute,2024-08-27,2024-09-10,14,5,1,Branch,Resolved,3
+CMP00613,C01004,P006,Account Access,2024-02-28,2024-02-29,1,3,0,Online Banking,Resolved,4
+CMP00614,C00535,P001,Card Blocked / Lost,2024-02-18,2024-02-26,8,2,1,Online Banking,Pending,4
+CMP00615,C01913,P008,Card Blocked / Lost,2024-10-18,2024-10-29,11,2,1,Branch,Resolved,5
+CMP00616,C00844,P008,Incorrect Charges,2023-09-17,2023-09-23,6,5,1,Online Banking,Escalated,5
+CMP00617,C00500,P009,Card Blocked / Lost,2024-07-24,2024-07-26,2,2,0,Mobile App,Resolved,4
+CMP00618,C00379,P001,Account Access,2023-01-29,2023-02-01,3,3,0,Mobile App,Resolved,3
+CMP00619,C01459,P010,Poor Service,2024-01-17,2024-02-03,17,10,1,Online Banking,Resolved,4
+CMP00620,C01280,P009,Fraud Report,2024-02-05,2024-02-10,5,1,1,Online Banking,Resolved,5
+CMP00621,C00235,P004,Transaction Dispute,2024-04-26,2024-04-30,4,5,0,Call Centre,Resolved,5
+CMP00622,C00379,P007,Fraud Report,2024-06-15,2024-06-16,1,1,0,Branch,Resolved,3
+CMP00623,C00174,P005,Incorrect Charges,2024-08-05,2024-08-17,12,5,1,Mobile App,Escalated,2
+CMP00624,C01185,P007,Fraud Report,2023-12-28,2024-01-07,10,1,1,Mobile App,Resolved,5
+CMP00625,C00371,P009,Account Access,2024-12-21,2024-12-22,1,3,0,Call Centre,Pending,1
+CMP00626,C00842,P006,Online Banking Issue,2024-05-25,2024-06-01,7,3,1,Branch,Resolved,5
+CMP00627,C00095,P004,Loan Statement Error,2024-03-11,2024-03-15,4,7,0,Online Banking,Resolved,5
+CMP00628,C01295,P005,Transaction Dispute,2024-09-09,2024-09-12,3,5,0,Branch,Pending,4
+CMP00629,C00607,P004,Loan Statement Error,2023-04-15,2023-04-17,2,7,0,Mobile App,Pending,4
+CMP00630,C01486,P008,Online Banking Issue,2024-11-19,2024-11-20,1,3,0,Online Banking,Resolved,3
+CMP00631,C01786,P006,Online Banking Issue,2024-05-10,2024-05-12,2,3,0,Mobile App,Resolved,4
+CMP00632,C00424,P009,Online Banking Issue,2024-01-20,2024-01-22,2,3,0,ATM,Resolved,3
+CMP00633,C01374,P002,Poor Service,2024-10-12,2024-10-15,3,10,0,Online Banking,Resolved,3
+CMP00634,C01034,P009,Account Access,2023-08-20,2023-08-25,5,3,1,Call Centre,Resolved,2
+CMP00635,C01497,P004,Fraud Report,2024-12-29,2024-12-31,5,1,1,Call Centre,Resolved,2
+CMP00636,C00506,P001,Account Access,2023-08-09,2023-08-10,1,3,0,Mobile App,Resolved,4
+CMP00637,C01143,P009,Incorrect Charges,2024-12-02,2024-12-04,2,5,0,Branch,Pending,5
+CMP00638,C00388,P009,Transaction Dispute,2024-05-23,2024-05-28,5,5,0,Call Centre,Escalated,2
+CMP00639,C01381,P004,Online Banking Issue,2023-07-07,2023-07-08,1,3,0,Mobile App,Pending,5
+CMP00640,C00500,P010,Incorrect Charges,2024-04-02,2024-04-07,5,5,0,Mobile App,Resolved,3
+CMP00641,C00394,P007,Account Access,2023-05-10,2023-05-21,11,3,1,Online Banking,Pending,4
+CMP00642,C00454,P003,Card Blocked / Lost,2023-12-27,2024-01-06,10,2,1,Call Centre,Resolved,3
+CMP00643,C00732,P009,Transaction Dispute,2024-12-29,2024-12-31,3,5,0,Branch,Escalated,5
+CMP00644,C01776,P006,Account Access,2024-06-18,2024-06-19,1,3,0,Online Banking,Escalated,3
+CMP00645,C01525,P010,Card Blocked / Lost,2024-07-25,2024-07-27,2,2,0,Mobile App,Pending,4
+CMP00646,C01791,P006,Online Banking Issue,2024-04-09,2024-04-11,2,3,0,ATM,Resolved,5
+CMP00647,C01711,P008,Poor Service,2023-09-26,2023-10-06,10,10,0,Call Centre,Resolved,5
+CMP00648,C01706,P008,Online Banking Issue,2024-08-27,2024-08-28,1,3,0,Branch,Escalated,5
+CMP00649,C01451,P006,Loan Statement Error,2024-06-19,2024-06-25,6,7,0,Call Centre,Resolved,4
+CMP00650,C01257,P002,Account Access,2023-09-26,2023-09-28,2,3,0,Branch,Escalated,4
+CMP00651,C00092,P005,Fraud Report,2024-03-16,2024-03-17,1,1,0,Branch,Escalated,4
+CMP00652,C01157,P003,Account Access,2024-07-20,2024-07-25,5,3,1,Mobile App,Pending,5
+CMP00653,C00569,P006,Online Banking Issue,2023-02-01,2023-02-04,3,3,0,Mobile App,Resolved,4
+CMP00654,C01790,P003,Transaction Dispute,2024-12-24,2024-12-27,3,5,0,Call Centre,Pending,3
+CMP00655,C01556,P004,Online Banking Issue,2023-04-16,2023-04-19,3,3,0,Mobile App,Resolved,1
+CMP00656,C00918,P007,Card Blocked / Lost,2023-04-18,2023-04-20,2,2,0,Online Banking,Pending,2
+CMP00657,C01855,P010,Fraud Report,2023-10-03,2023-10-04,1,1,0,Online Banking,Escalated,2
+CMP00658,C00423,P010,Fraud Report,2023-11-19,2023-11-20,1,1,0,Call Centre,Resolved,2
+CMP00659,C01441,P005,Loan Statement Error,2024-10-18,2024-11-03,16,7,1,Mobile App,Resolved,5
+CMP00660,C01336,P003,Online Banking Issue,2024-12-22,2024-12-23,1,3,0,Online Banking,Pending,5
+CMP00661,C01595,P004,Fraud Report,2023-08-14,2023-08-15,1,1,0,Call Centre,Resolved,3
+CMP00662,C01683,P006,Loan Statement Error,2023-07-27,2023-08-03,7,7,0,Mobile App,Resolved,3
+CMP00663,C01552,P006,Online Banking Issue,2024-05-19,2024-06-01,13,3,1,Mobile App,Resolved,4
+CMP00664,C00244,P005,Account Access,2024-08-31,2024-09-01,1,3,0,Call Centre,Resolved,4
+CMP00665,C00109,P001,Account Access,2023-01-12,2023-01-16,4,3,1,Call Centre,Resolved,4
+CMP00666,C01761,P007,Account Access,2024-01-29,2024-01-31,2,3,0,Branch,Resolved,2
+CMP00667,C01307,P005,Fraud Report,2024-05-17,2024-05-25,8,1,1,Mobile App,Resolved,4
+CMP00668,C01690,P003,Poor Service,2024-11-13,2024-11-22,9,10,0,Online Banking,Escalated,5
+CMP00669,C00176,P007,Online Banking Issue,2023-10-31,2023-11-03,3,3,0,Online Banking,Escalated,2
+CMP00670,C01511,P002,Fraud Report,2023-09-10,2023-09-11,1,1,0,Online Banking,Resolved,3
+CMP00671,C01085,P004,Incorrect Charges,2024-02-14,2024-02-15,1,5,0,Call Centre,Escalated,3
+CMP00672,C00293,P008,Loan Statement Error,2023-09-23,2023-10-08,15,7,1,Mobile App,Pending,5
+CMP00673,C00385,P001,Loan Statement Error,2024-09-17,2024-09-23,6,7,0,Call Centre,Resolved,3
+CMP00674,C01778,P002,Poor Service,2024-07-16,2024-07-23,7,10,0,Online Banking,Resolved,4
+CMP00675,C00940,P006,Incorrect Charges,2023-07-08,2023-07-12,4,5,0,Mobile App,Resolved,4
+CMP00676,C01415,P009,Transaction Dispute,2023-03-11,2023-03-13,2,5,0,Branch,Escalated,5
+CMP00677,C00956,P010,Poor Service,2023-04-16,2023-05-02,16,10,1,Mobile App,Pending,3
+CMP00678,C00747,P006,Transaction Dispute,2024-02-14,2024-02-23,9,5,1,Mobile App,Resolved,1
+CMP00679,C01522,P010,Online Banking Issue,2024-07-27,2024-07-29,2,3,0,Mobile App,Resolved,3
+CMP00680,C01102,P009,Card Blocked / Lost,2023-02-20,2023-02-27,7,2,1,Online Banking,Resolved,3
+CMP00681,C01664,P002,Incorrect Charges,2024-04-08,2024-04-19,11,5,1,Mobile App,Escalated,4
+CMP00682,C02000,P002,Card Blocked / Lost,2024-08-27,2024-08-29,2,2,0,ATM,Resolved,2
+CMP00683,C00647,P004,Loan Statement Error,2024-04-21,2024-04-24,3,7,0,Online Banking,Resolved,5
+CMP00684,C01989,P003,Online Banking Issue,2023-01-17,2023-01-18,1,3,0,Branch,Resolved,5
+CMP00685,C00279,P005,Account Access,2023-04-30,2023-05-13,13,3,1,Online Banking,Escalated,2
+CMP00686,C00049,P006,Incorrect Charges,2023-03-01,2023-03-03,2,5,0,Mobile App,Resolved,4
+CMP00687,C01140,P010,Fraud Report,2024-05-27,2024-05-28,1,1,0,Call Centre,Resolved,4
+CMP00688,C01151,P005,Poor Service,2023-11-20,2023-11-26,6,10,0,Call Centre,Resolved,3
+CMP00689,C00135,P006,Poor Service,2023-04-24,2023-05-06,12,10,1,Online Banking,Pending,3
+CMP00690,C00429,P003,Poor Service,2023-12-11,2023-12-12,1,10,0,Mobile App,Pending,2
+CMP00691,C01286,P007,Transaction Dispute,2024-02-11,2024-02-16,5,5,0,Call Centre,Escalated,5
+CMP00692,C01539,P009,Incorrect Charges,2024-02-26,2024-02-28,2,5,0,Branch,Resolved,3
+CMP00693,C01449,P009,Card Blocked / Lost,2023-06-13,2023-06-15,2,2,0,Mobile App,Resolved,3
+CMP00694,C01387,P007,Account Access,2023-08-21,2023-08-22,1,3,0,Branch,Escalated,5
+CMP00695,C01227,P006,Account Access,2024-02-23,2024-02-24,1,3,0,Online Banking,Pending,3
+CMP00696,C01577,P002,Poor Service,2023-09-16,2023-09-18,2,10,0,Branch,Resolved,4
+CMP00697,C00214,P008,Fraud Report,2023-07-21,2023-07-22,1,1,0,Mobile App,Resolved,4
+CMP00698,C00456,P001,Loan Statement Error,2023-05-11,2023-05-15,4,7,0,Call Centre,Resolved,4
+CMP00699,C00668,P007,Poor Service,2023-10-16,2023-10-30,14,10,1,Mobile App,Resolved,1
+CMP00700,C01864,P005,Fraud Report,2024-05-21,2024-05-22,1,1,0,Call Centre,Pending,5
+CMP00701,C00387,P009,Account Access,2023-06-12,2023-06-14,2,3,0,Call Centre,Pending,5
+CMP00702,C00755,P004,Online Banking Issue,2023-01-18,2023-01-19,1,3,0,Mobile App,Escalated,5
+CMP00703,C00511,P008,Card Blocked / Lost,2023-01-26,2023-01-28,2,2,0,Mobile App,Resolved,4
+CMP00704,C01069,P003,Loan Statement Error,2024-06-27,2024-07-04,7,7,0,Online Banking,Escalated,5
+CMP00705,C00026,P006,Poor Service,2024-12-28,2024-12-31,19,10,1,Mobile App,Resolved,5
+CMP00706,C01039,P006,Fraud Report,2023-06-02,2023-06-03,1,1,0,Branch,Resolved,5
+CMP00707,C00638,P004,Incorrect Charges,2024-07-04,2024-07-09,5,5,0,Call Centre,Pending,4
+CMP00708,C01438,P002,Poor Service,2023-05-10,2023-05-18,8,10,0,Branch,Pending,4
+CMP00709,C00357,P002,Incorrect Charges,2023-07-22,2023-07-31,9,5,1,ATM,Pending,4
+CMP00710,C00342,P002,Fraud Report,2024-04-23,2024-04-24,1,1,0,Mobile App,Pending,3
+CMP00711,C00505,P010,Account Access,2023-10-23,2023-10-25,2,3,0,Online Banking,Resolved,4
+CMP00712,C00272,P010,Loan Statement Error,2024-03-17,2024-04-01,15,7,1,Branch,Escalated,4
+CMP00713,C00829,P006,Incorrect Charges,2024-11-30,2024-12-01,1,5,0,Mobile App,Resolved,5
+CMP00714,C00801,P003,Card Blocked / Lost,2023-01-15,2023-01-17,2,2,0,Call Centre,Escalated,3
+CMP00715,C00951,P006,Fraud Report,2023-08-08,2023-08-14,6,1,1,Mobile App,Resolved,4
+CMP00716,C01392,P003,Incorrect Charges,2023-12-27,2024-01-04,8,5,1,Call Centre,Resolved,4
+CMP00717,C01698,P004,Card Blocked / Lost,2023-12-02,2023-12-13,11,2,1,Call Centre,Resolved,5
+CMP00718,C01944,P009,Loan Statement Error,2023-11-14,2023-11-16,2,7,0,Online Banking,Resolved,5
+CMP00719,C00989,P006,Card Blocked / Lost,2023-10-04,2023-10-05,1,2,0,Call Centre,Escalated,1
+CMP00720,C01986,P008,Online Banking Issue,2023-09-26,2023-09-28,2,3,0,Call Centre,Resolved,4
+CMP00721,C01083,P008,Loan Statement Error,2024-07-01,2024-07-06,5,7,0,Mobile App,Resolved,4
+CMP00722,C01230,P008,Card Blocked / Lost,2023-10-24,2023-10-26,2,2,0,Branch,Escalated,4
+CMP00723,C01908,P002,Loan Statement Error,2024-10-17,2024-10-22,5,7,0,Branch,Resolved,3
+CMP00724,C01682,P010,Card Blocked / Lost,2024-09-15,2024-09-16,1,2,0,Mobile App,Pending,4
+CMP00725,C01338,P004,Account Access,2024-01-04,2024-01-15,11,3,1,Call Centre,Resolved,4
+CMP00726,C01218,P010,Transaction Dispute,2023-05-27,2023-05-29,2,5,0,Call Centre,Resolved,3
+CMP00727,C00213,P001,Incorrect Charges,2023-08-19,2023-08-21,2,5,0,Online Banking,Resolved,5
+CMP00728,C00745,P003,Online Banking Issue,2024-08-24,2024-08-26,2,3,0,Mobile App,Pending,4
+CMP00729,C01063,P008,Incorrect Charges,2023-12-28,2023-12-29,1,5,0,Mobile App,Pending,3
+CMP00730,C01692,P008,Loan Statement Error,2023-03-12,2023-03-17,5,7,0,ATM,Resolved,5
+CMP00731,C01191,P003,Card Blocked / Lost,2023-06-20,2023-06-21,1,2,0,Branch,Resolved,5
+CMP00732,C00318,P002,Account Access,2023-11-22,2023-11-25,3,3,0,Call Centre,Escalated,4
+CMP00733,C00005,P009,Online Banking Issue,2024-07-24,2024-07-26,2,3,0,Online Banking,Pending,5
+CMP00734,C00133,P002,Fraud Report,2024-09-26,2024-09-27,1,1,0,Call Centre,Escalated,5
+CMP00735,C01084,P001,Online Banking Issue,2024-06-12,2024-06-19,7,3,1,Branch,Resolved,1
+CMP00736,C00409,P003,Loan Statement Error,2024-08-12,2024-08-19,7,7,0,Call Centre,Resolved,1
+CMP00737,C01230,P009,Online Banking Issue,2024-11-25,2024-11-27,2,3,0,Online Banking,Resolved,5
+CMP00738,C00310,P003,Card Blocked / Lost,2023-04-30,2023-05-01,1,2,0,Branch,Escalated,5
+CMP00739,C00461,P007,Fraud Report,2024-06-03,2024-06-12,9,1,1,Call Centre,Resolved,4
+CMP00740,C01209,P004,Account Access,2024-11-17,2024-11-19,2,3,0,Mobile App,Resolved,3
+CMP00741,C01334,P003,Transaction Dispute,2024-03-26,2024-03-28,2,5,0,Online Banking,Pending,3
+CMP00742,C01669,P003,Incorrect Charges,2024-02-26,2024-02-28,2,5,0,Online Banking,Escalated,4
+CMP00743,C01647,P005,Loan Statement Error,2024-07-09,2024-07-14,5,7,0,Call Centre,Resolved,4
+CMP00744,C01629,P001,Online Banking Issue,2024-07-15,2024-07-17,2,3,0,Branch,Resolved,4
+CMP00745,C00484,P002,Poor Service,2024-03-24,2024-04-01,8,10,0,Branch,Resolved,3
+CMP00746,C00268,P004,Incorrect Charges,2024-03-25,2024-03-28,3,5,0,Call Centre,Resolved,4
+CMP00747,C01735,P002,Card Blocked / Lost,2024-09-01,2024-09-12,11,2,1,Online Banking,Resolved,5
+CMP00748,C00502,P006,Card Blocked / Lost,2023-05-15,2023-05-21,6,2,1,Mobile App,Escalated,4
+CMP00749,C00140,P004,Incorrect Charges,2023-06-26,2023-06-29,3,5,0,Call Centre,Resolved,3
+CMP00750,C00309,P003,Loan Statement Error,2024-11-01,2024-11-17,16,7,1,Call Centre,Resolved,4
+CMP00751,C01020,P007,Account Access,2023-01-10,2023-01-13,3,3,0,Mobile App,Resolved,5
+CMP00752,C00286,P002,Loan Statement Error,2023-09-13,2023-09-15,2,7,0,Call Centre,Pending,5
+CMP00753,C01259,P009,Poor Service,2023-05-14,2023-06-03,20,10,1,Online Banking,Pending,5
+CMP00754,C01419,P004,Transaction Dispute,2024-06-11,2024-06-14,3,5,0,Branch,Resolved,3
+CMP00755,C01910,P001,Poor Service,2024-01-23,2024-01-26,3,10,0,Branch,Pending,5
+CMP00756,C00404,P008,Fraud Report,2024-08-26,2024-09-04,9,1,1,Branch,Resolved,4
+CMP00757,C00413,P001,Online Banking Issue,2024-09-13,2024-09-16,3,3,0,Online Banking,Resolved,5
+CMP00758,C00254,P009,Incorrect Charges,2023-06-11,2023-06-16,5,5,0,Online Banking,Pending,4
+CMP00759,C01664,P002,Online Banking Issue,2024-03-27,2024-03-29,2,3,0,Online Banking,Resolved,4
+CMP00760,C01876,P002,Fraud Report,2023-03-08,2023-03-09,1,1,0,Online Banking,Resolved,1
+CMP00761,C01392,P009,Fraud Report,2024-12-31,2024-12-31,1,1,0,Call Centre,Resolved,5
+CMP00762,C01296,P003,Fraud Report,2023-01-06,2023-01-07,1,1,0,Online Banking,Escalated,4
+CMP00763,C01746,P006,Poor Service,2023-04-19,2023-05-06,17,10,1,Mobile App,Resolved,4
+CMP00764,C01723,P005,Card Blocked / Lost,2024-11-06,2024-11-07,1,2,0,ATM,Pending,2
+CMP00765,C00762,P008,Online Banking Issue,2023-07-02,2023-07-03,1,3,0,ATM,Resolved,2
+CMP00766,C00395,P009,Poor Service,2024-08-27,2024-08-30,3,10,0,Online Banking,Escalated,2
+CMP00767,C01586,P008,Fraud Report,2023-06-04,2023-06-05,1,1,0,Mobile App,Pending,2
+CMP00768,C00141,P004,Incorrect Charges,2024-05-08,2024-05-15,7,5,1,Branch,Resolved,5
+CMP00769,C00474,P005,Transaction Dispute,2023-10-03,2023-10-07,4,5,0,Call Centre,Resolved,3
+CMP00770,C00558,P009,Incorrect Charges,2023-04-12,2023-04-14,2,5,0,Online Banking,Escalated,3
+CMP00771,C01724,P003,Poor Service,2023-04-10,2023-04-12,2,10,0,Mobile App,Escalated,4
+CMP00772,C00638,P009,Card Blocked / Lost,2024-11-06,2024-11-08,2,2,0,Branch,Resolved,2
+CMP00773,C01396,P003,Online Banking Issue,2023-08-10,2023-08-11,1,3,0,Branch,Resolved,5
+CMP00774,C00465,P002,Fraud Report,2023-12-08,2023-12-09,1,1,0,Call Centre,Resolved,4
+CMP00775,C01368,P002,Transaction Dispute,2023-03-20,2023-03-25,5,5,0,Call Centre,Pending,4
+CMP00776,C00178,P010,Poor Service,2024-12-05,2024-12-14,9,10,0,Mobile App,Resolved,4
+CMP00777,C01890,P002,Online Banking Issue,2024-06-17,2024-06-20,3,3,0,Online Banking,Escalated,5
+CMP00778,C00184,P003,Poor Service,2023-04-27,2023-04-29,2,10,0,Mobile App,Resolved,3
+CMP00779,C01045,P008,Transaction Dispute,2023-12-03,2023-12-06,3,5,0,Mobile App,Resolved,4
+CMP00780,C01861,P007,Incorrect Charges,2024-06-21,2024-06-24,3,5,0,Online Banking,Pending,4
+CMP00781,C00431,P009,Card Blocked / Lost,2024-09-18,2024-09-20,2,2,0,Online Banking,Resolved,2
+CMP00782,C00887,P008,Fraud Report,2024-01-19,2024-01-21,2,1,1,Mobile App,Resolved,2
+CMP00783,C01729,P004,Card Blocked / Lost,2024-05-16,2024-05-18,2,2,0,Branch,Resolved,5
+CMP00784,C01932,P004,Card Blocked / Lost,2023-11-07,2023-11-09,2,2,0,Online Banking,Resolved,4
+CMP00785,C00618,P007,Account Access,2023-02-04,2023-02-05,1,3,0,Online Banking,Resolved,4
+CMP00786,C00640,P005,Online Banking Issue,2024-03-16,2024-03-23,7,3,1,ATM,Escalated,3
+CMP00787,C01151,P010,Loan Statement Error,2024-11-19,2024-11-21,2,7,0,Online Banking,Escalated,5
+CMP00788,C01412,P004,Loan Statement Error,2023-11-09,2023-11-11,2,7,0,Online Banking,Resolved,4
+CMP00789,C00562,P001,Account Access,2023-11-11,2023-11-12,1,3,0,Branch,Resolved,4
+CMP00790,C00667,P010,Incorrect Charges,2023-11-09,2023-11-10,1,5,0,Branch,Resolved,5
+CMP00791,C00832,P003,Card Blocked / Lost,2023-02-20,2023-02-21,1,2,0,Mobile App,Resolved,5
+CMP00792,C01507,P001,Incorrect Charges,2023-10-12,2023-10-15,3,5,0,Call Centre,Pending,4
+CMP00793,C00322,P002,Fraud Report,2024-12-30,2024-12-31,1,1,0,Online Banking,Resolved,3
+CMP00794,C01610,P007,Card Blocked / Lost,2023-12-07,2023-12-19,12,2,1,Branch,Resolved,3
+CMP00795,C01023,P008,Incorrect Charges,2024-02-05,2024-02-07,2,5,0,Call Centre,Resolved,4
+CMP00796,C00240,P003,Online Banking Issue,2023-12-24,2024-01-06,13,3,1,ATM,Pending,5
+CMP00797,C00032,P009,Card Blocked / Lost,2024-10-05,2024-10-09,4,2,1,ATM,Pending,4
+CMP00798,C01211,P004,Transaction Dispute,2024-11-14,2024-11-18,4,5,0,Call Centre,Escalated,4
+CMP00799,C01684,P001,Online Banking Issue,2024-02-03,2024-02-04,1,3,0,Call Centre,Resolved,3
+CMP00800,C01435,P007,Loan Statement Error,2024-07-23,2024-08-06,14,7,1,Mobile App,Pending,3
+CMP00801,C01721,P010,Transaction Dispute,2024-05-28,2024-05-29,1,5,0,Call Centre,Escalated,3
+CMP00802,C01034,P010,Fraud Report,2024-08-09,2024-08-10,1,1,0,Mobile App,Pending,1
+CMP00803,C00383,P010,Account Access,2024-03-03,2024-03-06,3,3,0,Call Centre,Resolved,5
+CMP00804,C01935,P003,Fraud Report,2024-05-28,2024-05-29,1,1,0,Online Banking,Resolved,2
+CMP00805,C01965,P001,Card Blocked / Lost,2023-12-15,2023-12-26,11,2,1,Branch,Resolved,4
+CMP00806,C01003,P007,Card Blocked / Lost,2023-11-18,2023-11-19,1,2,0,Call Centre,Resolved,2
+CMP00807,C01018,P010,Online Banking Issue,2024-11-22,2024-11-30,8,3,1,Call Centre,Pending,4
+CMP00808,C01862,P010,Online Banking Issue,2024-05-19,2024-05-20,1,3,0,Mobile App,Pending,1
+CMP00809,C00056,P006,Incorrect Charges,2023-06-30,2023-07-03,3,5,0,Mobile App,Resolved,3
+CMP00810,C01654,P006,Account Access,2023-07-09,2023-07-11,2,3,0,ATM,Resolved,4
+CMP00811,C01637,P003,Poor Service,2024-01-18,2024-01-20,2,10,0,Branch,Pending,3
+CMP00812,C01940,P010,Online Banking Issue,2024-11-23,2024-11-25,2,3,0,Mobile App,Resolved,4
+CMP00813,C01586,P002,Account Access,2024-06-06,2024-06-09,3,3,0,Call Centre,Pending,4
+CMP00814,C00024,P008,Card Blocked / Lost,2024-04-13,2024-04-14,1,2,0,Online Banking,Resolved,5
+CMP00815,C00164,P010,Account Access,2023-03-18,2023-03-21,3,3,0,Branch,Resolved,4
+CMP00816,C00054,P005,Incorrect Charges,2024-07-20,2024-07-24,4,5,0,Call Centre,Resolved,3
+CMP00817,C00237,P009,Fraud Report,2023-01-30,2023-01-31,1,1,0,Online Banking,Resolved,4
+CMP00818,C00128,P004,Account Access,2023-08-28,2023-09-01,4,3,1,Call Centre,Resolved,3
+CMP00819,C01669,P003,Account Access,2023-07-09,2023-07-12,3,3,0,Call Centre,Resolved,3
+CMP00820,C01901,P002,Loan Statement Error,2023-06-27,2023-06-30,3,7,0,Online Banking,Escalated,5
+CMP00821,C00853,P006,Account Access,2024-05-17,2024-05-18,1,3,0,Online Banking,Pending,4
+CMP00822,C01857,P006,Poor Service,2024-02-26,2024-03-08,11,10,1,Mobile App,Pending,4
+CMP00823,C01077,P001,Online Banking Issue,2023-04-15,2023-04-17,2,3,0,Online Banking,Resolved,4
+CMP00824,C01016,P008,Loan Statement Error,2023-03-22,2023-03-23,1,7,0,Branch,Resolved,1
+CMP00825,C01903,P004,Loan Statement Error,2023-03-21,2023-03-28,7,7,0,Branch,Resolved,3
+CMP00826,C01539,P002,Fraud Report,2024-04-01,2024-04-02,1,1,0,Call Centre,Resolved,5
+CMP00827,C00190,P001,Fraud Report,2023-02-18,2023-02-19,1,1,0,Branch,Resolved,1
+CMP00828,C01376,P009,Card Blocked / Lost,2023-11-11,2023-11-13,2,2,0,Mobile App,Escalated,4
+CMP00829,C00981,P008,Card Blocked / Lost,2024-04-04,2024-04-05,1,2,0,Call Centre,Resolved,5
+CMP00830,C00079,P003,Online Banking Issue,2023-03-05,2023-03-11,6,3,1,Mobile App,Resolved,4
+CMP00831,C00237,P002,Account Access,2023-12-16,2023-12-19,3,3,0,Online Banking,Escalated,5
+CMP00832,C01870,P002,Card Blocked / Lost,2024-06-27,2024-06-28,1,2,0,Branch,Resolved,4
+CMP00833,C01476,P006,Card Blocked / Lost,2024-01-05,2024-01-13,8,2,1,Branch,Resolved,3
+CMP00834,C01810,P009,Poor Service,2023-06-13,2023-06-19,6,10,0,Mobile App,Resolved,4
+CMP00835,C00371,P005,Loan Statement Error,2023-03-30,2023-04-02,3,7,0,Call Centre,Escalated,5
+CMP00836,C01572,P004,Incorrect Charges,2024-03-04,2024-03-09,5,5,0,Branch,Resolved,4
+CMP00837,C00182,P005,Incorrect Charges,2024-09-10,2024-09-13,3,5,0,Online Banking,Resolved,5
+CMP00838,C01323,P004,Account Access,2023-03-31,2023-04-06,6,3,1,Mobile App,Escalated,1
+CMP00839,C01734,P001,Card Blocked / Lost,2024-11-01,2024-11-03,2,2,0,Mobile App,Resolved,4
+CMP00840,C01439,P005,Loan Statement Error,2024-05-31,2024-06-04,4,7,0,ATM,Pending,5
+CMP00841,C01516,P003,Account Access,2024-04-21,2024-04-30,9,3,1,Mobile App,Resolved,4
+CMP00842,C01312,P002,Transaction Dispute,2023-03-21,2023-03-25,4,5,0,Call Centre,Resolved,5
+CMP00843,C01334,P003,Poor Service,2024-07-10,2024-07-19,9,10,0,Online Banking,Pending,3
+CMP00844,C01684,P010,Account Access,2023-02-21,2023-02-23,2,3,0,Call Centre,Resolved,4
+CMP00845,C00944,P001,Fraud Report,2024-11-12,2024-11-13,1,1,0,Mobile App,Escalated,2
+CMP00846,C01773,P010,Incorrect Charges,2023-01-10,2023-01-11,1,5,0,Branch,Resolved,5
+CMP00847,C01095,P006,Card Blocked / Lost,2023-06-22,2023-06-23,1,2,0,Call Centre,Pending,3
+CMP00848,C00031,P003,Transaction Dispute,2023-09-08,2023-09-14,6,5,1,ATM,Escalated,4
+CMP00849,C01810,P005,Poor Service,2024-09-04,2024-09-23,19,10,1,Mobile App,Pending,3
+CMP00850,C00396,P010,Poor Service,2023-08-17,2023-08-26,9,10,0,Online Banking,Resolved,5
+CMP00851,C00424,P002,Online Banking Issue,2024-02-26,2024-02-29,3,3,0,Online Banking,Resolved,3
+CMP00852,C00825,P007,Online Banking Issue,2023-01-27,2023-01-30,3,3,0,Online Banking,Resolved,3
+CMP00853,C01718,P010,Account Access,2023-04-12,2023-04-15,3,3,0,Mobile App,Resolved,5
+CMP00854,C01296,P003,Transaction Dispute,2023-06-18,2023-06-19,1,5,0,Call Centre,Resolved,5
+CMP00855,C00051,P004,Fraud Report,2024-06-01,2024-06-02,1,1,0,Mobile App,Resolved,4
+CMP00856,C01314,P007,Loan Statement Error,2023-10-28,2023-11-02,5,7,0,Call Centre,Resolved,4
+CMP00857,C01470,P008,Fraud Report,2024-03-28,2024-04-05,8,1,1,Online Banking,Pending,3
+CMP00858,C00322,P005,Loan Statement Error,2024-01-09,2024-01-14,5,7,0,Mobile App,Pending,4
+CMP00859,C00336,P009,Incorrect Charges,2024-07-10,2024-07-11,1,5,0,Mobile App,Resolved,4
+CMP00860,C01160,P005,Card Blocked / Lost,2023-08-26,2023-08-27,1,2,0,Mobile App,Resolved,4
+CMP00861,C01401,P004,Loan Statement Error,2023-03-08,2023-03-12,4,7,0,Online Banking,Pending,4
+CMP00862,C01700,P004,Account Access,2023-07-16,2023-07-17,1,3,0,Online Banking,Pending,1
+CMP00863,C00073,P002,Loan Statement Error,2023-02-11,2023-02-27,16,7,1,Branch,Resolved,4
+CMP00864,C01063,P009,Account Access,2023-05-19,2023-05-28,9,3,1,Mobile App,Resolved,4
+CMP00865,C00797,P004,Transaction Dispute,2024-09-15,2024-09-19,4,5,0,Call Centre,Pending,3
+CMP00866,C01398,P002,Poor Service,2024-11-29,2024-12-05,6,10,0,Mobile App,Pending,4
+CMP00867,C01808,P003,Transaction Dispute,2024-03-15,2024-03-20,5,5,0,Mobile App,Resolved,2
+CMP00868,C01858,P005,Poor Service,2023-06-30,2023-07-09,9,10,0,Branch,Pending,4
+CMP00869,C00035,P010,Account Access,2023-06-22,2023-06-23,1,3,0,Branch,Resolved,4
+CMP00870,C00519,P008,Loan Statement Error,2023-08-03,2023-08-10,7,7,0,Online Banking,Pending,4
+CMP00871,C01417,P005,Fraud Report,2023-07-27,2023-07-28,1,1,0,Call Centre,Resolved,5
+CMP00872,C00034,P008,Loan Statement Error,2023-09-20,2023-09-25,5,7,0,Online Banking,Resolved,5
+CMP00873,C00979,P005,Transaction Dispute,2023-04-15,2023-04-18,3,5,0,Mobile App,Resolved,4
+CMP00874,C01298,P001,Poor Service,2023-06-18,2023-06-21,3,10,0,Mobile App,Resolved,1
+CMP00875,C01696,P006,Fraud Report,2023-01-23,2023-01-24,1,1,0,Online Banking,Resolved,3
+CMP00876,C00275,P003,Online Banking Issue,2023-05-26,2023-05-29,3,3,0,Mobile App,Resolved,4
+CMP00877,C00632,P002,Incorrect Charges,2024-09-17,2024-09-23,6,5,1,Branch,Resolved,3
+CMP00878,C01444,P009,Card Blocked / Lost,2023-08-16,2023-08-18,2,2,0,Mobile App,Escalated,5
+CMP00879,C01752,P001,Online Banking Issue,2024-10-15,2024-10-18,3,3,0,Online Banking,Escalated,5
+CMP00880,C00504,P003,Incorrect Charges,2024-10-16,2024-10-17,1,5,0,Online Banking,Escalated,3
+CMP00881,C00431,P004,Poor Service,2023-06-22,2023-06-30,8,10,0,Mobile App,Resolved,4
+CMP00882,C00228,P009,Incorrect Charges,2023-08-30,2023-09-04,5,5,0,Branch,Resolved,4
+CMP00883,C01817,P001,Transaction Dispute,2024-04-15,2024-04-16,1,5,0,Mobile App,Resolved,4
+CMP00884,C00560,P009,Incorrect Charges,2024-01-09,2024-01-14,5,5,0,Mobile App,Resolved,3
+CMP00885,C01132,P003,Incorrect Charges,2023-10-27,2023-10-28,1,5,0,ATM,Pending,4
+CMP00886,C00115,P004,Poor Service,2023-05-10,2023-05-15,5,10,0,Mobile App,Escalated,4
+CMP00887,C01514,P006,Card Blocked / Lost,2024-11-14,2024-11-15,1,2,0,Call Centre,Resolved,4
+CMP00888,C00587,P002,Loan Statement Error,2024-05-16,2024-05-20,4,7,0,Online Banking,Pending,2
+CMP00889,C01008,P008,Incorrect Charges,2024-03-22,2024-04-05,14,5,1,Call Centre,Resolved,4
+CMP00890,C00422,P007,Card Blocked / Lost,2024-06-04,2024-06-05,1,2,0,Online Banking,Pending,5
+CMP00891,C00235,P006,Transaction Dispute,2024-05-25,2024-06-07,13,5,1,Branch,Resolved,5
+CMP00892,C01369,P003,Transaction Dispute,2023-11-27,2023-11-28,1,5,0,Mobile App,Resolved,2
+CMP00893,C01708,P008,Card Blocked / Lost,2024-07-09,2024-07-11,2,2,0,Branch,Resolved,2
+CMP00894,C01412,P003,Fraud Report,2023-10-28,2023-11-03,6,1,1,Mobile App,Resolved,4
+CMP00895,C00847,P003,Incorrect Charges,2023-08-14,2023-08-17,3,5,0,Branch,Resolved,5
+CMP00896,C00186,P009,Online Banking Issue,2024-06-08,2024-06-10,2,3,0,Online Banking,Pending,5
+CMP00897,C01296,P002,Card Blocked / Lost,2024-03-15,2024-03-17,2,2,0,Online Banking,Resolved,5
+CMP00898,C01414,P002,Loan Statement Error,2024-04-05,2024-04-08,3,7,0,Mobile App,Pending,4
+CMP00899,C00970,P004,Loan Statement Error,2023-10-27,2023-11-11,15,7,1,Online Banking,Resolved,3
+CMP00900,C01385,P005,Incorrect Charges,2023-01-24,2023-02-01,8,5,1,Mobile App,Resolved,2
+CMP00901,C01255,P003,Poor Service,2024-09-22,2024-09-29,7,10,0,Online Banking,Resolved,4
+CMP00902,C01702,P009,Poor Service,2024-10-04,2024-10-07,3,10,0,ATM,Escalated,4
+CMP00903,C00119,P004,Loan Statement Error,2023-08-18,2023-08-20,2,7,0,ATM,Resolved,5
+CMP00904,C00693,P009,Incorrect Charges,2023-09-17,2023-09-26,9,5,1,Branch,Resolved,3
+CMP00905,C00364,P004,Loan Statement Error,2024-08-09,2024-08-13,4,7,0,Mobile App,Pending,4
+CMP00906,C00024,P001,Incorrect Charges,2023-09-20,2023-09-24,4,5,0,Online Banking,Resolved,3
+CMP00907,C01124,P002,Poor Service,2023-11-16,2023-11-26,10,10,0,Call Centre,Pending,5
+CMP00908,C00237,P006,Online Banking Issue,2024-03-25,2024-03-26,1,3,0,Call Centre,Resolved,5
+CMP00909,C01785,P007,Poor Service,2024-12-09,2024-12-11,2,10,0,Call Centre,Resolved,4
+CMP00910,C01588,P001,Card Blocked / Lost,2024-01-22,2024-01-23,1,2,0,Mobile App,Resolved,5
+CMP00911,C00891,P005,Incorrect Charges,2023-05-13,2023-05-15,2,5,0,Branch,Resolved,5
+CMP00912,C01997,P006,Online Banking Issue,2024-03-17,2024-03-20,3,3,0,Online Banking,Escalated,4
+CMP00913,C00015,P001,Loan Statement Error,2024-05-27,2024-06-07,11,7,1,Branch,Escalated,2
+CMP00914,C01261,P007,Poor Service,2024-06-06,2024-06-12,6,10,0,ATM,Pending,4
+CMP00915,C01399,P006,Incorrect Charges,2023-03-25,2023-04-02,8,5,1,Call Centre,Resolved,4
+CMP00916,C01792,P008,Loan Statement Error,2023-08-28,2023-08-31,3,7,0,Online Banking,Resolved,5
+CMP00917,C00894,P004,Transaction Dispute,2024-10-25,2024-11-01,7,5,1,Call Centre,Escalated,3
+CMP00918,C01403,P004,Online Banking Issue,2023-09-18,2023-09-19,1,3,0,Call Centre,Resolved,2
+CMP00919,C01034,P002,Account Access,2023-01-01,2023-01-02,1,3,0,Mobile App,Resolved,5
+CMP00920,C00010,P003,Account Access,2024-09-30,2024-10-11,11,3,1,Online Banking,Pending,4
+CMP00921,C01333,P006,Loan Statement Error,2023-11-06,2023-11-21,15,7,1,Call Centre,Pending,2
+CMP00922,C01073,P010,Card Blocked / Lost,2023-01-01,2023-01-12,11,2,1,Branch,Resolved,5
+CMP00923,C01433,P004,Fraud Report,2024-05-16,2024-05-17,1,1,0,Mobile App,Resolved,5
+CMP00924,C00704,P003,Card Blocked / Lost,2024-06-18,2024-06-19,1,2,0,Call Centre,Pending,3
+CMP00925,C00922,P008,Poor Service,2023-09-30,2023-10-16,16,10,1,ATM,Resolved,4
+CMP00926,C00469,P002,Incorrect Charges,2023-01-28,2023-02-02,5,5,0,Call Centre,Resolved,4
+CMP00927,C00903,P009,Transaction Dispute,2023-11-08,2023-11-19,11,5,1,Call Centre,Resolved,5
+CMP00928,C01451,P007,Transaction Dispute,2023-06-21,2023-06-28,7,5,1,Mobile App,Resolved,5
+CMP00929,C01776,P008,Card Blocked / Lost,2024-03-07,2024-03-09,2,2,0,Call Centre,Resolved,3
+CMP00930,C00830,P002,Loan Statement Error,2023-09-15,2023-09-18,3,7,0,Mobile App,Resolved,5
+CMP00931,C00563,P007,Fraud Report,2023-07-10,2023-07-13,3,1,1,Online Banking,Resolved,4
+CMP00932,C01245,P003,Incorrect Charges,2024-11-26,2024-12-05,9,5,1,Mobile App,Resolved,4
+CMP00933,C00148,P010,Card Blocked / Lost,2023-10-02,2023-10-13,11,2,1,Online Banking,Resolved,5
+CMP00934,C01839,P006,Online Banking Issue,2023-01-22,2023-02-03,12,3,1,Mobile App,Resolved,4
+CMP00935,C01804,P005,Account Access,2023-05-24,2023-05-25,1,3,0,Mobile App,Pending,4
+CMP00936,C00787,P008,Transaction Dispute,2023-08-18,2023-08-22,4,5,0,Online Banking,Resolved,3
+CMP00937,C01364,P004,Account Access,2023-05-30,2023-05-31,1,3,0,Branch,Pending,4
+CMP00938,C00239,P006,Account Access,2023-11-05,2023-11-10,5,3,1,Mobile App,Escalated,5
+CMP00939,C00878,P002,Fraud Report,2023-10-28,2023-10-29,1,1,0,ATM,Resolved,3
+CMP00940,C01848,P008,Poor Service,2024-11-10,2024-11-22,12,10,1,Branch,Resolved,4
+CMP00941,C00367,P005,Transaction Dispute,2023-06-25,2023-06-26,1,5,0,Branch,Pending,3
+CMP00942,C00509,P009,Poor Service,2023-10-30,2023-11-03,4,10,0,ATM,Escalated,4
+CMP00943,C01656,P004,Account Access,2023-07-26,2023-07-29,3,3,0,Branch,Resolved,5
+CMP00944,C00209,P009,Card Blocked / Lost,2023-11-05,2023-11-07,2,2,0,Online Banking,Pending,5
+CMP00945,C00117,P005,Online Banking Issue,2024-01-08,2024-01-09,1,3,0,Mobile App,Pending,5
+CMP00946,C01591,P003,Online Banking Issue,2023-07-15,2023-07-23,8,3,1,Branch,Pending,5
+CMP00947,C00662,P008,Loan Statement Error,2024-06-02,2024-06-06,4,7,0,Mobile App,Escalated,4
+CMP00948,C00680,P006,Poor Service,2023-05-11,2023-05-16,5,10,0,Call Centre,Pending,4
+CMP00949,C01241,P006,Loan Statement Error,2023-04-10,2023-04-16,6,7,0,Online Banking,Resolved,3
+CMP00950,C01927,P008,Transaction Dispute,2024-12-25,2024-12-31,13,5,1,Call Centre,Escalated,1
+CMP00951,C01634,P006,Card Blocked / Lost,2024-10-12,2024-10-13,1,2,0,Online Banking,Resolved,4
+CMP00952,C01682,P003,Online Banking Issue,2023-05-25,2023-06-03,9,3,1,Branch,Resolved,5
+CMP00953,C00863,P004,Loan Statement Error,2023-02-03,2023-02-06,3,7,0,Call Centre,Resolved,4
+CMP00954,C00144,P002,Loan Statement Error,2023-08-15,2023-08-19,4,7,0,Branch,Pending,2
+CMP00955,C00105,P010,Card Blocked / Lost,2024-04-22,2024-04-24,2,2,0,Branch,Escalated,4
+CMP00956,C01464,P009,Fraud Report,2023-10-21,2023-10-28,7,1,1,Online Banking,Escalated,5
+CMP00957,C01040,P002,Loan Statement Error,2024-07-18,2024-07-22,4,7,0,Online Banking,Pending,2
+CMP00958,C00380,P005,Transaction Dispute,2024-01-30,2024-02-10,11,5,1,Mobile App,Pending,4
+CMP00959,C00536,P010,Account Access,2023-02-21,2023-02-24,3,3,0,Branch,Resolved,5
+CMP00960,C00278,P005,Card Blocked / Lost,2024-03-12,2024-03-13,1,2,0,Online Banking,Resolved,3
+CMP00961,C00786,P007,Account Access,2023-01-10,2023-01-13,3,3,0,Branch,Escalated,4
+CMP00962,C01032,P005,Loan Statement Error,2024-03-13,2024-03-15,2,7,0,Online Banking,Pending,5
+CMP00963,C00830,P003,Transaction Dispute,2024-03-17,2024-03-25,8,5,1,Call Centre,Pending,4
+CMP00964,C01748,P005,Account Access,2023-04-22,2023-04-25,3,3,0,Online Banking,Resolved,4
+CMP00965,C00726,P009,Online Banking Issue,2024-04-08,2024-04-11,3,3,0,Call Centre,Pending,3
+CMP00966,C01385,P001,Online Banking Issue,2023-06-27,2023-07-07,10,3,1,Mobile App,Resolved,2
+CMP00967,C00270,P001,Card Blocked / Lost,2024-09-21,2024-09-25,4,2,1,Mobile App,Resolved,2
+CMP00968,C01466,P009,Fraud Report,2024-06-17,2024-06-18,1,1,0,Branch,Resolved,4
+CMP00969,C01183,P004,Incorrect Charges,2023-02-12,2023-02-24,12,5,1,Call Centre,Escalated,4
+CMP00970,C00068,P004,Poor Service,2024-04-02,2024-04-05,3,10,0,Online Banking,Pending,3
+CMP00971,C00724,P003,Fraud Report,2024-08-05,2024-08-06,1,1,0,Mobile App,Escalated,5
+CMP00972,C01334,P004,Fraud Report,2023-02-15,2023-02-26,11,1,1,Branch,Resolved,5
+CMP00973,C00983,P005,Poor Service,2023-06-09,2023-06-21,12,10,1,Mobile App,Pending,3
+CMP00974,C01260,P007,Fraud Report,2024-06-21,2024-06-22,1,1,0,Online Banking,Resolved,4
+CMP00975,C01019,P010,Loan Statement Error,2024-12-07,2024-12-13,6,7,0,Mobile App,Resolved,4
+CMP00976,C01465,P010,Online Banking Issue,2024-09-10,2024-09-15,5,3,1,Branch,Resolved,4
+CMP00977,C00701,P005,Poor Service,2024-08-10,2024-08-16,6,10,0,Branch,Pending,4
+CMP00978,C00855,P010,Transaction Dispute,2023-03-12,2023-03-17,5,5,0,Online Banking,Resolved,4
+CMP00979,C01001,P004,Account Access,2023-07-08,2023-07-10,2,3,0,Online Banking,Resolved,2
+CMP00980,C01425,P006,Fraud Report,2024-03-07,2024-03-08,1,1,0,Mobile App,Escalated,5
+CMP00981,C00282,P010,Fraud Report,2024-12-04,2024-12-05,1,1,0,Branch,Resolved,5
+CMP00982,C01757,P003,Online Banking Issue,2024-02-24,2024-02-26,2,3,0,Branch,Resolved,2
+CMP00983,C00671,P006,Account Access,2024-04-09,2024-04-10,1,3,0,Mobile App,Resolved,5
+CMP00984,C00440,P004,Loan Statement Error,2024-06-22,2024-07-02,10,7,1,Online Banking,Resolved,4
+CMP00985,C00553,P003,Incorrect Charges,2024-06-19,2024-06-21,2,5,0,Online Banking,Resolved,3
+CMP00986,C01067,P007,Card Blocked / Lost,2023-07-08,2023-07-10,2,2,0,Branch,Escalated,2
+CMP00987,C00820,P005,Card Blocked / Lost,2023-08-26,2023-08-28,2,2,0,Branch,Resolved,4
+CMP00988,C01671,P006,Transaction Dispute,2023-02-12,2023-02-19,7,5,1,Online Banking,Resolved,2
+CMP00989,C01114,P005,Account Access,2023-11-16,2023-11-19,3,3,0,Call Centre,Resolved,5
+CMP00990,C01842,P009,Account Access,2023-04-20,2023-04-23,3,3,0,Call Centre,Escalated,3
+CMP00991,C01010,P006,Transaction Dispute,2024-07-13,2024-07-14,1,5,0,Mobile App,Escalated,5
+CMP00992,C00015,P009,Incorrect Charges,2024-05-24,2024-05-26,2,5,0,Online Banking,Escalated,1
+CMP00993,C01118,P006,Fraud Report,2024-01-21,2024-01-22,1,1,0,ATM,Escalated,3
+CMP00994,C01783,P004,Poor Service,2023-08-26,2023-09-02,7,10,0,ATM,Resolved,3
+CMP00995,C00631,P006,Online Banking Issue,2024-08-06,2024-08-15,9,3,1,Branch,Resolved,5
+CMP00996,C01189,P008,Account Access,2023-10-07,2023-10-10,3,3,0,Mobile App,Resolved,4
+CMP00997,C00969,P004,Loan Statement Error,2023-09-01,2023-09-06,5,7,0,Call Centre,Resolved,4
+CMP00998,C01104,P010,Poor Service,2024-07-03,2024-07-10,7,10,0,Branch,Resolved,3
+CMP00999,C00452,P005,Incorrect Charges,2024-01-01,2024-01-05,4,5,0,Branch,Escalated,3
+CMP01000,C00922,P004,Account Access,2023-10-09,2023-10-11,2,3,0,Mobile App,Resolved,2
+CMP01001,C01805,P004,Fraud Report,2023-10-12,2023-10-13,1,1,0,Mobile App,Pending,4
+CMP01002,C01197,P010,Card Blocked / Lost,2024-04-27,2024-04-28,1,2,0,Mobile App,Escalated,4
+CMP01003,C01474,P009,Fraud Report,2024-01-15,2024-01-16,1,1,0,Mobile App,Resolved,2
+CMP01004,C01314,P005,Loan Statement Error,2023-03-10,2023-03-19,9,7,1,Mobile App,Resolved,3
+CMP01005,C00838,P009,Online Banking Issue,2023-04-21,2023-04-24,3,3,0,Online Banking,Resolved,2
+CMP01006,C00862,P007,Card Blocked / Lost,2024-12-17,2024-12-19,2,2,0,Mobile App,Resolved,4
+CMP01007,C00939,P001,Fraud Report,2024-08-26,2024-08-27,1,1,0,Online Banking,Resolved,2
+CMP01008,C00693,P010,Transaction Dispute,2023-06-04,2023-06-12,8,5,1,Online Banking,Pending,4
+CMP01009,C01523,P006,Fraud Report,2024-11-22,2024-11-23,1,1,0,Online Banking,Resolved,1
+CMP01010,C00533,P009,Incorrect Charges,2024-04-03,2024-04-11,8,5,1,Mobile App,Resolved,5
+CMP01011,C00397,P005,Incorrect Charges,2023-09-23,2023-10-05,12,5,1,Mobile App,Resolved,4
+CMP01012,C01033,P002,Fraud Report,2023-10-08,2023-10-09,1,1,0,Mobile App,Resolved,3
+CMP01013,C00519,P008,Transaction Dispute,2023-06-04,2023-06-07,3,5,0,Online Banking,Pending,3
+CMP01014,C01353,P005,Transaction Dispute,2023-08-05,2023-08-07,2,5,0,ATM,Resolved,4
+CMP01015,C01159,P008,Incorrect Charges,2023-01-20,2023-01-22,2,5,0,Online Banking,Resolved,5
+CMP01016,C01949,P005,Transaction Dispute,2023-02-04,2023-02-07,3,5,0,Call Centre,Resolved,5
+CMP01017,C01813,P003,Incorrect Charges,2024-05-13,2024-05-18,5,5,0,Mobile App,Escalated,4
+CMP01018,C01502,P008,Transaction Dispute,2023-08-23,2023-09-02,10,5,1,Online Banking,Resolved,4
+CMP01019,C01573,P009,Transaction Dispute,2024-08-21,2024-08-22,1,5,0,Online Banking,Pending,4
+CMP01020,C01247,P005,Online Banking Issue,2023-06-07,2023-06-16,9,3,1,Call Centre,Resolved,2
+CMP01021,C00461,P009,Transaction Dispute,2024-07-02,2024-07-17,15,5,1,Online Banking,Resolved,3
+CMP01022,C00407,P001,Card Blocked / Lost,2024-08-02,2024-08-03,1,2,0,Call Centre,Pending,4
+CMP01023,C00746,P005,Card Blocked / Lost,2023-11-04,2023-11-07,3,2,1,Branch,Resolved,5
+CMP01024,C01258,P001,Incorrect Charges,2024-06-16,2024-06-20,4,5,0,Call Centre,Pending,4
+CMP01025,C00775,P010,Incorrect Charges,2024-10-01,2024-10-04,3,5,0,Mobile App,Resolved,3
+CMP01026,C01251,P001,Poor Service,2024-09-10,2024-09-11,1,10,0,Mobile App,Resolved,5
+CMP01027,C01982,P002,Account Access,2024-02-09,2024-02-14,5,3,1,Call Centre,Resolved,5
+CMP01028,C00544,P003,Card Blocked / Lost,2023-06-19,2023-06-21,2,2,0,Branch,Escalated,4
+CMP01029,C01565,P002,Loan Statement Error,2023-10-26,2023-10-29,3,7,0,Branch,Resolved,4
+CMP01030,C01598,P002,Transaction Dispute,2024-09-28,2024-10-07,9,5,1,Mobile App,Resolved,5
+CMP01031,C00394,P005,Account Access,2023-04-02,2023-04-06,4,3,1,Mobile App,Escalated,5
+CMP01032,C00153,P009,Card Blocked / Lost,2024-08-22,2024-08-27,5,2,1,Branch,Pending,1
+CMP01033,C01592,P009,Fraud Report,2024-09-09,2024-09-10,1,1,0,Branch,Resolved,3
+CMP01034,C01234,P003,Incorrect Charges,2024-02-04,2024-02-09,5,5,0,Mobile App,Resolved,4
+CMP01035,C00338,P010,Incorrect Charges,2023-08-28,2023-08-30,2,5,0,Online Banking,Resolved,5
+CMP01036,C00574,P004,Account Access,2024-01-22,2024-01-23,1,3,0,Online Banking,Resolved,4
+CMP01037,C01939,P002,Card Blocked / Lost,2024-01-08,2024-01-10,2,2,0,Mobile App,Resolved,3
+CMP01038,C00802,P008,Online Banking Issue,2024-11-01,2024-11-03,2,3,0,Mobile App,Resolved,4
+CMP01039,C00984,P004,Loan Statement Error,2024-05-06,2024-05-09,3,7,0,Online Banking,Pending,3
+CMP01040,C00615,P005,Fraud Report,2023-05-09,2023-05-20,11,1,1,Call Centre,Resolved,1
+CMP01041,C01888,P003,Loan Statement Error,2024-09-23,2024-09-29,6,7,0,Online Banking,Resolved,5
+CMP01042,C00807,P010,Card Blocked / Lost,2023-03-30,2023-04-09,10,2,1,Mobile App,Resolved,4
+CMP01043,C01198,P001,Transaction Dispute,2023-07-13,2023-07-16,3,5,0,Call Centre,Resolved,2
+CMP01044,C00797,P004,Incorrect Charges,2024-06-13,2024-06-21,8,5,1,ATM,Escalated,1
+CMP01045,C00719,P002,Account Access,2024-07-06,2024-07-08,2,3,0,Mobile App,Resolved,4
+CMP01046,C01988,P006,Fraud Report,2024-10-02,2024-10-09,7,1,1,Branch,Pending,4
+CMP01047,C01532,P008,Incorrect Charges,2024-08-16,2024-08-20,4,5,0,Branch,Escalated,3
+CMP01048,C01925,P008,Online Banking Issue,2023-06-05,2023-06-07,2,3,0,Branch,Escalated,3
+CMP01049,C00487,P006,Poor Service,2024-07-18,2024-07-27,9,10,0,Online Banking,Resolved,5
+CMP01050,C01756,P004,Poor Service,2024-09-24,2024-09-28,4,10,0,Call Centre,Escalated,3
+CMP01051,C00092,P006,Poor Service,2023-04-20,2023-04-23,3,10,0,Online Banking,Resolved,3
+CMP01052,C01387,P009,Poor Service,2024-05-31,2024-06-14,14,10,1,Online Banking,Escalated,5
+CMP01053,C01372,P006,Online Banking Issue,2023-11-29,2023-12-08,9,3,1,Online Banking,Resolved,3
+CMP01054,C01597,P008,Online Banking Issue,2023-07-18,2023-07-24,6,3,1,Online Banking,Escalated,5
+CMP01055,C00663,P008,Loan Statement Error,2024-08-27,2024-08-30,3,7,0,Branch,Pending,5
+CMP01056,C00241,P006,Online Banking Issue,2023-02-13,2023-02-16,3,3,0,Branch,Resolved,3
+CMP01057,C01491,P006,Card Blocked / Lost,2023-11-12,2023-11-24,12,2,1,Online Banking,Escalated,4
+CMP01058,C00304,P007,Fraud Report,2023-07-27,2023-07-28,1,1,0,Branch,Resolved,1
+CMP01059,C00568,P006,Online Banking Issue,2023-04-02,2023-04-03,1,3,0,Online Banking,Pending,4
+CMP01060,C01559,P008,Incorrect Charges,2024-02-11,2024-02-14,3,5,0,Call Centre,Pending,5
+CMP01061,C00781,P008,Fraud Report,2023-10-22,2023-10-23,1,1,0,Branch,Pending,4
+CMP01062,C00124,P005,Poor Service,2024-07-07,2024-07-08,1,10,0,Online Banking,Pending,5
+CMP01063,C00418,P008,Loan Statement Error,2024-08-04,2024-08-08,4,7,0,Mobile App,Resolved,2
+CMP01064,C01292,P008,Transaction Dispute,2023-07-22,2023-08-06,15,5,1,Mobile App,Resolved,3
+CMP01065,C01791,P010,Poor Service,2023-09-14,2023-09-21,7,10,0,Call Centre,Resolved,4
+CMP01066,C00624,P007,Fraud Report,2024-01-13,2024-01-14,1,1,0,ATM,Resolved,5
+CMP01067,C00022,P005,Transaction Dispute,2023-10-10,2023-10-14,4,5,0,Online Banking,Resolved,3
+CMP01068,C00247,P001,Card Blocked / Lost,2024-01-09,2024-01-11,2,2,0,Online Banking,Pending,5
+CMP01069,C00807,P009,Fraud Report,2024-04-27,2024-04-28,1,1,0,Mobile App,Resolved,4
+CMP01070,C01799,P003,Account Access,2023-07-17,2023-07-30,13,3,1,Mobile App,Resolved,3
+CMP01071,C01992,P007,Card Blocked / Lost,2023-09-05,2023-09-06,1,2,0,Branch,Escalated,3
+CMP01072,C00786,P004,Poor Service,2023-10-01,2023-10-03,2,10,0,Call Centre,Pending,1
+CMP01073,C01466,P006,Fraud Report,2023-11-12,2023-11-13,1,1,0,Mobile App,Resolved,2
+CMP01074,C01573,P010,Account Access,2023-07-02,2023-07-04,2,3,0,Mobile App,Resolved,5
+CMP01075,C00653,P005,Card Blocked / Lost,2023-03-09,2023-03-11,2,2,0,Call Centre,Resolved,3
+CMP01076,C01332,P002,Incorrect Charges,2024-07-21,2024-07-26,5,5,0,Call Centre,Pending,3
+CMP01077,C01797,P009,Loan Statement Error,2023-08-23,2023-09-03,11,7,1,Branch,Resolved,3
+CMP01078,C01538,P004,Online Banking Issue,2023-11-11,2023-11-14,3,3,0,Mobile App,Resolved,4
+CMP01079,C00307,P008,Loan Statement Error,2024-04-28,2024-05-01,3,7,0,Branch,Resolved,2
+CMP01080,C01111,P007,Card Blocked / Lost,2023-07-31,2023-08-02,2,2,0,Call Centre,Escalated,4
+CMP01081,C01161,P010,Loan Statement Error,2023-01-04,2023-01-07,3,7,0,Online Banking,Resolved,4
+CMP01082,C01229,P005,Online Banking Issue,2024-12-20,2024-12-22,2,3,0,Call Centre,Resolved,4
+CMP01083,C00260,P006,Online Banking Issue,2023-12-09,2023-12-11,2,3,0,ATM,Resolved,3
+CMP01084,C01539,P007,Incorrect Charges,2024-03-06,2024-03-13,7,5,1,Call Centre,Escalated,5
+CMP01085,C01534,P004,Fraud Report,2024-06-08,2024-06-09,1,1,0,Mobile App,Resolved,4
+CMP01086,C00323,P003,Poor Service,2024-03-13,2024-03-24,11,10,1,Online Banking,Resolved,4
+CMP01087,C01103,P002,Incorrect Charges,2024-07-19,2024-07-21,2,5,0,Call Centre,Resolved,5
+CMP01088,C01807,P007,Incorrect Charges,2023-09-02,2023-09-04,2,5,0,Online Banking,Resolved,4
+CMP01089,C00208,P004,Incorrect Charges,2024-09-07,2024-09-12,5,5,0,Branch,Pending,3
+CMP01090,C01352,P002,Loan Statement Error,2023-01-05,2023-01-07,2,7,0,Call Centre,Escalated,5
+CMP01091,C00220,P006,Online Banking Issue,2023-05-07,2023-05-09,2,3,0,Mobile App,Escalated,2
+CMP01092,C00050,P001,Poor Service,2024-03-21,2024-03-31,10,10,0,Branch,Resolved,4
+CMP01093,C01823,P003,Account Access,2024-04-21,2024-04-22,1,3,0,Mobile App,Resolved,5
+CMP01094,C01447,P002,Incorrect Charges,2024-07-14,2024-07-19,5,5,0,Branch,Pending,5
+CMP01095,C00897,P009,Account Access,2024-07-01,2024-07-02,1,3,0,Call Centre,Resolved,5
+CMP01096,C01536,P007,Fraud Report,2024-06-18,2024-06-21,3,1,1,Branch,Resolved,4
+CMP01097,C00993,P005,Card Blocked / Lost,2023-04-04,2023-04-13,9,2,1,Mobile App,Resolved,5
+CMP01098,C00134,P002,Account Access,2024-06-07,2024-06-10,3,3,0,Call Centre,Resolved,4
+CMP01099,C01829,P010,Poor Service,2023-12-01,2023-12-13,12,10,1,Branch,Pending,4
+CMP01100,C01900,P001,Fraud Report,2023-04-16,2023-04-17,1,1,0,Online Banking,Pending,3
+CMP01101,C00351,P007,Poor Service,2023-06-28,2023-06-29,1,10,0,Call Centre,Pending,5
+CMP01102,C01898,P010,Card Blocked / Lost,2023-01-02,2023-01-09,7,2,1,Online Banking,Pending,4
+CMP01103,C00094,P005,Account Access,2024-02-26,2024-02-27,1,3,0,Call Centre,Resolved,3
+CMP01104,C01800,P004,Online Banking Issue,2024-01-27,2024-01-30,3,3,0,ATM,Resolved,5
+CMP01105,C01459,P009,Online Banking Issue,2024-08-21,2024-09-01,11,3,1,Branch,Resolved,3
+CMP01106,C01145,P003,Account Access,2024-06-09,2024-06-11,2,3,0,Branch,Resolved,4
+CMP01107,C00861,P006,Incorrect Charges,2024-01-20,2024-02-04,15,5,1,Call Centre,Pending,3
+CMP01108,C00729,P007,Incorrect Charges,2023-07-12,2023-07-13,1,5,0,Branch,Resolved,4
+CMP01109,C00907,P010,Loan Statement Error,2024-07-26,2024-07-31,5,7,0,Online Banking,Resolved,1
+CMP01110,C00902,P009,Incorrect Charges,2024-12-20,2024-12-31,11,5,1,ATM,Resolved,4
+CMP01111,C01083,P009,Online Banking Issue,2024-10-28,2024-10-30,2,3,0,Mobile App,Pending,5
+CMP01112,C00968,P008,Card Blocked / Lost,2024-07-17,2024-07-19,2,2,0,Mobile App,Resolved,3
+CMP01113,C01124,P008,Fraud Report,2023-06-04,2023-06-05,1,1,0,Call Centre,Resolved,3
+CMP01114,C00635,P009,Loan Statement Error,2024-04-12,2024-04-22,10,7,1,Call Centre,Resolved,5
+CMP01115,C01203,P006,Loan Statement Error,2023-12-20,2023-12-29,9,7,1,Online Banking,Pending,4
+CMP01116,C00840,P009,Transaction Dispute,2023-09-02,2023-09-08,6,5,1,Branch,Resolved,4
+CMP01117,C00130,P006,Loan Statement Error,2023-10-20,2023-10-22,2,7,0,Mobile App,Resolved,4
+CMP01118,C00629,P010,Account Access,2023-08-16,2023-08-17,1,3,0,Mobile App,Pending,3
+CMP01119,C01868,P001,Account Access,2023-11-29,2023-11-30,1,3,0,Call Centre,Resolved,4
+CMP01120,C00847,P007,Fraud Report,2024-02-25,2024-03-02,6,1,1,Call Centre,Resolved,5
+CMP01121,C00604,P006,Transaction Dispute,2024-01-08,2024-01-11,3,5,0,Online Banking,Resolved,4
+CMP01122,C00514,P010,Fraud Report,2023-09-10,2023-09-11,1,1,0,Online Banking,Resolved,3
+CMP01123,C00546,P010,Account Access,2023-11-14,2023-11-17,3,3,0,Mobile App,Resolved,4
+CMP01124,C00388,P010,Loan Statement Error,2024-02-18,2024-02-24,6,7,0,Mobile App,Resolved,4
+CMP01125,C01920,P010,Incorrect Charges,2024-11-17,2024-11-18,1,5,0,Branch,Escalated,3
+CMP01126,C00150,P005,Card Blocked / Lost,2024-05-05,2024-05-06,1,2,0,Call Centre,Pending,3
+CMP01127,C01431,P010,Transaction Dispute,2023-08-29,2023-09-01,3,5,0,Mobile App,Pending,4
+CMP01128,C01460,P007,Incorrect Charges,2024-07-30,2024-08-04,5,5,0,Online Banking,Resolved,4
+CMP01129,C00525,P008,Transaction Dispute,2024-04-11,2024-04-22,11,5,1,Online Banking,Resolved,4
+CMP01130,C01502,P007,Online Banking Issue,2023-02-01,2023-02-03,2,3,0,ATM,Resolved,3
+CMP01131,C00307,P010,Card Blocked / Lost,2023-04-05,2023-04-06,1,2,0,Branch,Resolved,5
+CMP01132,C00182,P004,Incorrect Charges,2023-02-12,2023-02-14,2,5,0,Branch,Resolved,5
+CMP01133,C01209,P010,Poor Service,2023-12-01,2023-12-20,19,10,1,ATM,Resolved,5
+CMP01134,C00249,P005,Account Access,2023-03-12,2023-03-16,4,3,1,Branch,Pending,5
+CMP01135,C00756,P006,Transaction Dispute,2024-05-27,2024-05-30,3,5,0,Mobile App,Pending,5
+CMP01136,C01421,P008,Transaction Dispute,2024-01-19,2024-01-21,2,5,0,Mobile App,Resolved,3
+CMP01137,C01719,P004,Card Blocked / Lost,2023-02-18,2023-02-19,1,2,0,Mobile App,Escalated,4
+CMP01138,C00064,P005,Poor Service,2023-09-09,2023-09-11,2,10,0,Call Centre,Resolved,5
+CMP01139,C00999,P006,Loan Statement Error,2023-03-18,2023-03-22,4,7,0,Mobile App,Resolved,5
+CMP01140,C01769,P003,Online Banking Issue,2024-10-15,2024-10-18,3,3,0,Online Banking,Pending,5
+CMP01141,C01485,P008,Account Access,2024-03-16,2024-03-18,2,3,0,Branch,Resolved,4
+CMP01142,C01332,P004,Online Banking Issue,2023-10-15,2023-10-17,2,3,0,Branch,Escalated,3
+CMP01143,C00031,P009,Poor Service,2023-10-18,2023-11-06,19,10,1,Mobile App,Resolved,2
+CMP01144,C00499,P004,Fraud Report,2023-07-06,2023-07-07,1,1,0,Mobile App,Pending,4
+CMP01145,C01350,P008,Online Banking Issue,2023-12-08,2023-12-11,3,3,0,Mobile App,Resolved,3
+CMP01146,C00276,P001,Transaction Dispute,2024-05-03,2024-05-14,11,5,1,Online Banking,Resolved,3
+CMP01147,C01788,P009,Fraud Report,2023-08-03,2023-08-04,1,1,0,Branch,Resolved,4
+CMP01148,C01376,P004,Transaction Dispute,2024-10-02,2024-10-07,5,5,0,Online Banking,Escalated,5
+CMP01149,C01774,P003,Fraud Report,2024-01-13,2024-01-14,1,1,0,Online Banking,Resolved,2
+CMP01150,C00825,P007,Account Access,2024-01-30,2024-02-01,2,3,0,Online Banking,Escalated,4
+CMP01151,C00790,P004,Card Blocked / Lost,2024-05-04,2024-05-05,1,2,0,ATM,Escalated,3
+CMP01152,C01459,P002,Transaction Dispute,2023-10-26,2023-10-27,1,5,0,Call Centre,Resolved,2
+CMP01153,C01680,P010,Fraud Report,2023-11-13,2023-11-14,1,1,0,Call Centre,Escalated,3
+CMP01154,C00001,P004,Transaction Dispute,2023-11-22,2023-12-01,9,5,1,Online Banking,Resolved,5
+CMP01155,C01726,P006,Card Blocked / Lost,2023-03-24,2023-03-26,2,2,0,Call Centre,Resolved,1
+CMP01156,C01061,P003,Online Banking Issue,2024-08-26,2024-08-29,3,3,0,Online Banking,Escalated,3
+CMP01157,C01873,P002,Loan Statement Error,2023-01-15,2023-01-27,12,7,1,Mobile App,Resolved,5
+CMP01158,C01302,P010,Fraud Report,2023-03-07,2023-03-08,1,1,0,Call Centre,Resolved,5
+CMP01159,C01079,P004,Card Blocked / Lost,2023-08-11,2023-08-23,12,2,1,Branch,Resolved,4
+CMP01160,C01428,P002,Fraud Report,2023-05-15,2023-05-20,5,1,1,ATM,Resolved,5
+CMP01161,C01984,P005,Fraud Report,2023-07-20,2023-07-21,1,1,0,ATM,Escalated,5
+CMP01162,C00063,P005,Account Access,2024-05-16,2024-05-17,1,3,0,Mobile App,Resolved,3
+CMP01163,C00127,P002,Loan Statement Error,2024-02-18,2024-02-22,4,7,0,Branch,Resolved,5
+CMP01164,C01880,P006,Poor Service,2023-02-09,2023-02-13,4,10,0,Branch,Resolved,3
+CMP01165,C00392,P010,Fraud Report,2024-01-07,2024-01-08,1,1,0,Branch,Escalated,4
+CMP01166,C01006,P007,Loan Statement Error,2024-03-14,2024-03-16,2,7,0,Branch,Resolved,5
+CMP01167,C00716,P004,Incorrect Charges,2023-05-25,2023-06-06,12,5,1,Mobile App,Escalated,4
+CMP01168,C01330,P007,Loan Statement Error,2023-05-14,2023-05-21,7,7,0,Branch,Resolved,3
+CMP01169,C00919,P006,Fraud Report,2024-10-03,2024-10-04,1,1,0,Online Banking,Pending,4
+CMP01170,C01584,P008,Card Blocked / Lost,2023-11-04,2023-11-05,1,2,0,Branch,Escalated,5
+CMP01171,C01375,P006,Loan Statement Error,2023-08-08,2023-08-15,7,7,0,Call Centre,Resolved,2
+CMP01172,C01524,P007,Account Access,2024-06-21,2024-06-22,1,3,0,Branch,Resolved,5
+CMP01173,C01115,P005,Transaction Dispute,2023-10-07,2023-10-18,11,5,1,Call Centre,Resolved,2
+CMP01174,C01321,P003,Loan Statement Error,2024-08-23,2024-08-27,4,7,0,Call Centre,Pending,3
+CMP01175,C01171,P008,Incorrect Charges,2024-02-13,2024-02-18,5,5,0,Branch,Resolved,3
+CMP01176,C00892,P003,Loan Statement Error,2023-03-27,2023-04-02,6,7,0,Mobile App,Resolved,2
+CMP01177,C00462,P005,Loan Statement Error,2024-07-20,2024-07-27,7,7,0,Call Centre,Resolved,4
+CMP01178,C00737,P005,Account Access,2023-06-21,2023-06-24,3,3,0,Online Banking,Resolved,5
+CMP01179,C01767,P008,Fraud Report,2024-12-11,2024-12-12,1,1,0,Call Centre,Resolved,1
+CMP01180,C00081,P008,Account Access,2024-10-19,2024-10-20,1,3,0,Call Centre,Escalated,1
+CMP01181,C01757,P005,Loan Statement Error,2023-07-13,2023-07-26,13,7,1,Mobile App,Resolved,4
+CMP01182,C00293,P006,Account Access,2023-02-07,2023-02-12,5,3,1,Mobile App,Escalated,3
+CMP01183,C00335,P001,Account Access,2024-09-15,2024-09-18,3,3,0,Online Banking,Pending,4
+CMP01184,C00501,P008,Poor Service,2024-04-16,2024-04-17,1,10,0,Mobile App,Pending,3
+CMP01185,C00574,P003,Fraud Report,2023-07-14,2023-07-15,1,1,0,Mobile App,Resolved,4
+CMP01186,C01257,P009,Transaction Dispute,2024-03-11,2024-03-15,4,5,0,Mobile App,Escalated,4
+CMP01187,C00440,P008,Loan Statement Error,2023-11-27,2023-12-10,13,7,1,Call Centre,Resolved,1
+CMP01188,C01149,P004,Fraud Report,2024-02-12,2024-02-13,1,1,0,Online Banking,Resolved,4
+CMP01189,C01598,P002,Online Banking Issue,2023-09-22,2023-09-25,3,3,0,Branch,Escalated,4
+CMP01190,C01707,P002,Fraud Report,2024-02-28,2024-02-29,1,1,0,Mobile App,Resolved,3
+CMP01191,C01889,P007,Loan Statement Error,2023-04-24,2023-04-27,3,7,0,Mobile App,Escalated,5
+CMP01192,C01916,P009,Loan Statement Error,2023-07-05,2023-07-07,2,7,0,Call Centre,Resolved,5
+CMP01193,C00869,P009,Account Access,2024-06-28,2024-07-01,3,3,0,Online Banking,Resolved,2
+CMP01194,C01101,P003,Fraud Report,2024-10-04,2024-10-07,3,1,1,Branch,Resolved,3
+CMP01195,C01006,P002,Online Banking Issue,2024-11-20,2024-11-23,3,3,0,ATM,Resolved,2
+CMP01196,C00778,P004,Fraud Report,2024-04-01,2024-04-02,1,1,0,Branch,Resolved,2
+CMP01197,C01808,P006,Fraud Report,2024-11-12,2024-11-23,11,1,1,Online Banking,Escalated,5
+CMP01198,C00095,P002,Loan Statement Error,2023-03-26,2023-04-04,9,7,1,Online Banking,Resolved,4
+CMP01199,C01871,P004,Fraud Report,2024-02-03,2024-02-04,1,1,0,Mobile App,Resolved,4
+CMP01200,C00892,P009,Loan Statement Error,2024-09-30,2024-10-03,3,7,0,Mobile App,Escalated,5

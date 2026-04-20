@@ -1,0 +1,9 @@
+complaint_category,sla_target_days,priority
+Transaction Dispute,5,Medium
+Card Blocked / Lost,2,High
+Incorrect Charges,5,Medium
+Online Banking Issue,3,High
+Loan Statement Error,7,Medium
+Account Access,3,High
+Poor Service,10,Low
+Fraud Report,1,High
